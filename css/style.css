@@ -374,6 +374,14 @@ ul.social_icon li a:hover {
      justify-content: center;
 }
 
+.three_box .container {
+     padding: 0 50px;
+}
+
+.gift_box {
+     margin-bottom: 20px;
+}
+
 .bagian {
      margin-top: 80px;
      padding: 0 45px;
@@ -610,6 +618,24 @@ ul.right_icon li img {
      padding: 0 30px;
 }
 
+#konten p {
+     font-weight: normal;
+     width: 600px;
+     text-align: justify; 
+     text-indent: 0.5in;
+}
+
+#daftarartikel p {
+     color: #c8ae79;
+     padding: 0 30px;
+     font-size: 18px;
+     font-weight: normal;
+}
+
+#daftarartikel h2 {
+     font-size: 30px;
+}
+
 .titlepage h2 img {
      padding-right: 10px;
 }
@@ -688,6 +714,36 @@ ul.right_icon li img {
      background: #03cafc;
      color: #fff !important;
      transition: ease-in all 0.5s;
+}
+
+.pagination {
+     margin: 0 50px;
+     font-weight: bold;
+}
+
+.pagination > li > a
+{
+    background-color: white;
+    color: #B90E0A;
+    border: solid 1.5px #c8ae79 !Important;
+    border-radius: 0 !important;
+    padding: 13px 20px;
+}
+
+
+
+.pagination > li > a:focus,
+.pagination > li > a:hover,
+.pagination > li > span:focus,
+.pagination > li > span:hover
+{
+    color: white;
+    background-color: #B90E0A;
+}
+
+.pagination > .active > a {
+     color: white;
+     background-color: #B90E0A !Important;
 }
 
 
@@ -825,11 +881,25 @@ margin: 0 15px 20px 15px;
      margin: 100px 90px 90px;
 }
 
-.news .titlepage h2 {
+.news .titlepage {
      margin-bottom: 15px;
      padding-bottom: 10px;
      border-bottom: #B90E0A solid 5px;
      text-align: center;
+}
+
+#nonhome h2, #nonhome p {
+     text-align: left;
+     margin-left: 30px;
+}
+
+#judulartikel p {
+     color: #c8ae79;
+     font-size: 18px;
+}
+
+#judulartikel {
+     text-align: left;
 }
 
 .margin_top40 {

@@ -1035,6 +1035,10 @@ margin: 0 15px 20px 15px;
      display: block;
 }
 
+.gift_box h1, .gift_box p {
+     margin: 0 5px 0;
+}
+
 
 /** three_box section **/
 

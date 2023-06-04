@@ -380,7 +380,7 @@ ul.social_icon li a:hover {
 }
 
 .logo {
-     width: 5%;
+     width: 4%;
      text-align: center;
      display: block;
 }
@@ -544,8 +544,8 @@ ul.right_icon li img {
 }
 
 .ban_img {
-margin-right: -45px;
-position: absolute;
+     margin-right: -45px;
+     position: absolute;
 }
 
 .text-bg h1 {
@@ -607,7 +607,7 @@ position: absolute;
 .opening {
      margin-bottom: 100px;
      color: black;
-     padding: 0 45px;
+     padding: 0 30px;
 }
 
 .titlepage h2 img {
@@ -821,8 +821,8 @@ margin: 0 15px 20px 15px;
 
 .news {
      background-color: #fff;
-     padding: 90px 0 90px;
-     margin: 150px 90px 90px;
+     padding: 60px 0 90px;
+     margin: 100px 90px 90px;
 }
 
 .news .titlepage h2 {

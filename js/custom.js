@@ -131,11 +131,17 @@ function openModal() {
   }
   
   function showSlides(n) {
+	console.log(slideIndex);
+	console.log(n);
 	var i;
 	var slides = document.querySelectorAll('.gallery__item img');
+	console.log(slides.length);
 	var captionText = document.getElementsByClassName("numbertext")[0];
 	var modalImg = document.querySelector('.modal-content img');
-	n %= slides.length;
+	if (slideIndex == -1) {
+		n = slides.length - 1;
+		slideIndex = n;
+	} else n %= slides.length;
 	modalImg.src = slides[n].src;
 	captionText.innerHTML = n + 1 + ' / ' + slides.length;
   }

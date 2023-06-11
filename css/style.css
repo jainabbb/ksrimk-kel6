@@ -629,6 +629,12 @@ ul.right_icon li img {
      padding-bottom: 10px;
 }
 
+.opening h1 {
+     color: #c8ae79;
+     font-size: 18px;
+     font-weight: normal;
+}
+
 .opening {
      margin-bottom: 100px;
      color: black;
@@ -670,6 +676,19 @@ ul.right_icon li img {
      margin: 0 30px;
 }
 
+#about h1 {
+     margin: 0 30px;
+}
+
+.pdf img {
+     width: 10%;
+     float: left;
+}
+
+.pdf span {
+     font-weight: bold;
+}
+
 #daftarartikel p {
      color: #c8ae79;
      padding: 0 30px;
@@ -690,6 +709,7 @@ ul.right_icon li img {
      grid-template-columns: repeat(7, 1fr);
      grid-template-rows: repeat(5, 5vw);
      grid-gap: 0 14px;
+     padding: 0 50px;
 }
 
 .fullgallery {

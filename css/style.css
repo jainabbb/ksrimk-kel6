@@ -391,6 +391,7 @@ ul.social_icon li a:hover {
      width: 4%;
      text-align: center;
      display: block;
+     margin-left: 2.5%;
 }
 
 #logo {
@@ -536,7 +537,8 @@ ul.right_icon li img {
      opacity: .75; 
      z-index: -1;
      background: url(../images/banner.jpg);
-     background-size: 100% 100%;
+     background-position: center 80%;
+     background-size: cover;
      background-repeat: no-repeat;
      background-attachment: fixed;
    }
@@ -1023,7 +1025,7 @@ margin: 0 15px 20px 15px;
 .news {
      background-color: rgb(255, 255, 255);
      padding: 60px 0 90px;
-     margin: 100px 90px 90px;
+     margin: 90px 90px 90px;
      transition: 5s;
      transform: translateY(0);
 }

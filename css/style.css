@@ -683,6 +683,7 @@ ul.right_icon li img {
 .pdf img {
      width: 10%;
      float: left;
+     margin-left: 12px;
 }
 
 .pdf span {

@@ -101,7 +101,7 @@
             </div>
             <div class="opening" style="padding-left: 0; padding-right: 0; margin-bottom: 0;" id="about">
             <?php
-               $file = file_get_contents("konten pengumuman 1.txt");
+               $file = file_get_contents("../konten pengumuman 1.txt");
                if (!strpos($file, $_GET['search'])) {
                    echo "String not found!";
                } else {

@@ -79,7 +79,7 @@
                      </div>
                      <div class="col-md-4">
                         <div class="search">
-                           <form action="action_page.php">
+                           <form action="action_page.php" method="get">
                               <input class="form_sea" type="text" placeholder="Cari artikel atau pengumuman" name="search">
                               <button type="submit" class="seach_icon"><i class="fa fa-search"></i></button>
                            </form>

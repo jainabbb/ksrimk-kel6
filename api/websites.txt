@@ -1,1 +1,3 @@
-../konten pengumuman 1.html
+konten artikel.html
+konten artikel 2.html
+konten artikel 3.html

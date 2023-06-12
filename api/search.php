@@ -74,7 +74,7 @@
                      </div>
                      <div class="col-md-4">
                         <div class="search">
-                           <form action="action_page.php">
+                           <form action="search.php">
                               <input class="form_sea" type="text" placeholder="Cari artikel atau pengumuman" name="search">
                               <button type="submit" class="seach_icon"><i class="fa fa-search"></i></button>
                            </form>
@@ -93,79 +93,119 @@
             <div class="container" style="padding-left: 0; padding-right: 0;">
                 <div class="row">
                    <div class="col-md-12">
-                      <div class="titlepage" id="judulartikel">
-                         <h2>Hasil Pencarian</h2>
+                      <div class="titlepage">
+                         <h2 id="judulsearch">Hasil Pencarian</h2>
                       </div>
                    </div>
                 </div>
             </div>
-            <div class="opening" style="padding-left: 0; padding-right: 0; margin-bottom: 0;" id="about">
+            <div style="padding-left: 0; padding-right: 0; margin-bottom: 0;">
+            <div class="" style="padding-bottom: 0" id="daftarar">
+               <h2 id="adar" style="font-size: 24px;"></h2>
+            </div>
             <?php
-                require('simple_html_dom.php');
-                $searchString = $_POST['search'];
+               require('simple_html_dom.php');
+               $searchString = $_POST['search'];
 
-                // cari artikel
-                $i = 0; $j = 15; $k = 0;
-                $articles = file('websites.txt', FILE_USE_INCLUDE_PATH);
-                $articles2 = file('websites2.txt', FILE_USE_INCLUDE_PATH);
-                echo '<div class="three_box">
-                            <div class="container">
-                                <div class="row" id="artikeldiv">';
-                $artlist = file_get_html('artikel1.html', true);
-                $artlist2 = file_get_html('artikel2.html', true);
-                foreach($articles as $article) {
-                    $i++;
-                    $content = file_get_html(rtrim($article), true);
-                    $judul = $content->find('#judulartikel');
-                    $isi = $content->find('#konten');
-                    if(stripos($judul[0]->plaintext, $searchString) !== false) {
+               // cari artikel
+               $i = 0; $j = 15; $k = 0;
+               $articles = file('websites.txt', FILE_USE_INCLUDE_PATH);
+               $articles2 = file('websites2.txt', FILE_USE_INCLUDE_PATH);
+               echo '<div class="three_box" id="three_box">
+                        <div class="container">
+                           <div class="row" id="artikeldiv">';
+               $artlist = file_get_html('artikel1.html', true);
+               $artlist2 = file_get_html('artikel2.html', true);
+               foreach($articles as $article) {
+                  $i++;
+                  $content = file_get_html(rtrim($article), true);
+                  $judul = $content->find('#judulartikel');
+                  $isi = $content->find('#konten');
+                  if(stripos($judul[0]->plaintext, $searchString) !== false) {
+                     $isiart = $artlist->find('#artikel'.$i);
+                     echo $isiart[0]->outertext;
+                     $k++;
+                  } else {
+                     if(stripos($isi[0]->plaintext, $searchString) !== false) {
                         $isiart = $artlist->find('#artikel'.$i);
                         echo $isiart[0]->outertext;
                         $k++;
-                    } else {
-                        if(stripos($isi[0]->plaintext, $searchString) !== false) {
-                            $isiart = $artlist->find('#artikel'.$i);
-                            echo $isiart[0]->outertext;
-                            $k++;
-                        }
-                    }
-                }
-                foreach($articles2 as $article) {
-                    $j++;
-                    $content = file_get_html(rtrim($article), true);
-                    $judul = $content->find('#judulartikel');
-                    $isi = $content->find('#konten');
-                    if(stripos($judul[0]->plaintext, $searchString) !== false) {
-                        $isiart = $artlist2->find('#artikel'.$j);
-                        echo $isiart[0]->outertext;
-                        $k++;
-                    } else {
-                        if(stripos($isi[0]->plaintext, $searchString) !== false) {
-                            $isiart = $artlist2->find('#artikel'.$j);
-                            echo $isiart[0]->outertext;
-                            $k++;
-                        }
-                    }
-                }
-                echo '          </div>
-                            </div>
-                        </div>';
-                if ($k == 0) echo 'not found';
-                echo '<br>';
+                     }
+                  }
+               }
+               foreach($articles2 as $article) {
+                  $j++;
+                  $content = file_get_html(rtrim($article), true);
+                  $judul = $content->find('#judulartikel');
+                  $isi = $content->find('#konten');
+                  if(stripos($judul[0]->plaintext, $searchString) !== false) {
+                     $isiart = $artlist2->find('#artikel'.$j);
+                     echo $isiart[0]->outertext;
+                     $k++;
+                  } else {
+                     if(stripos($isi[0]->plaintext, $searchString) !== false) {
+                           $isiart = $artlist2->find('#artikel'.$j);
+                           echo $isiart[0]->outertext;
+                           $k++;
+                     }
+                  }
+               }
+               echo '          </div>
+                           </div>
+                     </div>';
 
-                // cari pengumuman
-                $html = file_get_html('pengumuman.html', true);
-                $pengumuman = $html->find('.daftarp div');
-                $pengumumanp = $html->find('.daftarp');
-                $i = 0; $j = 0;
-                foreach ($pengumuman as $item) {
-                    if (stripos($item->plaintext, $searchString) !== false) {
-                        echo $pengumumanp[$i]->outertext;
-                        $j++;
-                    }
-                    $i++;
-                }
-                if ($j == 0) echo "not found";
+               // cari pengumuman
+               echo '<div class="" style="padding-bottom: 0; margin-bottom: 10px" id="daftarp">
+                        <h2 id="adap" style="font-size: 24px;"></h2>
+                     </div>';
+               $html = file_get_html('pengumuman.html', true);
+               $pengumuman = $html->find('.daftarp div');
+               $pengumumanp = $html->find('.daftarp');
+               $a = 0; $b = 0;
+               foreach ($pengumuman as $item) {
+                  if (stripos($item->plaintext, $searchString) !== false) {
+                     echo $pengumumanp[$a]->outertext;
+                     $b++;
+                  }
+                  $a++;
+               }
+
+               // judul page
+               if ($k == 0) {
+                  if ($b == 0) {
+                     echo "<script>document.getElementById('judulsearch').innerText += ' \"tidak ada hasil\"'</script>";
+                     echo '<div class="opening" style="text-align: center; margin: 80px 0">
+                              <img src="../images/no result.png" alt="no result" width="100">
+                              <br><br>
+                              <p style="font-size: 18px; font-weight: normal;">Tidak ada hasil</p>
+                           </div>';
+                  } else {
+                     echo "<script>";
+                     echo "document.getElementById('judulsearch').innerText += ' \"ada pengumuman\"';
+                           document.getElementById('daftarp').classList.add('daftarp');
+                           document.getElementById('adap').innerText += 'Pengumuman ditemukan';
+                           document.getElementById('daftarar').style.display = 'none';
+                           document.getElementById('three_box').style.display = 'none';";
+                     echo "</script>";
+                  }
+               } else {
+                  if ($b == 0) {
+                     echo "<script>";
+                     echo "document.getElementById('judulsearch').innerText += ' \"ada artikel\"';
+                           document.getElementById('daftarar').classList.add('daftarp');
+                           document.getElementById('adar').innerText += 'Artikel ditemukan';
+                           document.getElementById('daftarp').style.display = 'none';";
+                     echo "</script>";
+                  } else {
+                     echo "<script>";
+                     echo "document.getElementById('judulsearch').innerText += ' \"ada artikel dan pengumuman\"';
+                           document.getElementById('daftarar').classList.add('daftarp');
+                           document.getElementById('adar').innerText += 'Artikel ditemukan';
+                           document.getElementById('daftarp').classList.add('daftarp');
+                           document.getElementById('adap').innerText += 'Pengumuman ditemukan'";
+                     echo "</script>";
+                  }
+               }
             ?>
             </div>
          </div>

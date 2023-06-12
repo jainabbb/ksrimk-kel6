@@ -614,7 +614,7 @@ ul.right_icon li img {
      }
 }
 
-.titlepage h2, .opening h2, .gift_box h1 {
+.titlepage h2, .opening h2, .gift_box h1, #adar, #adap {
      color: #B90E0A;
      line-height: 40px;
      font-weight: bold;
@@ -1085,7 +1085,7 @@ margin: 0 15px 20px 15px;
 
 #nonhome h2, #nonhome p {
      text-align: left;
-     margin-left: 30px;
+     /* margin-left: 30px; */
 }
 
 #judulartikel p {
@@ -1093,7 +1093,7 @@ margin: 0 15px 20px 15px;
      font-size: 18px;
 }
 
-#judulartikel {
+#judulartikel, #judulsearch {
      text-align: left;
 }
 

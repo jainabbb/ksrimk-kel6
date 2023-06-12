@@ -394,6 +394,13 @@ ul.social_icon li a:hover {
      margin-left: 2.5%;
 }
 
+.logo-mobile {
+     width: 10%;
+     text-align: center;
+     display: block;
+     margin-left: 2.5%;
+}
+
 #logo {
      float: left;    
      margin: 0 3% 0 3%;
@@ -523,7 +530,7 @@ ul.right_icon li img {
 /** banner section **/
 
 .banner_main {
-     padding: 97px 0px 0px 0px;
+     padding: 5% 0px 0px 0px;
      min-height: 698px;
      position: relative;
      z-index: 1;

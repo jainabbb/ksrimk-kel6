@@ -112,7 +112,7 @@
                 require('simple_html_dom.php');
                 // $searchString = $_POST['search'];
                 // $sites = file( $fileWithWebsitesOnEachLine );
-                $html = file_get_html('../pengumuman.html', true);
+                $html = file_get_html('pengumuman.html', true);
                 $judul = $html->find('.daftarp');
                 echo $judul[0]->outertext;
             ?>

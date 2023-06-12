@@ -158,7 +158,7 @@
                echo '<div class="" style="padding-bottom: 0; margin-bottom: 10px" id="daftarp">
                         <h2 id="adap" style="font-size: 24px;"></h2>
                      </div>';
-               $html = file_get_html('pengumuman.html', true);
+               $html = file_get_html('pengumuman.php', true);
                $pengumuman = $html->find('.daftarp div');
                $pengumumanp = $html->find('.daftarp');
                $a = 0; $b = 0;

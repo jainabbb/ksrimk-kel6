@@ -113,8 +113,10 @@
                   </div>
                </div>
                <div class="opening" style="padding-left: 1.5%; padding-right: 1.5%; margin-bottom: 3%;" id="about">
-                  <h2>Pengumuman 1</h2>
-                  <h1>01-01-2023</h1>
+                  <a href="konten pengumuman 1.html">
+                     <h2>Pengumuman 1</h2>
+                     <h1>01-01-2023</h1>
+                  </a>
                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam pariatur, ullam unde earum, est sapiente odit iste dolore ratione quis consequatur. Repellat unde dolor vero ab. Eos earum qui deserunt!
                      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis blanditiis architecto doloremque in obcaecati accusantium laboriosam, dicta illum saepe corporis ducimus aperiam quam enim, laudantium nostrum autem sapiente vitae quasi?
                   </p>

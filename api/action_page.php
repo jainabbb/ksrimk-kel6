@@ -94,19 +94,27 @@
                 <div class="row">
                    <div class="col-md-12">
                       <div class="titlepage" id="judulartikel">
-                         <h2>Tentang</h2>
+                         <h2>Hasil Pencarian</h2>
                       </div>
                    </div>
                 </div>
             </div>
             <div class="opening" style="padding-left: 0; padding-right: 0; margin-bottom: 0;" id="about">
             <?php
-               $file = file_get_contents('konten pengumuman 1.txt', true);
-               if (!strpos($file, $_POST['search'])) {
-                   echo "String not found!";
-               } else {
-                   echo "String found!";
-               }
+            //    $file = file_get_contents('konten pengumuman 1.txt', true);
+            //    if (!strpos($file, $_POST['search'])) {
+            //        echo "String not found!";
+            //    } else {
+            //        echo "String found!";
+            //    }
+                // $fileWithWebsitesOnEachLine = 'websites.txt';
+                // $file = file_get_contents('../konten pengumuman 1.html', true);
+                require('simple_html_dom.php');
+                // $searchString = $_POST['search'];
+                // $sites = file( $fileWithWebsitesOnEachLine );
+                $html = file_get_html('../pengumuman.html', true);
+                $judul = $html->find('.daftarp');
+                echo $judul[0]->outertext;
             ?>
             </div>
          </div>

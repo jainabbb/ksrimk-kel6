@@ -106,8 +106,8 @@
 
                 // cari artikel
                 $i = 0; $j = 15; $k = 0;
-                $articles = file('websites.txt');
-                $articles2 = file('websites2.txt');
+                $articles = file('websites.txt', FILE_USE_INCLUDE_PATH);
+                $articles2 = file('websites2.txt', FILE_USE_INCLUDE_PATH);
                 echo '<div class="three_box">
                             <div class="container">
                                 <div class="row" id="artikeldiv">';

@@ -13,15 +13,15 @@
       <meta name="description" content="">
       <meta name="author" content="">
       <!-- bootstrap css -->
-      <link rel="stylesheet" href="css/bootstrap.min.css">
+      <link rel="stylesheet" href="../css/bootstrap.min.css">
       <!-- style css -->
-      <link rel="stylesheet" href="css/style.css">
+      <link rel="stylesheet" href="../css/style.css">
       <!-- Responsive-->
-      <link rel="stylesheet" href="css/responsive.css">
+      <link rel="stylesheet" href="../css/responsive.css">
       <!-- fevicon -->
-      <link rel="icon" href="images/fevicon.png" type="image/gif">
+      <link rel="icon" href="../images/fevicon.png" type="image/gif">
       <!-- Scrollbar Custom CSS -->
-      <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
+      <link rel="stylesheet" href="../css/jquery.mCustomScrollbar.min.css">
       <!-- Tweaks for older IEs-->
       <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
@@ -41,7 +41,7 @@
          <!-- header inner -->
          <div class="header">
             <div class="header_bottom d_flex">
-               <a class="logo" href="#"><img src="images/logo.png" alt="#"></a>
+               <a class="logo" href="#"><img src="../images/logo.png" alt="#"></a>
                <div class="container" style="margin-left: 10px;">
                   <div class="row">
                      <div class="col-xl-8 col-lg-8 col-md-8 col-sm-8">
@@ -52,20 +52,20 @@
                            <div class="collapse navbar-collapse" id="navbarsExample04">
                               <ul class="navbar-nav mr-auto">
                                  <li class="nav-item">
-                                    <a class="nav-link" href="index.html">Beranda</a>
+                                    <a class="nav-link" href="index.php">Beranda</a>
                                  </li>
                                  <li class="nav-item">
-                                    <a class="nav-link" href="artikel1.html">Artikel</a>
+                                    <a class="nav-link" href="artikel1.php">Artikel</a>
                                  </li>
                                  <li class="nav-item active">
-                                    <a class="nav-link" href="galeri.html">Galeri</a>
+                                    <a class="nav-link" href="galeri.php">Galeri</a>
                                     <div class="underline"></div>
                                  </li>
                                  <li class="nav-item">
-                                    <a class="nav-link" href="pengumuman.html">Pengumuman</a>
+                                    <a class="nav-link" href="pengumuman.php">Pengumuman</a>
                                  </li>
                                  <li class="nav-item">
-                                    <a class="nav-link" href="tentang.html">Tentang</a>
+                                    <a class="nav-link" href="tentang.php">Tentang</a>
                                  </li>
                               </ul>
                            </div>
@@ -73,7 +73,7 @@
                      </div>
                      <div class="col-md-4">
                         <div class="search">
-                           <form action="/search.php">
+                           <form action="search.php" method="post">
                               <input class="form_sea" type="text" placeholder="Cari artikel atau pengumuman" name="search">
                               <button type="submit" class="seach_icon"><i class="fa fa-search"></i></button>
                            </form>
@@ -98,40 +98,40 @@
                </div>
                <div class="fullgallery">
                   <figure class="gallery__item gallery__item-1">
-                     <img src="images/banner.jpg" class="gallery__img" alt="Image 1" onclick="openModal();currentSlide(0)" class="hover-shadow cursor">
+                     <img src="../images/banner.jpg" class="gallery__img" alt="Image 1" onclick="openModal();currentSlide(0)" class="hover-shadow cursor">
                   </figure>
                   <figure class="gallery__item gallery__item-2">
-                     <img src="images/donor.jpg" alt="Gallery image 2" class="gallery__img" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
+                     <img src="../images/donor.jpg" alt="Gallery image 2" class="gallery__img" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
                   </figure>
                   <figure class="gallery__item gallery__item-3">
-                     <img src="images/pmi.jpg" alt="Gallery image 3" class="gallery__img" onclick="openModal();currentSlide(2)" class="hover-shadow cursor">
+                     <img src="../images/pmi.jpg" alt="Gallery image 3" class="gallery__img" onclick="openModal();currentSlide(2)" class="hover-shadow cursor">
                   </figure>
                   <figure class="gallery__item gallery__item-4">
-                     <img src="images/latian.jpg" alt="Gallery image 4" class="gallery__img" onclick="openModal();currentSlide(3)" class="hover-shadow cursor">
+                     <img src="../images/latian.jpg" alt="Gallery image 4" class="gallery__img" onclick="openModal();currentSlide(3)" class="hover-shadow cursor">
                   </figure>
                   <figure class="gallery__item gallery__item-5">
-                     <img src="images/pmi jabar.jpeg" alt="Gallery image 5" class="gallery__img" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
+                     <img src="../images/pmi jabar.jpeg" alt="Gallery image 5" class="gallery__img" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
                   </figure>
                   <figure class="gallery__item gallery__item-6">
-                     <img src="images/banner.jpg" class="gallery__img" alt="Image 6" onclick="openModal();currentSlide(5)" class="hover-shadow cursor">
+                     <img src="../images/banner.jpg" class="gallery__img" alt="Image 6" onclick="openModal();currentSlide(5)" class="hover-shadow cursor">
                   </figure>
                   <figure class="gallery__item gallery__item-7">
-                     <img src="images/donor.jpg" alt="Gallery image 7" class="gallery__img" onclick="openModal();currentSlide(6)" class="hover-shadow cursor">
+                     <img src="../images/donor.jpg" alt="Gallery image 7" class="gallery__img" onclick="openModal();currentSlide(6)" class="hover-shadow cursor">
                   </figure>
                   <figure class="gallery__item gallery__item-8">
-                     <img src="images/pmi.jpg" alt="Gallery image 8" class="gallery__img" onclick="openModal();currentSlide(7)" class="hover-shadow cursor">
+                     <img src="../images/pmi.jpg" alt="Gallery image 8" class="gallery__img" onclick="openModal();currentSlide(7)" class="hover-shadow cursor">
                   </figure>
                   <figure class="gallery__item gallery__item-9">
-                     <img src="images/latian.jpg" alt="Gallery image 9" class="gallery__img" onclick="openModal();currentSlide(8)" class="hover-shadow cursor">
+                     <img src="../images/latian.jpg" alt="Gallery image 9" class="gallery__img" onclick="openModal();currentSlide(8)" class="hover-shadow cursor">
                   </figure>
                   <figure class="gallery__item gallery__item-10">
-                     <img src="images/pmi jabar.jpeg" alt="Gallery image 10" class="gallery__img" onclick="openModal();currentSlide(9)" class="hover-shadow cursor">
+                     <img src="../images/pmi jabar.jpeg" alt="Gallery image 10" class="gallery__img" onclick="openModal();currentSlide(9)" class="hover-shadow cursor">
                   </figure>
                   <figure class="gallery__item gallery__item-11">
-                     <img src="images/banner.jpg" class="gallery__img" alt="Image 11" onclick="openModal();currentSlide(10)" class="hover-shadow cursor">
+                     <img src="../images/banner.jpg" class="gallery__img" alt="Image 11" onclick="openModal();currentSlide(10)" class="hover-shadow cursor">
                   </figure>
                   <figure class="gallery__item gallery__item-12">
-                     <img src="images/donor.jpg" alt="Gallery image 12" class="gallery__img" onclick="openModal();currentSlide(11)" class="hover-shadow cursor">
+                     <img src="../images/donor.jpg" alt="Gallery image 12" class="gallery__img" onclick="openModal();currentSlide(11)" class="hover-shadow cursor">
                   </figure>
                </div>
             </div>
@@ -164,7 +164,7 @@
                      </form>
                   </div>
                   <div class="col-md-6">
-                     <img src="images/location.png" alt="location" width="100" id="location">
+                     <img src="../images/location.png" alt="location" width="100" id="location">
                      <span>Sekretariat KSR PMI Unit STIS Ruang PMKL, Gedung 3 Lantai 3</span><br>
                      <span>Politeknik Statistika STIS</span><br>
                      <span>Jalan Otto Iskandardinata 64C,</span><br>
@@ -172,9 +172,9 @@
                   </div>
                </div>
                <div class="socials">
-                     <a href="mailto:ksrpmi@stis.ac.id"><img src="images/email.png" alt="email" width="35"></a>
-                     <a href="https://twitter.com/ksr_stis" target=”_blank”><img src="images/twitter.png" alt="twitter" width="50"></a>
-                     <a href="https://www.instagram.com/ksr_stis/" target=”_blank”><img src="images/instagram.png" alt="twitter" width="30"></a>
+                     <a href="mailto:ksrpmi@stis.ac.id"><img src="../images/email.png" alt="email" width="35"></a>
+                     <a href="https://twitter.com/ksr_stis" target=”_blank”><img src="../images/twitter.png" alt="twitter" width="50"></a>
+                     <a href="https://www.instagram.com/ksr_stis/" target=”_blank”><img src="../images/instagram.png" alt="twitter" width="30"></a>
                </div>
                <div class="socials">
                   <p>© Copyright 2023, Politeknik Statistika STIS</p>
@@ -195,13 +195,13 @@
          <a class="next" onclick="plusSlides(1)">&#10095;</a>
        </div>
       <!-- Javascript files-->
-      <script src="js/jquery.min.js"></script>
-      <script src="js/popper.min.js"></script>
-      <script src="js/bootstrap.bundle.min.js"></script>
-      <script src="js/jquery-3.0.0.min.js"></script>
+      <script src="../js/jquery.min.js"></script>
+      <script src="../js/popper.min.js"></script>
+      <script src="../js/bootstrap.bundle.min.js"></script>
+      <script src="../js/jquery-3.0.0.min.js"></script>
       <!-- sidebar -->
-      <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
-      <script src="js/custom.js"></script>
+      <script src="../js/jquery.mCustomScrollbar.concat.min.js"></script>
+      <script src="../js/custom.js"></script>
    </body>
 </html>
 

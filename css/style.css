@@ -451,6 +451,7 @@ ul.right_icon li img {
 .navigation.navbar {
      float: left;
      padding: 0;
+     height: 100%;
 }
 
 .navigation.navbar-dark .navbar-nav .nav-link {
@@ -484,6 +485,7 @@ ul.right_icon li img {
 
 .navbar-expand-md .navbar-nav {
      padding-right: 10px;
+     height: 100%;
 }
 
 #navbarsExample04 ul li.active .underline {

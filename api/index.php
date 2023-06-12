@@ -58,20 +58,20 @@
                               <ul class="navbar-nav mr-auto">
                                  </li>
                                  <li class="nav-item active">
-                                    <a class="nav-link" href="../index.html">Beranda</a>
+                                    <a class="nav-link" href="index.php">Beranda</a>
                                     <div class="underline"></div>
                                  </li>
                                  <li class="nav-item">
-                                    <a class="nav-link" href="../artikel1.html">Artikel</a>
+                                    <a class="nav-link" href="artikel1.php">Artikel</a>
                                  </li>
                                  <li class="nav-item">
-                                    <a class="nav-link" href="../galeri.html">Galeri</a>
+                                    <a class="nav-link" href="galeri.php">Galeri</a>
                                  </li>
                                  <li class="nav-item">
-                                    <a class="nav-link" href="../pengumuman.html">Pengumuman</a>
+                                    <a class="nav-link" href="pengumuman.php">Pengumuman</a>
                                  </li>
                                  <li class="nav-item">
-                                    <a class="nav-link" href="../tentang.html">Tentang</a>
+                                    <a class="nav-link" href="tentang.php">Tentang</a>
                                  </li>
                               </ul>
                            </div>
@@ -113,7 +113,7 @@
                   </div>
                </div>
                <div class="opening" style="padding-left: 1.5%; padding-right: 1.5%; margin-bottom: 3%;" id="about">
-                  <a href="konten pengumuman 1.html">
+                  <a href="konten pengumuman 1.php">
                      <h2>Pengumuman 1</h2>
                      <h1>01-01-2023</h1>
                   </a>
@@ -133,7 +133,7 @@
                <div class="row">
                   <div class="col-md-12">
                      <div class="artbutton">
-                        <a href="../pengumuman.html"><button class="sumbit">Pengumuman Lainnya</button></a>
+                        <a href="pengumuman.php"><button class="sumbit">Pengumuman Lainnya</button></a>
                      </div>
                   </div>
                </div>
@@ -154,7 +154,7 @@
                               <i><img src="../images/pmi.jpg" alt="pmi"></i>
                               <h1>Artikel 1</h1>
                               <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-                              <a href="../konten artikel.html"><button class="sumbit">Lihat Selengkapnya</button></a>
+                              <a href="konten artikel.php"><button class="sumbit">Lihat Selengkapnya</button></a>
                            </div>
                         </div>
                         <div class="col-md-4">
@@ -179,7 +179,7 @@
                <div class="row">
                   <div class="col-md-12">
                      <div class="artbutton">
-                        <a href="../artikel1.html"><button class="sumbit">Artikel Lainnya</button></a>
+                        <a href="artikel1.php"><button class="sumbit">Artikel Lainnya</button></a>
                      </div>
                   </div>
                </div>
@@ -212,7 +212,7 @@
                <div class="row">
                   <div class="col-md-12">
                      <div class="artbutton">
-                        <a href="../galeri.html"><button class="sumbit">Foto Lainnya</button></a>
+                        <a href="galeri.php"><button class="sumbit">Foto Lainnya</button></a>
                      </div>
                   </div>
                </div>

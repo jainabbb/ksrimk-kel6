@@ -98,8 +98,8 @@
                </div>
                <div class="opening daftarp" id="about">
                   <div>
-                     <a href="konten pengumuman 1.php">
-                        <h2>Pengumuman 1</h2>
+                     <a href="konten pengumuman 6.php">
+                        <h2>Pengumuman 6</h2>
                         <h1>01-01-2023</h1>
                      </a>
                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam pariatur, ullam unde earum, est sapiente odit iste dolore ratione quis consequatur. Repellat unde dolor vero ab. Eos earum qui deserunt!
@@ -112,15 +112,15 @@
                   <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pasca_diklat.pdf" target=”_blank” class="pdf">
                         <img src="../images/pdf.png" alt="unduh">
                         <span><br></span>
-                        <span>Dokumen 1</span> <br>
+                        <span>Dokumen 6</span> <br>
                         <span style="color: #c8ae79">Buka Dokumen</span>
                   </a>
                   <br>
                </div>
                <div class="opening daftarp" id="about">
                   <div>
-                     <a href="konten pengumuman 2.php">
-                        <h2>Pengumuman 2</h2>
+                     <a href="konten pengumuman 7.php">
+                        <h2>Pengumuman 7</h2>
                         <h1>01-01-2023</h1>
                      </a>
                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam pariatur, ullam unde earum, est sapiente odit iste dolore ratione quis consequatur. Repellat unde dolor vero ab. Eos earum qui deserunt!
@@ -133,19 +133,19 @@
                   <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pasca_diklat.pdf" target=”_blank” class="pdf">
                         <img src="../images/pdf.png" alt="unduh">
                         <span><br></span>
-                        <span>Dokumen 2</span> <br>
+                        <span>Dokumen 7</span> <br>
                         <span style="color: #c8ae79">Buka Dokumen</span>
                   </a>
                   <br>
                </div>
                <div class="opening daftarp" id="about">
                   <div>
-                     <a href="konten pengumuman 3.php">
-                        <h2>Pengumuman 3</h2>
+                     <a href="konten pengumuman 8.php">
+                        <h2>Pengumuman 8</h2>
                         <h1>01-01-2023</h1>
                      </a>
-                     <p>aku Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam pariatur, ullam unde earum, est sapiente odit iste dolore ratione quis consequatur. Repellat unde dolor vero ab. Eos earum qui deserunt!
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis blanditiis architecto doloremque in obcaecati accusantium laboriosam, dicta illum saepe corporis ducimus aperiam quam enim, laudantium nostrum autem sapiente vitae quasi?
+                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam pariatur, ullam unde earum, est sapiente odit iste dolore ratione quis consequatur. Repellat unde dolor vero ab. Eos earum qui deserunt!
+                        Lorem ipsum dolor sit aku, amet consectetur adipisicing elit. Quis blanditiis architecto doloremque in obcaecati accusantium laboriosam, dicta illum saepe corporis ducimus aperiam quam enim, laudantium nostrum autem sapiente vitae quasi?
                      </p>
                      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque harum amet natus adipisci aliquam eos hic nemo velit consequatur eveniet cupiditate, eum ullam ratione, sed ad, quos officia. Corporis, eligendi?
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam iusto esse aut error dignissimos aliquam cupiditate sint, voluptatibus quo facere. Reprehenderit inventore in ullam veniam et tempore suscipit totam architecto.
@@ -154,15 +154,15 @@
                   <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pasca_diklat.pdf" target=”_blank” class="pdf">
                         <img src="../images/pdf.png" alt="unduh">
                         <span><br></span>
-                        <span>Dokumen 3</span> <br>
+                        <span>Dokumen 8</span> <br>
                         <span style="color: #c8ae79">Buka Dokumen</span>
                   </a>
                   <br>
                </div>
                <div class="opening daftarp" id="about">
                   <div>
-                     <a href="konten pengumuman 4.php">
-                        <h2>Pengumuman 4</h2>
+                     <a href="konten pengumuman 9.php">
+                        <h2>Pengumuman 9</h2>
                         <h1>01-01-2023</h1>
                      </a>
                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam pariatur, ullam unde earum, est sapiente odit iste dolore ratione quis consequatur. Repellat unde dolor vero ab. Eos earum qui deserunt!
@@ -175,15 +175,15 @@
                   <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pasca_diklat.pdf" target=”_blank” class="pdf">
                         <img src="../images/pdf.png" alt="unduh">
                         <span><br></span>
-                        <span>Dokumen 4</span> <br>
+                        <span>Dokumen 9</span> <br>
                         <span style="color: #c8ae79">Buka Dokumen</span>
                   </a>
                   <br>
                </div>
                <div class="opening daftarp" id="about">
                   <div>
-                     <a href="konten pengumuman 5.php">
-                        <h2>Pengumuman 5</h2>
+                     <a href="konten pengumuman 10.php">
+                        <h2>Pengumuman 10</h2>
                         <h1>01-01-2023</h1>
                      </a>
                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam pariatur, ullam unde earum, est sapiente odit iste dolore ratione quis consequatur. Repellat unde dolor vero ab. Eos earum qui deserunt!
@@ -196,7 +196,7 @@
                   <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pasca_diklat.pdf" target=”_blank” class="pdf">
                         <img src="../images/pdf.png" alt="unduh">
                         <span><br></span>
-                        <span>Dokumen 5</span> <br>
+                        <span>Dokumen 10</span> <br>
                         <span style="color: #c8ae79">Buka Dokumen</span>
                   </a>
                   <br>
@@ -206,8 +206,8 @@
                      <!-- <li class="page-item disabled">
                         <a class="page-link" href="#" tabindex="-1">Previous</a>
                      </li> -->
-                     <li class="page-item active"><a class="page-link" href="#">1</a></li>
-                     <li class="page-item"><a class="page-link" href="pengumuman2.php">2</a></li>
+                     <li class="page-item"><a class="page-link" href="pengumuman.php">1</a></li>
+                     <li class="page-item active"><a class="page-link" href="#">2</a></li>
                      <!-- <li class="page-item">
                         <a class="page-link" href="#">Next</a>
                      </li> -->
@@ -262,7 +262,7 @@
          </div>
       </footer>
       <!-- end footer -->
-      <!-- Javascript files-->
+      <!-- Javascript Dokumens-->
       <script src="../js/jquery.min.js"></script>
       <script src="../js/popper.min.js"></script>
       <script src="../js/bootstrap.bundle.min.js"></script>

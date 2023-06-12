@@ -55,17 +55,17 @@
                                     <a class="nav-link" href="index.php">Beranda</a>
                                  </li>
                                  <li class="nav-item active">
-                                    <a class="nav-link" href="artikel1.html">Artikel</a>
+                                    <a class="nav-link" href="artikel1.php">Artikel</a>
                                     <div class="underline"></div>
                                  </li>
                                  <li class="nav-item">
-                                    <a class="nav-link" href="../galeri.html">Galeri</a>
+                                    <a class="nav-link" href="galeri.php">Galeri</a>
                                  </li>
                                  <li class="nav-item">
-                                    <a class="nav-link" href="pengumuman.html">Pengumuman</a>
+                                    <a class="nav-link" href="pengumuman.php">Pengumuman</a>
                                  </li>
                                  <li class="nav-item">
-                                    <a class="nav-link" href="../tentang.html">Tentang</a>
+                                    <a class="nav-link" href="tentang.php">Tentang</a>
                                  </li>
                               </ul>
                            </div>
@@ -73,7 +73,7 @@
                      </div>
                      <div class="col-md-4">
                         <div class="search">
-                           <form action="search.php">
+                           <form action="search.php" method="post">
                               <input class="form_sea" type="text" placeholder="Cari artikel atau pengumuman" name="search">
                               <button type="submit" class="seach_icon"><i class="fa fa-search"></i></button>
                            </form>
@@ -105,7 +105,7 @@
                               <i><img src="../images/pmi.jpg" alt="pmi"></i>
                               <h1>Artikel 1</h1>
                               <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-                              <a href="konten artikel.html"><button class="sumbit">Lihat Selengkapnya</button></a>
+                              <a href="konten artikel.php"><button class="sumbit">Lihat Selengkapnya</button></a>
                            </div>
                         </div>
                         <div class="col-md-4" id="artikel2">
@@ -113,7 +113,7 @@
                               <i><img src="../images/pmi.jpg" alt="pmi"></i>
                               <h1>Artikel 2</h1>
                               <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-                              <a href="konten artikel 2.html"><button class="sumbit">Lihat Selengkapnya</button></a>
+                              <a href="konten artikel 2.php"><button class="sumbit">Lihat Selengkapnya</button></a>
                            </div>
                         </div>
                         <div class="col-md-4" id="artikel3">
@@ -121,7 +121,7 @@
                               <i><img src="../images/pmi.jpg" alt="pmi"></i>
                               <h1>Artikel 3</h1>
                               <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-                              <a href="konten artikel 3.html"><button class="sumbit">Lihat Selengkapnya</button></a>
+                              <a href="konten artikel 3.php"><button class="sumbit">Lihat Selengkapnya</button></a>
                            </div>
                         </div>
                      </div>
@@ -237,7 +237,7 @@
                         <a class="page-link" href="#" tabindex="-1">Previous</a>
                      </li> -->
                      <li class="page-item active"><a class="page-link" href="#">1</a></li>
-                     <li class="page-item"><a class="page-link" href="artikel2.html">2</a></li>
+                     <li class="page-item"><a class="page-link" href="artikel2.php">2</a></li>
                      <!-- <li class="page-item">
                         <a class="page-link" href="#">Next</a>
                      </li> -->
@@ -295,13 +295,13 @@
       </footer>
       <!-- end footer -->
       <!-- Javascript files-->
-      <script src="js/jquery.min.js"></script>
-      <script src="js/popper.min.js"></script>
-      <script src="js/bootstrap.bundle.min.js"></script>
-      <script src="js/jquery-3.0.0.min.js"></script>
+      <script src="../js/jquery.min.js"></script>
+      <script src="../js/popper.min.js"></script>
+      <script src="../js/bootstrap.bundle.min.js"></script>
+      <script src="../js/jquery-3.0.0.min.js"></script>
       <!-- sidebar -->
-      <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
-      <script src="js/custom.js"></script>
+      <script src="../js/jquery.mCustomScrollbar.concat.min.js"></script>
+      <script src="../js/custom.js"></script>
    </body>
 </html>
 

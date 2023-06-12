@@ -55,17 +55,17 @@
                                     <a class="nav-link" href="index.php">Beranda</a>
                                  </li>
                                  <li class="nav-item active">
-                                    <a class="nav-link" href="../artikel1.html">Artikel</a>
+                                    <a class="nav-link" href="artikel1.php">Artikel</a>
                                     <div class="underline"></div>
                                  </li>
                                  <li class="nav-item">
-                                    <a class="nav-link" href="../galeri.html">Galeri</a>
+                                    <a class="nav-link" href="galeri.php">Galeri</a>
                                  </li>
                                  <li class="nav-item">
-                                    <a class="nav-link" href="pengumuman.html">Pengumuman</a>
+                                    <a class="nav-link" href="pengumuman.php">Pengumuman</a>
                                  </li>
                                  <li class="nav-item">
-                                    <a class="nav-link" href="../tentang.html">Tentang</a>
+                                    <a class="nav-link" href="tentang.php">Tentang</a>
                                  </li>
                               </ul>
                            </div>
@@ -73,7 +73,7 @@
                      </div>
                      <div class="col-md-4">
                         <div class="search">
-                           <form action="/search.php">
+                           <form action="search.php" method="post">
                               <input class="form_sea" type="text" placeholder="Cari artikel atau pengumuman" name="search">
                               <button type="submit" class="seach_icon"><i class="fa fa-search"></i></button>
                            </form>
@@ -93,7 +93,7 @@
                 <div class="row">
                    <div class="col-md-12">
                       <div class="titlepage" id="judulartikel">
-                         <h2>Artikel 1</h2>
+                         <h2>Artikel 3</h2>
                          <p>01-01-2023</p>
                       </div>
                    </div>
@@ -102,16 +102,16 @@
             <div class="opening" id="daftarartikel" style="padding-left: 0; padding-right: 0;">
                <img src="../images/pmi.jpg" alt="Logo" width="70%" height="70%" id="logo" style="margin-left: 0;"> 
                <h2>Daftar Artikel</h2>
-               <a href="konten artikel.html"><p>Artikel 1</p></a>
-               <a href="konten artikel 2.html"><p>Artikel 2</p></a>
-               <a href="konten artikel 3.html"><p>Artikel 3</p></a>
+               <a href="konten artikel.php"><p>Artikel 1</p></a>
+               <a href="konten artikel 2.php"><p>Artikel 2</p></a>
+               <a href="konten artikel 3.php"><p>Artikel 3</p></a>
                <p>Artikel 4</p>
                <p>Artikel 5</p>
                <p>Artikel 6</p>
                <p>Artikel 7</p>
                <p>Artikel 8</p>
                <p>Artikel 9</p>
-               <a href="../artikel1.html"><p>Artikel lainnya...</p></a>
+               <a href="artikel1.php"><p>Artikel lainnya...</p></a>
             </div>
             <br>
             <div class="opening" style="padding-left: 0; padding-right: 0; margin-bottom: 0;" id="konten">

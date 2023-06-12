@@ -50,23 +50,22 @@
                            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
                            <span class="navbar-toggler-icon"></span>
                            </button>
-                           <div class="collapse navbar-collapse" id="navbarsExample04">
+                           <div class="collapse navbar-collapse" id="navbarsExample04" style="height: 100%">
                               <ul class="navbar-nav mr-auto">
                                  <li class="nav-item">
-                                    <a class="nav-link" href="../index.html">Beranda</a>
+                                    <a class="nav-link" href="index.php">Beranda</a>
                                  </li>
                                  <li class="nav-item">
-                                    <a class="nav-link" href="../artikel1.html">Artikel</a>
+                                    <a class="nav-link" href="artikel1.php">Artikel</a>
                                  </li>
                                  <li class="nav-item">
-                                    <a class="nav-link" href="../galeri.html">Galeri</a>
+                                    <a class="nav-link" href="galeri.php">Galeri</a>
                                  </li>
                                  <li class="nav-item">
-                                    <a class="nav-link" href="../pengumuman.html">Pengumuman</a>
+                                    <a class="nav-link" href="pengumuman.php">Pengumuman</a>
                                  </li>
-                                 <li class="nav-item active">
-                                    <a class="nav-link" href="../tentang.html">Tentang</a>
-                                    <div class="underline"></div>
+                                 <li class="nav-item">
+                                    <a class="nav-link" href="tentang.php">Tentang</a>
                                  </li>
                               </ul>
                            </div>
@@ -74,7 +73,7 @@
                      </div>
                      <div class="col-md-4">
                         <div class="search">
-                           <form action="search.php">
+                           <form action="search.php" method="post">
                               <input class="form_sea" type="text" placeholder="Cari artikel atau pengumuman" name="search">
                               <button type="submit" class="seach_icon"><i class="fa fa-search"></i></button>
                            </form>
@@ -114,8 +113,8 @@
                echo '<div class="three_box" id="three_box">
                         <div class="container">
                            <div class="row" id="artikeldiv">';
-               $artlist = file_get_html('artikel1.html', true);
-               $artlist2 = file_get_html('artikel2.html', true);
+               $artlist = file_get_html('artikel1.php', true);
+               $artlist2 = file_get_html('artikel2.php', true);
                foreach($articles as $article) {
                   $i++;
                   $content = file_get_html(rtrim($article), true);
@@ -159,12 +158,23 @@
                         <h2 id="adap" style="font-size: 24px;"></h2>
                      </div>';
                $html = file_get_html('pengumuman.php', true);
+               $html2 = file_get_html('pengumuman2.php', true);
                $pengumuman = $html->find('.daftarp div');
                $pengumumanp = $html->find('.daftarp');
+               $pengumuman2 = $html2->find('.daftarp div');
+               $pengumumanp2 = $html2->find('.daftarp');
                $a = 0; $b = 0;
                foreach ($pengumuman as $item) {
                   if (stripos($item->plaintext, $searchString) !== false) {
                      echo $pengumumanp[$a]->outertext;
+                     $b++;
+                  }
+                  $a++;
+               }
+               $a = 0;
+               foreach ($pengumuman2 as $item) {
+                  if (stripos($item->plaintext, $searchString) !== false) {
+                     echo $pengumumanp2[$a]->outertext;
                      $b++;
                   }
                   $a++;

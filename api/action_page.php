@@ -105,11 +105,9 @@
                 $searchString = $_POST['search'];
 
                 // cari artikel
-                $websites1 = 'websites.txt';
-                $websites2 = 'websites2.txt';
                 $i = 0; $j = 15; $k = 0;
-                $articles = file($websites1);
-                $articles2 = file($websites2);
+                $articles = file('websites.txt');
+                $articles2 = file('websites2.txt');
                 echo '<div class="three_box">
                             <div class="container">
                                 <div class="row" id="artikeldiv">';

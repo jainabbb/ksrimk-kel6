@@ -40,57 +40,6 @@
    <?php
    $_SESSION['no_page'] = 4;
    include 'navbar.php'; ?>
-      <!-- end loader -->
-      <!-- header -->
-      <header>
-         <!-- header inner -->
-         <div class="header">
-            <div class="header_bottom d_flex">
-               <a class="logo" href="#"><img src="../images/logo.png" alt="#"></a>
-               <div class="container" style="margin-left: 10px;">
-                  <div class="row">
-                     <div class="col-xl-8 col-lg-8 col-md-8 col-sm-8">
-                        <nav class="navigation navbar navbar-expand-md navbar-dark ">
-                           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
-                           <span class="navbar-toggler-icon"></span>
-                           </button>
-                           <div class="collapse navbar-collapse" id="navbarsExample04">
-                              <ul class="navbar-nav mr-auto">
-                                 <li class="nav-item">
-                                    <a class="nav-link" href="index.php">Beranda</a>
-                                 </li>
-                                 <li class="nav-item">
-                                    <a class="nav-link" href="artikel1.php">Artikel</a>
-                                 </li>
-                                 <li class="nav-item">
-                                    <a class="nav-link" href="galeri.php">Galeri</a>
-                                 </li>
-                                 <li class="nav-item active">
-                                    <a class="nav-link" href="pengumuman.php">Pengumuman</a>
-                                    <div class="underline"></div>
-                                 </li>
-                                 <li class="nav-item">
-                                    <a class="nav-link" href="tentang.php">Tentang</a>
-                                 </li>
-                              </ul>
-                           </div>
-                        </nav>
-                     </div>
-                     <div class="col-md-4">
-                        <div class="search">
-                           <form action="search.php" method="post">
-                              <input class="form_sea" type="text" placeholder="Cari artikel atau pengumuman" name="search">
-                              <button type="submit" class="seach_icon"><i class="fa fa-search"></i></button>
-                           </form>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </header>
-      <!-- end header inner -->
-      <!-- end header -->
       <div class="banner_main">
          <div class="news w3-animate-bottom" style="padding: 30px 20px;">
             <div class="container">
@@ -105,16 +54,19 @@
                   <div>
                      <a href="konten pengumuman 1.php">
                         <h2>Pengumuman Pasca Diklat - OPREC KSR 2022</h2>
-                        <h1>11-18-2022</h1>
+                        <h1>18-11-2022</h1>
                      </a>
                      <p style="font-weight: bold;">Halo Calon Anggota Muda KSR Angkatan 13!</p>
+                     <!-- <br> -->
                      <p>Selamat sudah melewati Diklat 2 dan Tes Tulis 
                         hari ini. Karena sebelumnya udah ada pengumuman pra diklat,
                         berarti ada juga dong pemunguman pasca diklat. 
                         Nah, mengenai apa aja yang perlu disiapkan setelah diklat, 
                         berikut dilampirkan file pengumuman pasca diklatnya ya.
-                     </p>
+                     </p><br>
                      <p>Tetap jaga kesehatan dan semangatnya!!!</p>
+                     <br>
+                     <p style="font-weight: bold;">Siamo Tutti Fratelli</p>
                   </div>
                   <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pasca_diklat.pdf" target=”_blank” class="pdf">
                         <img src="../images/pdf.png" alt="unduh">
@@ -124,87 +76,103 @@
                   </a>
                   <br>
                </div>
-               <div class="opening daftarp" id="about">
+               <div class="opening daftarp">
                   <div>
                      <a href="konten pengumuman 2.php">
-                        <h2>Pengumuman 2</h2>
-                        <h1>01-01-2023</h1>
+                        <h2>Pengumuman Pra Diklat - OPREC KSR 2022</h2>
+                        <h1>13-11-2022</h1>
                      </a>
-                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam pariatur, ullam unde earum, est sapiente odit iste dolore ratione quis consequatur. Repellat unde dolor vero ab. Eos earum qui deserunt!
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis blanditiis architecto doloremque in obcaecati accusantium laboriosam, dicta illum saepe corporis ducimus aperiam quam enim, laudantium nostrum autem sapiente vitae quasi?
+                     <p style="font-weight: bold;">Halo Calon Anggota Muda KSR Angkatan 13!</p>
+                     <!-- <br> -->
+                     <p>Bentar lagi Oprec Tahap 1 KSR Angkatan 13 akan dimulai. 
+                        Pastinya udah pada ga sabar dan semangat kan. 
+                        Nah, sebelum kita bertemu di diklat nanti, ada beberapa 
+                        ketentuan nih yang harus kalian perhatikan. 
+                        Ketentuannya ada di file terlampir yaa..
                      </p>
-                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque harum amet natus adipisci aliquam eos hic nemo velit consequatur eveniet cupiditate, eum ullam ratione, sed ad, quos officia. Corporis, eligendi?
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam iusto esse aut error dignissimos aliquam cupiditate sint, voluptatibus quo facere. Reprehenderit inventore in ullam veniam et tempore suscipit totam architecto.
-                     </p>
+                     <p>Persiapkan semuanya dengan maksimal ya!</p>
+                     <br>
+                     <p>Tetap jaga kesehatan dan semangatnya !</p>
+                     <br>
+                     <p style="font-weight: bold;">Siamo Tutti Fratelli</p>
                   </div>
-                  <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pasca_diklat.pdf" target=”_blank” class="pdf">
+                  <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumunan_pra_diklat.pdf" target=”_blank” class="pdf">
                         <img src="../images/pdf.png" alt="unduh">
                         <span><br></span>
-                        <span>Dokumen 2</span> <br>
+                        <span>pengumunan_pra_diklat.pdf</span> <br>
                         <span style="color: #c8ae79">Buka Dokumen</span>
                   </a>
                   <br>
                </div>
-               <div class="opening daftarp" id="about">
+               <div class="opening daftarp">
                   <div>
                      <a href="konten pengumuman 3.php">
-                        <h2>Pengumuman 3</h2>
-                        <h1>01-01-2023</h1>
+                        <h2>Pengumuman Pasca Diklat - OPREC KSR 2021</h2>
+                        <h1>01-01-2022</h1>
                      </a>
-                     <p>aku Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam pariatur, ullam unde earum, est sapiente odit iste dolore ratione quis consequatur. Repellat unde dolor vero ab. Eos earum qui deserunt!
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis blanditiis architecto doloremque in obcaecati accusantium laboriosam, dicta illum saepe corporis ducimus aperiam quam enim, laudantium nostrum autem sapiente vitae quasi?
-                     </p>
-                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque harum amet natus adipisci aliquam eos hic nemo velit consequatur eveniet cupiditate, eum ullam ratione, sed ad, quos officia. Corporis, eligendi?
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam iusto esse aut error dignissimos aliquam cupiditate sint, voluptatibus quo facere. Reprehenderit inventore in ullam veniam et tempore suscipit totam architecto.
-                     </p>
+                     <p style="font-weight: bold;">Halo Calon Anggota Muda KSR Angkatan 12!</p>
+                     <!-- <br> -->
+                     <p>Selamat yaa sudah melewati diklat hari ini, empat jempol buat kalian.</p>
+                     <p>Sebelumnya ada pengumuman pra diklat kan yaa, berarti selanjutnya ada...</p>
+                     <p>Ada pengumuman pasca diklat dong!</p>
+                     <br>
+                     <p>Berikut kami lampirkan file pengumuman pasca diklatnya yaa</p>
+                     <p>Persiapkan semuanya dengan sangat baik.</p>
+                     <br>
+                     <p>Tetap jaga kesehatan dan semangatnya</p>
+                     <br>
+                     <p style="font-weight: bold;">Siamo Tutti Fratelli</p>
                   </div>
                   <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pasca_diklat.pdf" target=”_blank” class="pdf">
                         <img src="../images/pdf.png" alt="unduh">
                         <span><br></span>
-                        <span>Dokumen 3</span> <br>
+                        <span>pengumuman_pasca_diklat.pdf</span> <br>
                         <span style="color: #c8ae79">Buka Dokumen</span>
                   </a>
                   <br>
                </div>
-               <div class="opening daftarp" id="about">
+               <div class="opening daftarp">
                   <div>
                      <a href="konten pengumuman 4.php">
-                        <h2>Pengumuman 4</h2>
-                        <h1>01-01-2023</h1>
+                        <h2>Pengumuman Pra Diklat - OPREC KSR 2021</h2>
+                        <h1>01-01-2022</h1>
                      </a>
-                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam pariatur, ullam unde earum, est sapiente odit iste dolore ratione quis consequatur. Repellat unde dolor vero ab. Eos earum qui deserunt!
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis blanditiis architecto doloremque in obcaecati accusantium laboriosam, dicta illum saepe corporis ducimus aperiam quam enim, laudantium nostrum autem sapiente vitae quasi?
-                     </p>
-                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque harum amet natus adipisci aliquam eos hic nemo velit consequatur eveniet cupiditate, eum ullam ratione, sed ad, quos officia. Corporis, eligendi?
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam iusto esse aut error dignissimos aliquam cupiditate sint, voluptatibus quo facere. Reprehenderit inventore in ullam veniam et tempore suscipit totam architecto.
-                     </p>
+                     <p style="font-weight: bold;">Halo Calon Anggota Muda KSR Angkatan 12!</p>
+                     <!-- <br> -->
+                     <p>Selamat yaa telah melewati tes tertulis, gimana nih semangatnya masih tetap full kan yaa? </p>
+                     <p>Harus dong! Apalagi masih ada tahap selanjutnya, yap akan ada DIKLAT </p>
+                     <p>Nah, sebelum kita bertemu di diklat nanti, ada beberapa ketentuan nih yang harus kalian persiapkan. Ketentuannya ada di file terlampir yaa</p>
+                     <br>
+                     <p>Tetap jaga kesehatan dan semangatnya</p>
+                     <br>
+                     <p style="font-weight: bold;">Siamo Tutti Fratelli</p>
                   </div>
-                  <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pasca_diklat.pdf" target=”_blank” class="pdf">
+                  <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pra_diklat.pdf" target=”_blank” class="pdf">
                         <img src="../images/pdf.png" alt="unduh">
                         <span><br></span>
-                        <span>Dokumen 4</span> <br>
+                        <span>pengumuman_pra_diklat.pdf</span> <br>
                         <span style="color: #c8ae79">Buka Dokumen</span>
                   </a>
                   <br>
                </div>
-               <div class="opening daftarp" id="about">
+               <div class="opening daftarp">
                   <div>
                      <a href="konten pengumuman 5.php">
-                        <h2>Pengumuman 5</h2>
-                        <h1>01-01-2023</h1>
+                        <h2>Materi Tes Tertulis - OPREC KSR</h2>
+                        <h1>29-12-2021</h1>
                      </a>
-                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam pariatur, ullam unde earum, est sapiente odit iste dolore ratione quis consequatur. Repellat unde dolor vero ab. Eos earum qui deserunt!
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis blanditiis architecto doloremque in obcaecati accusantium laboriosam, dicta illum saepe corporis ducimus aperiam quam enim, laudantium nostrum autem sapiente vitae quasi?
-                     </p>
-                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque harum amet natus adipisci aliquam eos hic nemo velit consequatur eveniet cupiditate, eum ullam ratione, sed ad, quos officia. Corporis, eligendi?
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam iusto esse aut error dignissimos aliquam cupiditate sint, voluptatibus quo facere. Reprehenderit inventore in ullam veniam et tempore suscipit totam architecto.
-                     </p>
+                     <p>Tes Tertulis Kurang Tiga Hari Lagiiii</p>
+                     <p>Tenang gaiss, kami udah siapin nutrisi yang akan menemani kalian tiga hari ke depan supaya kalian siap menghadapi tes tertulis nanti</p>
+                     <p>Oke, cuss langsung diunduh dan dipelajari  materinya yaa!</p>
+                     <p>Good Luck, semoga diberi kemudahan dan kelancaran </p>
+                     <br>
+                     <p style="font-weight: bold;">Siamo Tutti Fratelli</p>
                   </div>
-                  <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pasca_diklat.pdf" target=”_blank” class="pdf">
-                        <img src="../images/pdf.png" alt="unduh">
-                        <span><br></span>
-                        <span>Dokumen 5</span> <br>
-                        <span style="color: #c8ae79">Buka Dokumen</span>
+                  <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/materi_oprec_angkatan_12.pdf" target=”_blank” class="pdf">
+                     <img src="../images/pdf.png" alt="unduh">
+                     <span><br></span>
+                     <span>materi_oprec_angkatan_12.pdf</span> <br>
+                     <span style="color: #c8ae79">Buka Dokumen</span>
                   </a>
                   <br>
                </div>

@@ -650,10 +650,15 @@ ul.right_icon li img {
      padding: 0 30px;
 }
 
-#konten p, #kontenp p {
+#konten p {
      font-weight: normal;
      text-align: justify; 
      text-indent: 0.3in;
+}
+
+#kontenp p {
+     font-weight: normal;
+     text-align: justify; 
 }
 
 #konten p {
@@ -667,11 +672,13 @@ ul.right_icon li img {
      margin-right: 30px;
      float: left;
      color: black;
+     height: 80%;
 }
 
 #pdf {
-     width: 70%;
-     margin-left: 15px; 
+     width: 100%;
+     /* margin-left: 15px;  */
+     height: 70%;
 }
 
 .daftarp {
@@ -680,6 +687,13 @@ ul.right_icon li img {
      padding-bottom: 40px;
      margin-bottom: 30px;
      border-bottom: #B90E0A solid 3px;
+}
+
+.daftarp p {
+     text-indent: 0;
+     font-weight: normal;
+     margin: 0 30px;
+     text-align: justify; 
 }
 
 #about p {
@@ -705,12 +719,12 @@ ul.right_icon li img {
      text-indent: 0.6in;
 }
 
-#about h2 {
+#about h2, .daftarp h2 {
      font-size: 24px;
      margin: 0 30px;
 }
 
-#about h1 {
+#about h1, .daftarp h1 {
      margin: 0 30px;
 }
 

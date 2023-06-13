@@ -40,135 +40,189 @@
    <?php
    $_SESSION['no_page'] = 4;
    include 'navbar.php'; ?>
-   <div class="banner_main">
-      <div class="news w3-animate-bottom" style="padding: 30px 20px;">
-         <div class="container">
-            <div class="row">
-               <div class="col-md-12">
-                  <div class="titlepage" id="nonhome">
-                     <h2>Daftar Pengumuman</h2>
+      <!-- end loader -->
+      <!-- header -->
+      <header>
+         <!-- header inner -->
+         <div class="header">
+            <div class="header_bottom d_flex">
+               <a class="logo" href="#"><img src="../images/logo.png" alt="#"></a>
+               <div class="container" style="margin-left: 10px;">
+                  <div class="row">
+                     <div class="col-xl-8 col-lg-8 col-md-8 col-sm-8">
+                        <nav class="navigation navbar navbar-expand-md navbar-dark ">
+                           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
+                           <span class="navbar-toggler-icon"></span>
+                           </button>
+                           <div class="collapse navbar-collapse" id="navbarsExample04">
+                              <ul class="navbar-nav mr-auto">
+                                 <li class="nav-item">
+                                    <a class="nav-link" href="index.php">Beranda</a>
+                                 </li>
+                                 <li class="nav-item">
+                                    <a class="nav-link" href="artikel1.php">Artikel</a>
+                                 </li>
+                                 <li class="nav-item">
+                                    <a class="nav-link" href="galeri.php">Galeri</a>
+                                 </li>
+                                 <li class="nav-item active">
+                                    <a class="nav-link" href="pengumuman.php">Pengumuman</a>
+                                    <div class="underline"></div>
+                                 </li>
+                                 <li class="nav-item">
+                                    <a class="nav-link" href="tentang.php">Tentang</a>
+                                 </li>
+                              </ul>
+                           </div>
+                        </nav>
+                     </div>
+                     <div class="col-md-4">
+                        <div class="search">
+                           <form action="search.php" method="post">
+                              <input class="form_sea" type="text" placeholder="Cari artikel atau pengumuman" name="search">
+                              <button type="submit" class="seach_icon"><i class="fa fa-search"></i></button>
+                           </form>
+                        </div>
+                     </div>
                   </div>
                </div>
             </div>
-            <div class="opening daftarp" id="about">
-               <div>
-                  <a href="konten pengumuman 1.php">
-                     <h2>Pengumuman 1</h2>
-                     <h1>01-01-2023</h1>
-                  </a>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam pariatur, ullam unde earum, est sapiente odit iste dolore ratione quis consequatur. Repellat unde dolor vero ab. Eos earum qui deserunt!
-                     Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis blanditiis architecto doloremque in obcaecati accusantium laboriosam, dicta illum saepe corporis ducimus aperiam quam enim, laudantium nostrum autem sapiente vitae quasi?
-                  </p>
-                  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque harum amet natus adipisci aliquam eos hic nemo velit consequatur eveniet cupiditate, eum ullam ratione, sed ad, quos officia. Corporis, eligendi?
-                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam iusto esse aut error dignissimos aliquam cupiditate sint, voluptatibus quo facere. Reprehenderit inventore in ullam veniam et tempore suscipit totam architecto.
-                  </p>
+         </div>
+      </header>
+      <!-- end header inner -->
+      <!-- end header -->
+      <div class="banner_main">
+         <div class="news w3-animate-bottom" style="padding: 30px 20px;">
+            <div class="container">
+               <div class="row">
+                  <div class="col-md-12">
+                     <div class="titlepage" id="nonhome">
+                        <h2>Daftar Pengumuman</h2>
+                     </div>
+                  </div>
                </div>
-               <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pasca_diklat.pdf" target=”_blank” class="pdf">
-                  <img src="../images/pdf.png" alt="unduh">
-                  <span><br></span>
-                  <span>Dokumen 1</span> <br>
-                  <span style="color: #c8ae79">Buka Dokumen</span>
-               </a>
-               <br>
-            </div>
-            <div class="opening daftarp" id="about">
-               <div>
-                  <a href="konten pengumuman 2.php">
-                     <h2>Pengumuman 2</h2>
-                     <h1>01-01-2023</h1>
+               <div class="opening daftarp">
+                  <div>
+                     <a href="konten pengumuman 1.php">
+                        <h2>Pengumuman Pasca Diklat - OPREC KSR 2022</h2>
+                        <h1>11-18-2022</h1>
+                     </a>
+                     <p style="font-weight: bold;">Halo Calon Anggota Muda KSR Angkatan 13!</p>
+                     <p>Selamat sudah melewati Diklat 2 dan Tes Tulis 
+                        hari ini. Karena sebelumnya udah ada pengumuman pra diklat,
+                        berarti ada juga dong pemunguman pasca diklat. 
+                        Nah, mengenai apa aja yang perlu disiapkan setelah diklat, 
+                        berikut dilampirkan file pengumuman pasca diklatnya ya.
+                     </p>
+                     <p>Tetap jaga kesehatan dan semangatnya!!!</p>
+                  </div>
+                  <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pasca_diklat.pdf" target=”_blank” class="pdf">
+                        <img src="../images/pdf.png" alt="unduh">
+                        <span><br></span>
+                        <span>pengumuman_pasca_diklat.pdf</span> <br>
+                        <span style="color: #c8ae79">Buka Dokumen</span>
                   </a>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam pariatur, ullam unde earum, est sapiente odit iste dolore ratione quis consequatur. Repellat unde dolor vero ab. Eos earum qui deserunt!
-                     Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis blanditiis architecto doloremque in obcaecati accusantium laboriosam, dicta illum saepe corporis ducimus aperiam quam enim, laudantium nostrum autem sapiente vitae quasi?
-                  </p>
-                  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque harum amet natus adipisci aliquam eos hic nemo velit consequatur eveniet cupiditate, eum ullam ratione, sed ad, quos officia. Corporis, eligendi?
-                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam iusto esse aut error dignissimos aliquam cupiditate sint, voluptatibus quo facere. Reprehenderit inventore in ullam veniam et tempore suscipit totam architecto.
-                  </p>
+                  <br>
                </div>
-               <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pasca_diklat.pdf" target=”_blank” class="pdf">
-                  <img src="../images/pdf.png" alt="unduh">
-                  <span><br></span>
-                  <span>Dokumen 2</span> <br>
-                  <span style="color: #c8ae79">Buka Dokumen</span>
-               </a>
-               <br>
-            </div>
-            <div class="opening daftarp" id="about">
-               <div>
-                  <a href="konten pengumuman 3.php">
-                     <h2>Pengumuman 3</h2>
-                     <h1>01-01-2023</h1>
+               <div class="opening daftarp" id="about">
+                  <div>
+                     <a href="konten pengumuman 2.php">
+                        <h2>Pengumuman 2</h2>
+                        <h1>01-01-2023</h1>
+                     </a>
+                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam pariatur, ullam unde earum, est sapiente odit iste dolore ratione quis consequatur. Repellat unde dolor vero ab. Eos earum qui deserunt!
+                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis blanditiis architecto doloremque in obcaecati accusantium laboriosam, dicta illum saepe corporis ducimus aperiam quam enim, laudantium nostrum autem sapiente vitae quasi?
+                     </p>
+                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque harum amet natus adipisci aliquam eos hic nemo velit consequatur eveniet cupiditate, eum ullam ratione, sed ad, quos officia. Corporis, eligendi?
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam iusto esse aut error dignissimos aliquam cupiditate sint, voluptatibus quo facere. Reprehenderit inventore in ullam veniam et tempore suscipit totam architecto.
+                     </p>
+                  </div>
+                  <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pasca_diklat.pdf" target=”_blank” class="pdf">
+                        <img src="../images/pdf.png" alt="unduh">
+                        <span><br></span>
+                        <span>Dokumen 2</span> <br>
+                        <span style="color: #c8ae79">Buka Dokumen</span>
                   </a>
-                  <p>aku Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam pariatur, ullam unde earum, est sapiente odit iste dolore ratione quis consequatur. Repellat unde dolor vero ab. Eos earum qui deserunt!
-                     Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis blanditiis architecto doloremque in obcaecati accusantium laboriosam, dicta illum saepe corporis ducimus aperiam quam enim, laudantium nostrum autem sapiente vitae quasi?
-                  </p>
-                  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque harum amet natus adipisci aliquam eos hic nemo velit consequatur eveniet cupiditate, eum ullam ratione, sed ad, quos officia. Corporis, eligendi?
-                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam iusto esse aut error dignissimos aliquam cupiditate sint, voluptatibus quo facere. Reprehenderit inventore in ullam veniam et tempore suscipit totam architecto.
-                  </p>
+                  <br>
                </div>
-               <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pasca_diklat.pdf" target=”_blank” class="pdf">
-                  <img src="../images/pdf.png" alt="unduh">
-                  <span><br></span>
-                  <span>Dokumen 3</span> <br>
-                  <span style="color: #c8ae79">Buka Dokumen</span>
-               </a>
-               <br>
-            </div>
-            <div class="opening daftarp" id="about">
-               <div>
-                  <a href="konten pengumuman 4.php">
-                     <h2>Pengumuman 4</h2>
-                     <h1>01-01-2023</h1>
+               <div class="opening daftarp" id="about">
+                  <div>
+                     <a href="konten pengumuman 3.php">
+                        <h2>Pengumuman 3</h2>
+                        <h1>01-01-2023</h1>
+                     </a>
+                     <p>aku Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam pariatur, ullam unde earum, est sapiente odit iste dolore ratione quis consequatur. Repellat unde dolor vero ab. Eos earum qui deserunt!
+                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis blanditiis architecto doloremque in obcaecati accusantium laboriosam, dicta illum saepe corporis ducimus aperiam quam enim, laudantium nostrum autem sapiente vitae quasi?
+                     </p>
+                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque harum amet natus adipisci aliquam eos hic nemo velit consequatur eveniet cupiditate, eum ullam ratione, sed ad, quos officia. Corporis, eligendi?
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam iusto esse aut error dignissimos aliquam cupiditate sint, voluptatibus quo facere. Reprehenderit inventore in ullam veniam et tempore suscipit totam architecto.
+                     </p>
+                  </div>
+                  <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pasca_diklat.pdf" target=”_blank” class="pdf">
+                        <img src="../images/pdf.png" alt="unduh">
+                        <span><br></span>
+                        <span>Dokumen 3</span> <br>
+                        <span style="color: #c8ae79">Buka Dokumen</span>
                   </a>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam pariatur, ullam unde earum, est sapiente odit iste dolore ratione quis consequatur. Repellat unde dolor vero ab. Eos earum qui deserunt!
-                     Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis blanditiis architecto doloremque in obcaecati accusantium laboriosam, dicta illum saepe corporis ducimus aperiam quam enim, laudantium nostrum autem sapiente vitae quasi?
-                  </p>
-                  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque harum amet natus adipisci aliquam eos hic nemo velit consequatur eveniet cupiditate, eum ullam ratione, sed ad, quos officia. Corporis, eligendi?
-                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam iusto esse aut error dignissimos aliquam cupiditate sint, voluptatibus quo facere. Reprehenderit inventore in ullam veniam et tempore suscipit totam architecto.
-                  </p>
+                  <br>
                </div>
-               <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pasca_diklat.pdf" target=”_blank” class="pdf">
-                  <img src="../images/pdf.png" alt="unduh">
-                  <span><br></span>
-                  <span>Dokumen 4</span> <br>
-                  <span style="color: #c8ae79">Buka Dokumen</span>
-               </a>
-               <br>
-            </div>
-            <div class="opening daftarp" id="about">
-               <div>
-                  <a href="konten pengumuman 5.php">
-                     <h2>Pengumuman 5</h2>
-                     <h1>01-01-2023</h1>
+               <div class="opening daftarp" id="about">
+                  <div>
+                     <a href="konten pengumuman 4.php">
+                        <h2>Pengumuman 4</h2>
+                        <h1>01-01-2023</h1>
+                     </a>
+                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam pariatur, ullam unde earum, est sapiente odit iste dolore ratione quis consequatur. Repellat unde dolor vero ab. Eos earum qui deserunt!
+                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis blanditiis architecto doloremque in obcaecati accusantium laboriosam, dicta illum saepe corporis ducimus aperiam quam enim, laudantium nostrum autem sapiente vitae quasi?
+                     </p>
+                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque harum amet natus adipisci aliquam eos hic nemo velit consequatur eveniet cupiditate, eum ullam ratione, sed ad, quos officia. Corporis, eligendi?
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam iusto esse aut error dignissimos aliquam cupiditate sint, voluptatibus quo facere. Reprehenderit inventore in ullam veniam et tempore suscipit totam architecto.
+                     </p>
+                  </div>
+                  <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pasca_diklat.pdf" target=”_blank” class="pdf">
+                        <img src="../images/pdf.png" alt="unduh">
+                        <span><br></span>
+                        <span>Dokumen 4</span> <br>
+                        <span style="color: #c8ae79">Buka Dokumen</span>
                   </a>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam pariatur, ullam unde earum, est sapiente odit iste dolore ratione quis consequatur. Repellat unde dolor vero ab. Eos earum qui deserunt!
-                     Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis blanditiis architecto doloremque in obcaecati accusantium laboriosam, dicta illum saepe corporis ducimus aperiam quam enim, laudantium nostrum autem sapiente vitae quasi?
-                  </p>
-                  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque harum amet natus adipisci aliquam eos hic nemo velit consequatur eveniet cupiditate, eum ullam ratione, sed ad, quos officia. Corporis, eligendi?
-                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam iusto esse aut error dignissimos aliquam cupiditate sint, voluptatibus quo facere. Reprehenderit inventore in ullam veniam et tempore suscipit totam architecto.
-                  </p>
+                  <br>
                </div>
-               <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pasca_diklat.pdf" target=”_blank” class="pdf">
-                  <img src="../images/pdf.png" alt="unduh">
-                  <span><br></span>
-                  <span>Dokumen 5</span> <br>
-                  <span style="color: #c8ae79">Buka Dokumen</span>
-               </a>
-               <br>
-            </div>
-            <nav aria-label="Page navigation example">
-               <ul class="pagination justify-content-end">
-                  <!-- <li class="page-item disabled">
+               <div class="opening daftarp" id="about">
+                  <div>
+                     <a href="konten pengumuman 5.php">
+                        <h2>Pengumuman 5</h2>
+                        <h1>01-01-2023</h1>
+                     </a>
+                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam pariatur, ullam unde earum, est sapiente odit iste dolore ratione quis consequatur. Repellat unde dolor vero ab. Eos earum qui deserunt!
+                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis blanditiis architecto doloremque in obcaecati accusantium laboriosam, dicta illum saepe corporis ducimus aperiam quam enim, laudantium nostrum autem sapiente vitae quasi?
+                     </p>
+                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque harum amet natus adipisci aliquam eos hic nemo velit consequatur eveniet cupiditate, eum ullam ratione, sed ad, quos officia. Corporis, eligendi?
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam iusto esse aut error dignissimos aliquam cupiditate sint, voluptatibus quo facere. Reprehenderit inventore in ullam veniam et tempore suscipit totam architecto.
+                     </p>
+                  </div>
+                  <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pasca_diklat.pdf" target=”_blank” class="pdf">
+                        <img src="../images/pdf.png" alt="unduh">
+                        <span><br></span>
+                        <span>Dokumen 5</span> <br>
+                        <span style="color: #c8ae79">Buka Dokumen</span>
+                  </a>
+                  <br>
+               </div>
+               <nav aria-label="Page navigation example">
+                  <ul class="pagination justify-content-end">
+                     <!-- <li class="page-item disabled">
                         <a class="page-link" href="#" tabindex="-1">Previous</a>
                      </li> -->
-                  <li class="page-item active"><a class="page-link" href="#">1</a></li>
-                  <li class="page-item"><a class="page-link" href="pengumuman2.php">2</a></li>
-                  <!-- <li class="page-item">
+                     <li class="page-item active"><a class="page-link" href="#">1</a></li>
+                     <li class="page-item"><a class="page-link" href="pengumuman2.php">2</a></li>
+                     <!-- <li class="page-item">
                         <a class="page-link" href="#">Next</a>
                      </li> -->
-               </ul>
-            </nav>
+                  </ul>
+               </nav>
+            </div>
          </div>
-      </div>
+         
       <div class="container">
          <div class="row">
          </div>

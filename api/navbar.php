@@ -1,3 +1,8 @@
+<?php
+if (!(session_status() === PHP_SESSION_ACTIVE)) {
+    session_start();
+}
+?>
 <!-- header -->
 <?php if (strstr(strtolower($_SERVER['HTTP_USER_AGENT']), 'mobile') || strstr(strtolower($_SERVER['HTTP_USER_AGENT']), 'android')) {
 ?>

@@ -37,7 +37,7 @@
    <!-- <div class="loader_bg">
          <div class="loader"><img src="../images/loading.gif" alt="#"></div>
       </div> -->
-   <?php include 'navbar.php'; ?> <div class="banner_main">
+   <?php $_SESSION['no_page'] = 4; include 'navbar.php'; ?> <div class="banner_main">
       <div class="news w3-animate-bottom" style="padding: 30px 20px;">
          <div class="container">
             <div class="row">

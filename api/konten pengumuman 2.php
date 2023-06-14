@@ -35,7 +35,7 @@
       <!-- <div class="loader_bg">
          <div class="loader"><img src="../images/loading.gif" alt="#"></div>
       </div> -->
-      <?php include 'navbar.php'; ?>
+      <?php $_SESSION['no_page'] = 4; include 'navbar.php'; ?>
       <!-- end loader -->
       <!-- header -->
       <div class="banner_main">

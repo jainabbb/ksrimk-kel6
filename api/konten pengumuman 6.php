@@ -37,32 +37,44 @@
    <!-- <div class="loader_bg">
          <div class="loader"><img src="../images/loading.gif" alt="#"></div>
       </div> -->
-   <?php include 'navbar.php'; ?> <div class="banner_main">
+   <?php include 'navbar.php'; ?>
+   <!-- end loader -->
+   <!-- header -->
+   <div class="banner_main">
       <!-- news section -->
       <div class="news w3-animate-bottom" style="padding: 30px 20px;">
          <div class="container" style="padding-left: 0; padding-right: 0;">
             <div class="row">
                <div class="col-md-12">
                   <div class="titlepage" id="judulartikel">
-                     <h2>Pengumuman 6</h2>
-                     <p>01-01-2023</p>
+                     <h2>Pengumuman Pradiklat 3 - KSR Angkatan 11</h2>
+                     <p>27-02-2021</p>
                   </div>
                </div>
             </div>
          </div>
          <div id="kontenp">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam pariatur, ullam unde earum, est sapiente odit iste dolore ratione quis consequatur. Repellat unde dolor vero ab. Eos earum qui deserunt!
-               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis blanditiis architecto doloremque in obcaecati accusantium laboriosam, dicta illum saepe corporis ducimus aperiam quam enim, laudantium nostrum autem sapiente vitae quasi?
-            </p>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque harum amet natus adipisci aliquam eos hic nemo velit consequatur eveniet cupiditate, eum ullam ratione, sed ad, quos officia. Corporis, eligendi?
-               Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam iusto esse aut error dignissimos aliquam cupiditate sint, voluptatibus quo facere. Reprehenderit inventore in ullam veniam et tempore suscipit totam architecto.
-            </p>
-            <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pasca_diklat.pdf" target=”_blank” class="pdf">
-               <img src="../images/pdf.png" alt="unduh">
-               <span><br></span>
-               <span>Dokumen 6</span> <br>
-               <span style="color: #c8ae79">Buka Dokumen</span>
+            <div>
+               <p>Haiii anggota muda KSR angkatan 11 !!</p>
+               <p>Tidak terasa kita sudah melewati diklat 1 dan 2, kini tiba saatnya untuk diklat 3. Yeayyy !!</p>
+               <span>Nah sebelum itu, berikut di bawah ini kami lampirkan untuk </span>
+               <span style="font-weight: bold;">tugas pradiklat 3</span><span>.</span>
+               <p>Tetap semangat dan jaga kesehatan !!</p>
+               <p>Sampai jumpa kembali di diklat 3 yaa..</p>
+               <br>
+               <p>Salam Kemanusiaan,</p>
+               <p style="font-style: italic;">Siamo Tutti Fratelli</p>
+            </div>
+            <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/tugas_pradiklat_3_-_angkatan_11.pdf" target=”_blank”>
+               <div class="pdf">
+                  <img src="../images/pdf.png" alt="unduh">
+                  <span><br></span>
+                  <span>tugas_pradiklat_3_-_angkatan_11.pdf</span> <br>
+                  <span style="color: #c8ae79">Buka Dokumen</span>
+               </div>
             </a>
+            <br>
+            <iframe id="pdf" src="https://docs.google.com/viewer?url=https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/tugas_pradiklat_3_-_angkatan_11.pdf&embedded=true" width="800" height="500"></iframe>
          </div>
          <div class="opening" id="daftarartikel" style="padding-left: 0; padding-right: 0; margin-bottom: 0;">
             <h2>Daftar Pengumuman</h2>
@@ -98,8 +110,6 @@
             </a>
          </div>
 
-         <object data="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pasca_diklat.pdf" width="800" height="500">
-         </object>
       </div>
       <div class="container">
          <div class="row">

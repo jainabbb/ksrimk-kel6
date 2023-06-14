@@ -47,44 +47,46 @@
                   </div>
                </div>
             </div>
-            <div class="opening daftarp" id="about">
+            <div class="opening daftarp">
                <div>
                   <a href="konten pengumuman 6.php">
-                     <h2>Pengumuman 6</h2>
-                     <h1>01-01-2023</h1>
+                     <h2>Pengumuman Pradiklat 3 - KSR Angkatan 11</h2>
+                     <h1>27-02-2021</h1>
                   </a>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam pariatur, ullam unde earum, est sapiente odit iste dolore ratione quis consequatur. Repellat unde dolor vero ab. Eos earum qui deserunt!
-                     Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis blanditiis architecto doloremque in obcaecati accusantium laboriosam, dicta illum saepe corporis ducimus aperiam quam enim, laudantium nostrum autem sapiente vitae quasi?
-                  </p>
-                  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque harum amet natus adipisci aliquam eos hic nemo velit consequatur eveniet cupiditate, eum ullam ratione, sed ad, quos officia. Corporis, eligendi?
-                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam iusto esse aut error dignissimos aliquam cupiditate sint, voluptatibus quo facere. Reprehenderit inventore in ullam veniam et tempore suscipit totam architecto.
-                  </p>
+                  <p>Haiii anggota muda KSR angkatan 11 !!</p>
+                  <p>Tidak terasa kita sudah melewati diklat 1 dan 2, kini tiba saatnya untuk diklat 3. Yeayyy !!</p>
+                  <span style="margin-left: 30px;">Nah sebelum itu, berikut di bawah ini kami lampirkan untuk </span>
+                  <span style="font-weight: bold;">tugas pradiklat 3</span><span>.</span>
+                  <p>Tetap semangat dan jaga kesehatan !!</p>
+                  <p>Sampai jumpa kembali di diklat 3 yaa..</p>
+                  <br>
+                  <p>Salam Kemanusiaan,</p>
+                  <p style="font-style: italic;">Siamo Tutti Fratelli</p>
                </div>
-               <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pasca_diklat.pdf" target=”_blank” class="pdf">
+               <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/tugas_pradiklat_3_-_angkatan_11.pdf" target=”_blank” class="pdf">
                   <img src="../images/pdf.png" alt="unduh">
                   <span><br></span>
-                  <span>Dokumen 6</span> <br>
+                  <span>tugas_pradiklat_3_-_angkatan_11.pdf</span> <br>
                   <span style="color: #c8ae79">Buka Dokumen</span>
                </a>
                <br>
             </div>
-            <div class="opening daftarp" id="about">
+            <div class="opening daftarp">
                <div>
                   <a href="konten pengumuman 7.php">
-                     <h2>Pengumuman 7</h2>
-                     <h1>01-01-2023</h1>
+                     <h2>Pengumuman Pradiklat 2 - KSR Angkatan 11</h2>
+                     <h1>20-02-2021</h1>
                   </a>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam pariatur, ullam unde earum, est sapiente odit iste dolore ratione quis consequatur. Repellat unde dolor vero ab. Eos earum qui deserunt!
-                     Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis blanditiis architecto doloremque in obcaecati accusantium laboriosam, dicta illum saepe corporis ducimus aperiam quam enim, laudantium nostrum autem sapiente vitae quasi?
+                  <p>Hai anggota muda KSR 11. Gimana Diklat 1 nya?, semoga menyenangkan dan tambah semangat ya untuk mengikuti diklat selanjutnya :)
                   </p>
-                  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque harum amet natus adipisci aliquam eos hic nemo velit consequatur eveniet cupiditate, eum ullam ratione, sed ad, quos officia. Corporis, eligendi?
-                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam iusto esse aut error dignissimos aliquam cupiditate sint, voluptatibus quo facere. Reprehenderit inventore in ullam veniam et tempore suscipit totam architecto.
-                  </p>
+                  <span style="margin-left: 30px;">Berikut ini adalah lampiran untuk </span>
+                  <span style="font-weight: bold;">tugas pradiklat 2</span><span>.</span>
+                  <p>Tetap semangat dan jaga kesehatan, sampai jumpa lagi di diklat 2 ^^</p>
                </div>
-               <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pasca_diklat.pdf" target=”_blank” class="pdf">
+               <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/tugas_pradiklat_2-_angkatan_11.pdf" target=”_blank” class="pdf">
                   <img src="../images/pdf.png" alt="unduh">
                   <span><br></span>
-                  <span>Dokumen 7</span> <br>
+                  <span>tugas_pradiklat_2_-_angkatan_11.pdf</span> <br>
                   <span style="color: #c8ae79">Buka Dokumen</span>
                </a>
                <br>
@@ -92,20 +94,18 @@
             <div class="opening daftarp" id="about">
                <div>
                   <a href="konten pengumuman 8.php">
-                     <h2>Pengumuman 8</h2>
-                     <h1>01-01-2023</h1>
+                     <h2>Pengumuman Pradiklat 1 - KSR Angkatan 11</h2>
+                     <h1>13-02-2021</h1>
                   </a>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam pariatur, ullam unde earum, est sapiente odit iste dolore ratione quis consequatur. Repellat unde dolor vero ab. Eos earum qui deserunt!
-                     Lorem ipsum dolor sit aku, amet consectetur adipisicing elit. Quis blanditiis architecto doloremque in obcaecati accusantium laboriosam, dicta illum saepe corporis ducimus aperiam quam enim, laudantium nostrum autem sapiente vitae quasi?
-                  </p>
-                  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque harum amet natus adipisci aliquam eos hic nemo velit consequatur eveniet cupiditate, eum ullam ratione, sed ad, quos officia. Corporis, eligendi?
-                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam iusto esse aut error dignissimos aliquam cupiditate sint, voluptatibus quo facere. Reprehenderit inventore in ullam veniam et tempore suscipit totam architecto.
-                  </p>
+                  <div style="margin-left: 30px;">
+                     <span>Halo anggota muda KSR PMI Unit Polstat STIS angkatan 11. Berikut terlampir ketentuan-ketentuan dan penugasan untuk pelaksanaan </span>
+                     <span style="font-weight: bold;">Diklat I</span><span>.</span>
+                  </div>
                </div>
-               <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pasca_diklat.pdf" target=”_blank” class="pdf">
+               <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/tugas_pradiklat_1_-__angkatan_11.docx" target=”_blank” class="pdf">
                   <img src="../images/pdf.png" alt="unduh">
                   <span><br></span>
-                  <span>Dokumen 8</span> <br>
+                  <span>tugas_pradiklat_1_-__angkatan_11.docx</span> <br>
                   <span style="color: #c8ae79">Buka Dokumen</span>
                </a>
                <br>

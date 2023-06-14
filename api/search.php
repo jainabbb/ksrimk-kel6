@@ -107,7 +107,7 @@
                $searchString = $_POST['search'];
 
                // cari artikel
-               $i = 0; $j = 15; $k = 0;
+               $i = 0; $j = 9; $k = 0;
                $articles = file('websites.txt', FILE_USE_INCLUDE_PATH);
                $articles2 = file('websites2.txt', FILE_USE_INCLUDE_PATH);
                echo '<div class="three_box" id="three_box">

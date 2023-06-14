@@ -61,25 +61,25 @@ $_SESSION['no_page'] = 2; ?>
                   <div class="row">
                      <div class="col-md-4" id="artikel1">
                         <div class="gift_box">
-                           <i><img src="../images/pmi.jpg" alt="pmi"></i>
-                           <h1>Artikel 1</h1>
-                           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                           <i><img src="../images/artikel 1.png" alt="pmi"></i>
+                           <div class="lartikelh1"><h1>Pentingnya "Me Time" Untuk Kesehatan Psikologis</h1></div>
+                           <div class="resume"><p>Pernahkah kamu merasa penat akan segala rutinitas yang kamu lakukan?</p></div>
                            <a href="konten artikel.php"><button class="sumbit">Lihat Selengkapnya</button></a>
                         </div>
                      </div>
                      <div class="col-md-4" id="artikel2">
                         <div class="gift_box">
-                           <i><img src="../images/pmi.jpg" alt="pmi"></i>
-                           <h1>Artikel 2</h1>
-                           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                           <i><img src="../images/artikel 2.png" alt="pmi"></i>
+                           <div class="lartikelh1"><h1>Menjaga 'Mindset' Sehat di Tengah Pandemi</h1></div>
+                           <div class="resume"><p>Pikiran yang positif dan realistis setidaknya dapat membantu kita berpikir lebih jernih sebelum mengambil keputusan.</p></div>
                            <a href="konten artikel 2.php"><button class="sumbit">Lihat Selengkapnya</button></a>
                         </div>
                      </div>
                      <div class="col-md-4" id="artikel3">
                         <div class="gift_box">
-                           <i><img src="../images/pmi.jpg" alt="pmi"></i>
-                           <h1>Artikel 3</h1>
-                           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                           <i><img src="../images/artikel 3.png" alt="pmi"></i>
+                           <div class="lartikelh1"><h1>Pembelajaran Jarak Jauh Sehat, Bisakah?</h1></div>
+                           <div class="resume"><p>Duduk di depan perangkat digital seperti komputer atau laptop 'seharian' tentunya punya dampak negatif, lho!</p></div>
                            <a href="konten artikel 3.php"><button class="sumbit">Lihat Selengkapnya</button></a>
                         </div>
                      </div>
@@ -87,51 +87,25 @@ $_SESSION['no_page'] = 2; ?>
                   <div class="row">
                      <div class="col-md-4">
                         <div class="gift_box">
-                           <i><img src="../images/pmi.jpg" alt="pmi"></i>
-                           <h1>Artikel 4</h1>
-                           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                           <i><img src="../images/artikel 4.png" alt="pmi"></i>
+                           <div class="lartikelh1"><h1>Gangguan Kesehatan Mental</h1></div>
+                           <div class="resume"><p>Kondisi kesehatan bukan hanya kesehatan fisik namun juga kesehatan mental.</p></div>
                            <button class="sumbit">Lihat Selengkapnya</button>
                         </div>
                      </div>
                      <div class="col-md-4">
                         <div class="gift_box">
-                           <i><img src="../images/pmi.jpg" alt="pmi"></i>
-                           <h1>Artikel 5</h1>
-                           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                           <i><img src="../images/artikel 5.png" alt="pmi"></i>
+                           <div class="lartikelh1"><h1>Yuk Kenal Lebih Dekat Dengan COVID-19</h1></div>
+                           <div class="resume"><p>COVID-19 adalah penyakit menular yang disebabkan oleh jenis coronavirus yang baru ditemukan.</p></div>
                            <button class="sumbit">Lihat Selengkapnya</button>
                         </div>
                      </div>
                      <div class="col-md-4">
                         <div class="gift_box">
-                           <i><img src="../images/pmi.jpg" alt="pmi"></i>
-                           <h1>Artikel 6</h1>
-                           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-                           <button class="sumbit">Lihat Selengkapnya</button>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="row">
-                     <div class="col-md-4">
-                        <div class="gift_box">
-                           <i><img src="../images/pmi.jpg" alt="pmi"></i>
-                           <h1>Artikel 7</h1>
-                           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-                           <button class="sumbit">Lihat Selengkapnya</button>
-                        </div>
-                     </div>
-                     <div class="col-md-4">
-                        <div class="gift_box">
-                           <i><img src="../images/pmi.jpg" alt="pmi"></i>
-                           <h1>Artikel 8</h1>
-                           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-                           <button class="sumbit">Lihat Selengkapnya</button>
-                        </div>
-                     </div>
-                     <div class="col-md-4">
-                        <div class="gift_box">
-                           <i><img src="../images/pmi.jpg" alt="pmi"></i>
-                           <h1>Artikel 9</h1>
-                           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                           <i><img src="../images/artikel 6.png" alt="pmi"></i>
+                           <div class="lartikelh1"><h1>Tetua Berkata, Budak Bertindak</h1></div>
+                           <div class="resume"><p>Kinta, sebuah kampung tua di Palu, Sulawesi Tenggara ternyata bertuah. Di kampung itu berdiri 15 rumah saling berhadapan.</p></div>
                            <button class="sumbit">Lihat Selengkapnya</button>
                         </div>
                      </div>
@@ -139,51 +113,25 @@ $_SESSION['no_page'] = 2; ?>
                   <div class="row">
                      <div class="col-md-4">
                         <div class="gift_box">
-                           <i><img src="../images/pmi.jpg" alt="pmi"></i>
-                           <h1>Artikel 10</h1>
-                           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                           <i><img src="../images/artikel 7.png" alt="pmi"></i>
+                           <div class="lartikelh1"><h1>Pola Hidup Mahasiswa Politeknik Statistika STIS 2019</h1></div>
+                           <div class="resume"><p>Ada tiga elemen yang dapat menentukan kualitas tidur yang baik, yaitu durasi, kontinuitas dan kedalaman.</p></div>
                            <button class="sumbit">Lihat Selengkapnya</button>
                         </div>
                      </div>
                      <div class="col-md-4">
                         <div class="gift_box">
-                           <i><img src="../images/pmi.jpg" alt="pmi"></i>
-                           <h1>Artikel 11</h1>
-                           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                           <i><img src="../images/artikel 8.png" alt="pmi"></i>
+                           <div class="lartikelh1"><h1>Gempa Bumi? Jangan Panik!</h1></div>
+                           <div class="resume"><p>Gempa merupakan salah satu bencana alam yang telah merogoh harta bahkan nyawa manusia.</p></div>
                            <button class="sumbit">Lihat Selengkapnya</button>
                         </div>
                      </div>
                      <div class="col-md-4">
                         <div class="gift_box">
-                           <i><img src="../images/pmi.jpg" alt="pmi"></i>
-                           <h1>Artikel 12</h1>
-                           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-                           <button class="sumbit">Lihat Selengkapnya</button>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="row">
-                     <div class="col-md-4">
-                        <div class="gift_box">
-                           <i><img src="../images/pmi.jpg" alt="pmi"></i>
-                           <h1>Artikel 13</h1>
-                           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-                           <button class="sumbit">Lihat Selengkapnya</button>
-                        </div>
-                     </div>
-                     <div class="col-md-4">
-                        <div class="gift_box">
-                           <i><img src="../images/pmi.jpg" alt="pmi"></i>
-                           <h1>Artikel 14</h1>
-                           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-                           <button class="sumbit">Lihat Selengkapnya</button>
-                        </div>
-                     </div>
-                     <div class="col-md-4">
-                        <div class="gift_box">
-                           <i><img src="../images/pmi.jpg" alt="pmi"></i>
-                           <h1>Artikel 15</h1>
-                           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                           <i><img src="../images/artikel 9.png" alt="pmi"></i>
+                           <div class="lartikelh1"><h1>Save Our Ocean, Plastic Free!</h1></div>
+                           <div class="resume"><p>Kebiasaan masyarakat yang sering membuang sampah ke sungai menyebabkan sampah menumpuk di lautan.</p></div>
                            <button class="sumbit">Lihat Selengkapnya</button>
                         </div>
                      </div>

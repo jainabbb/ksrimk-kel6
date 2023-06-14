@@ -383,7 +383,20 @@ ul.social_icon li a:hover {
 }
 
 .gift_box {
-     margin-bottom: 2%;
+     margin-bottom: 3%;
+}
+
+.lartikelh1 {
+     height: 86px;
+     display: flex;
+     align-items: center;
+     margin-top: 4px;
+}
+
+.resume {
+     height: 95px;
+     display: flex;
+     align-items: center;
 }
 
 .bagian {
@@ -1242,6 +1255,7 @@ margin: 0 15px 20px 15px;
      text-align: left;
      padding: 0 0 20%;
      border-radius: 20px;
+     height: 420px;
 }
 
 .gift_box i {
@@ -1251,6 +1265,7 @@ margin: 0 15px 20px 15px;
 .gift_box i img {
      border-top-left-radius: 20px;
      border-top-right-radius: 20px;
+     height: 183px;
 }
 
 .gift_box span {
@@ -1369,7 +1384,14 @@ margin: 0 15px 20px 15px;
    }
 
 .gift_box h1, .gift_box p {
-     margin: 0 5px 0;
+     margin: 0 10px 0;
+}
+
+.gift_box h1 {
+     font-size: 20px;
+     line-height: 28px;
+     margin: 5px 10px;
+     /* text-align: justify; */
 }
 
 

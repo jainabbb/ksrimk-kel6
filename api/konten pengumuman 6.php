@@ -74,7 +74,7 @@
                </div>
             </a>
             <br>
-            <iframe id="pdf" src="https://docs.google.com/viewer?url=https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/tugas_pradiklat_3_-_angkatan_11.pdf&embedded=true" width="800" height="500"></iframe>
+            <iframe id="pdf" src="https://www.docdroid.net/GdmbMoz/tugas-pradiklat-3-angkatan-11-pdf" width="800" height="500"></iframe>
          </div>
          <div class="opening" id="daftarartikel" style="padding-left: 0; padding-right: 0; margin-bottom: 0;">
             <h2>Daftar Pengumuman</h2>

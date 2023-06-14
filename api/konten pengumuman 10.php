@@ -38,6 +38,8 @@
          <div class="loader"><img src="../images/loading.gif" alt="#"></div>
       </div> -->
    <?php include 'navbar.php'; ?>
+   <!-- end loader -->
+   <!-- header -->
    <div class="banner_main">
       <!-- news section -->
       <div class="news w3-animate-bottom" style="padding: 30px 20px;">
@@ -45,25 +47,35 @@
             <div class="row">
                <div class="col-md-12">
                   <div class="titlepage" id="judulartikel">
-                     <h2>Pengumuman 10</h2>
-                     <p>01-01-2023</p>
+                     <h2>Pengumuman Pra Diklat Calon Anggota KSR Angkatan 11</h2>
+                     <p>16-12-2020</p>
                   </div>
                </div>
             </div>
          </div>
          <div id="kontenp">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam pariatur, ullam unde earum, est sapiente odit iste dolore ratione quis consequatur. Repellat unde dolor vero ab. Eos earum qui deserunt!
-               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis blanditiis architecto doloremque in obcaecati accusantium laboriosam, dicta illum saepe corporis ducimus aperiam quam enim, laudantium nostrum autem sapiente vitae quasi?
-            </p>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque harum amet natus adipisci aliquam eos hic nemo velit consequatur eveniet cupiditate, eum ullam ratione, sed ad, quos officia. Corporis, eligendi?
-               Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam iusto esse aut error dignissimos aliquam cupiditate sint, voluptatibus quo facere. Reprehenderit inventore in ullam veniam et tempore suscipit totam architecto.
-            </p>
-            <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pasca_diklat.pdf" target=”_blank” class="pdf">
-               <img src="../images/pdf.png" alt="unduh">
-               <span><br></span>
-               <span>Dokumen 10</span> <br>
-               <span style="color: #c8ae79">Buka Dokumen</span>
+            <div>
+               <p style="font-weight: bold;">Halo Calon Anggota Muda KSR angkatan 11!</p>
+               <br>
+               <p>Selamat telah melewati tes tertulis, Tahapan oprec selanjutnya adalah Diklat niih!</p>
+               <p>Semangat terus ya, kita seru seruan bareng nanti ^^</p>
+               <br>
+               <p>Ayo persiapin diri kalian, semua ketentuannya ada di file terlampir ya!</p>
+               <p>Ditunggu jadi bagian KSR PMI unit Polstat STIS Angkatan 11 ya!</p>
+               <br>
+               <p style="font-weight: bold; font-style: italic">Salam Kemanusiaan,</p>
+               <p style="font-weight: bold; font-style: italic">Siamo Tutti Fratelli!</p>
+            </div>
+            <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pra_diklat__2020_.pdf" target=”_blank”>
+               <div class="pdf">
+                  <img src="../images/pdf.png" alt="unduh">
+                  <span><br></span>
+                  <span>pengumuman_pra_diklat__2020_.pdf</span> <br>
+                  <span style="color: #c8ae79">Buka Dokumen</span>
+               </div>
             </a>
+            <br>
+            <iframe id="pdf" src="https://www.docdroid.net/sfqp7mX/pengumuman-pra-diklat-2020-pdf" width="800" height="500"></iframe>
          </div>
          <div class="opening" id="daftarartikel" style="padding-left: 0; padding-right: 0; margin-bottom: 0;">
             <h2>Daftar Pengumuman</h2>
@@ -99,8 +111,6 @@
             </a>
          </div>
 
-         <object data="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pasca_diklat.pdf" width="800" height="500">
-         </object>
       </div>
       <div class="container">
          <div class="row">

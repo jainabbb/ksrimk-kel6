@@ -75,7 +75,7 @@
                </a>
                 <br><br>
                <iframe id="pdf" src=
-                  "https://docs.google.com/viewer?url=https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumunan_pra_diklat.pdf&embedded=true"
+                  "https://www.docdroid.net/YhZ2s5t/pengumunan-pra-diklat-pdf"
                   width="800"
                   height="500"></iframe>
             </div>

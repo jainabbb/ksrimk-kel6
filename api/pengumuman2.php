@@ -80,7 +80,7 @@
                   <p>Hai anggota muda KSR 11. Gimana Diklat 1 nya?, semoga menyenangkan dan tambah semangat ya untuk mengikuti diklat selanjutnya :)
                   </p>
                   <span style="margin-left: 30px;">Berikut ini adalah lampiran untuk </span>
-                  <span style="font-weight: bold;">tugas pradiklat 2</span><span>.</span>
+                  <span style="font-weight: bold; font-style: italic">tugas pradiklat 2</span><span>.</span>
                   <p>Tetap semangat dan jaga kesehatan, sampai jumpa lagi di diklat 2 ^^</p>
                </div>
                <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/tugas_pradiklat_2-_angkatan_11.pdf" target=”_blank” class="pdf">
@@ -91,7 +91,7 @@
                </a>
                <br>
             </div>
-            <div class="opening daftarp" id="about">
+            <div class="opening daftarp">
                <div>
                   <a href="konten pengumuman 8.php">
                      <h2>Pengumuman Pradiklat 1 - KSR Angkatan 11</h2>
@@ -110,44 +110,51 @@
                </a>
                <br>
             </div>
-            <div class="opening daftarp" id="about">
+            <div class="opening daftarp">
                <div>
                   <a href="konten pengumuman 9.php">
-                     <h2>Pengumuman 9</h2>
-                     <h1>01-01-2023</h1>
+                     <h2>Pengumuman Pasca Diklat Calon Anggota KSR Angkatan 11</h2>
+                     <h1>16-12-2020</h1>
                   </a>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam pariatur, ullam unde earum, est sapiente odit iste dolore ratione quis consequatur. Repellat unde dolor vero ab. Eos earum qui deserunt!
-                     Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis blanditiis architecto doloremque in obcaecati accusantium laboriosam, dicta illum saepe corporis ducimus aperiam quam enim, laudantium nostrum autem sapiente vitae quasi?
-                  </p>
-                  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque harum amet natus adipisci aliquam eos hic nemo velit consequatur eveniet cupiditate, eum ullam ratione, sed ad, quos officia. Corporis, eligendi?
-                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam iusto esse aut error dignissimos aliquam cupiditate sint, voluptatibus quo facere. Reprehenderit inventore in ullam veniam et tempore suscipit totam architecto.
-                  </p>
+                  <p>Halo calon anggota muda KSR PMI Unit Polstat STIS angkatan 11!</p>
+                  <p>Selamat sudah melewati diklat hari ini.</p>
+                  <span style="margin-left: 30px;">Berikut ini kami lampirkan </span>
+                  <span style="font-weight: bold; font-style:italic;">pengumuman pasca diklat</span>
+                  <span>. Dipersiapkan yaa ^_^</span>
+                  <p>Ditunggu jadi bagian KSR PMI unit Polstat STIS Angkatan 11!</p>
+                  <br>
+                  <p style="font-weight: bold; font-style: italic">Salam Kemanusiaan,</p>
+                  <p style="font-weight: bold; font-style: italic">Siamo Tutti Fratelli!</p>
                </div>
-               <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pasca_diklat.pdf" target=”_blank” class="pdf">
+               <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pasca_diklat_.pdf" target=”_blank” class="pdf">
                   <img src="../images/pdf.png" alt="unduh">
                   <span><br></span>
-                  <span>Dokumen 9</span> <br>
+                  <span>pengumuman_pasca_diklat_.pdf</span> <br>
                   <span style="color: #c8ae79">Buka Dokumen</span>
                </a>
                <br>
             </div>
-            <div class="opening daftarp" id="about">
+            <div class="opening daftarp">
                <div>
                   <a href="konten pengumuman 10.php">
-                     <h2>Pengumuman 10</h2>
-                     <h1>01-01-2023</h1>
+                     <h2>Pengumuman Pra Diklat Calon Anggota KSR Angkatan 11</h2>
+                     <h1>16-12-2020</h1>
                   </a>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam pariatur, ullam unde earum, est sapiente odit iste dolore ratione quis consequatur. Repellat unde dolor vero ab. Eos earum qui deserunt!
-                     Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis blanditiis architecto doloremque in obcaecati accusantium laboriosam, dicta illum saepe corporis ducimus aperiam quam enim, laudantium nostrum autem sapiente vitae quasi?
-                  </p>
-                  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque harum amet natus adipisci aliquam eos hic nemo velit consequatur eveniet cupiditate, eum ullam ratione, sed ad, quos officia. Corporis, eligendi?
-                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam iusto esse aut error dignissimos aliquam cupiditate sint, voluptatibus quo facere. Reprehenderit inventore in ullam veniam et tempore suscipit totam architecto.
-                  </p>
+                  <p style="font-weight: bold;">Halo Calon Anggota Muda KSR angkatan 11!</p>
+                  <br>
+                  <p>Selamat telah melewati tes tertulis, Tahapan oprec selanjutnya adalah Diklat niih!</p>
+                  <p>Semangat terus ya, kita seru seruan bareng nanti ^^</p>
+                  <br>
+                  <p>Ayo persiapin diri kalian, semua ketentuannya ada di file terlampir ya!</p>
+                  <p>Ditunggu jadi bagian KSR PMI unit Polstat STIS Angkatan 11 ya!</p>
+                  <br>
+                  <p style="font-weight: bold; font-style: italic">Salam Kemanusiaan,</p>
+                  <p style="font-weight: bold; font-style: italic">Siamo Tutti Fratelli!</p>
                </div>
-               <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pasca_diklat.pdf" target=”_blank” class="pdf">
+               <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pra_diklat__2020_.pdf" target=”_blank” class="pdf">
                   <img src="../images/pdf.png" alt="unduh">
                   <span><br></span>
-                  <span>Dokumen 10</span> <br>
+                  <span>pengumuman_pra_diklat__2020_.pdf</span> <br>
                   <span style="color: #c8ae79">Buka Dokumen</span>
                </a>
                <br>

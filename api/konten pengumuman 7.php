@@ -37,7 +37,7 @@
    <!-- <div class="loader_bg">
          <div class="loader"><img src="../images/loading.gif" alt="#"></div>
       </div> -->
-   <?php include 'navbar.php'; ?>
+   <?php $_SESSION['no_page'] = 4; include 'navbar.php'; ?>
    <!-- end loader -->
    <!-- header -->
    <div class="banner_main">
@@ -70,7 +70,7 @@
                </div>
             </a>
             <br>
-            <iframe id="pdf" src="https://docs.google.com/viewer?url=https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/tugas_pradiklat_2-_angkatan_11.pdf&embedded=true" width="800" height="500"></iframe>
+            <iframe id="pdf" src="https://www.docdroid.net/3Pszku2/tugas-pradiklat-2-angkatan-11-pdf" width="800" height="500"></iframe>
          </div>
          <div class="opening" id="daftarartikel" style="padding-left: 0; padding-right: 0; margin-bottom: 0;">
             <h2>Daftar Pengumuman</h2>

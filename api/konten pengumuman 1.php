@@ -75,7 +75,7 @@
                 </a>
                 <br>
                <iframe id="pdf" src=
-                  "https://docs.google.com/viewer?url=https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pasca_diklat.pdf&embedded=true"
+                  "https://www.docdroid.net/ZN06g0Z/pengumuman-pasca-diklat-pdf"
                   width="800"
                   height="500"></iframe>
             </div>

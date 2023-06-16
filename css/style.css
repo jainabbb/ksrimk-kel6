@@ -1687,9 +1687,10 @@ margin: 0 15px 20px 15px;
      color: chocolate;
 }
 
-ol p {
+ol p, .artol li {
      /* text-indent: 0 !important; */
      width: 69.4% !important;
+     text-align: justify;
 }
 
 .send_btn:hover {

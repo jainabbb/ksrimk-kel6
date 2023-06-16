@@ -220,7 +220,7 @@ if (!(session_status() === PHP_SESSION_ACTIVE)) {
                <div class="col-md-6">
                   <p>Email</p>
                   <form class="news_form">
-                     <input class="letter_form" placeholder=" Enter your email" type="text" name="Enter your email">
+                     <input class="letter_form" placeholder="Masukkan Email Anda" type="text" name="Masukkan Email Anda">
                      <br>
                      <button class="submit">Subscribe</button>
                   </form>

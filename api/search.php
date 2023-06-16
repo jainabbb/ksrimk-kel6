@@ -57,13 +57,13 @@
                                     <a class="nav-link" href="index.php">Beranda</a>
                                  </li>
                                  <li class="nav-item">
+                                    <a class="nav-link" href="pengumuman.php">Pengumuman</a>
+                                 </li>
+                                 <li class="nav-item">
                                     <a class="nav-link" href="artikel1.php">Artikel</a>
                                  </li>
                                  <li class="nav-item">
                                     <a class="nav-link" href="galeri.php">Galeri</a>
-                                 </li>
-                                 <li class="nav-item">
-                                    <a class="nav-link" href="pengumuman.php">Pengumuman</a>
                                  </li>
                                  <li class="nav-item">
                                     <a class="nav-link" href="tentang.php">Tentang</a>
@@ -174,6 +174,7 @@
                }
                $a = 0;
                foreach ($pengumuman2 as $item) {
+                  if ($a == 5) break;
                   if (stripos($item->plaintext, $searchString) !== false) {
                      echo $pengumumanp2[$a]->outertext;
                      $b++;

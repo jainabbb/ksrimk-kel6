@@ -120,9 +120,7 @@ button:focus {
      outline: none;
 }
 
-ul,
-li,
-ol {
+ul li {
      margin: 0px;
      padding: 0px;
      list-style: none;
@@ -416,7 +414,7 @@ ul.social_icon li a:hover {
 
 #logo {
      float: left;    
-     margin: 0 3% 0 3%;
+     margin: 0 3% 10px 3%;
 }
 
 ul.conta_icon li a i {
@@ -667,15 +665,12 @@ ul.right_icon li img {
      font-weight: normal;
      text-align: justify; 
      text-indent: 0.3in;
+     width: 70%;
 }
 
 #kontenp p {
      font-weight: normal;
      text-align: justify; 
-}
-
-#konten p {
-     width: 70%;
 }
 
 #kontenp {
@@ -686,6 +681,10 @@ ul.right_icon li img {
      float: left;
      color: black;
      height: 80%;
+}
+
+.bold {
+     font-weight: 500 !important;
 }
 
 #pdf {
@@ -1658,6 +1657,39 @@ margin: 0 15px 20px 15px;
      margin-top: 50px;
      transition: ease-in all 0.5s;
      border-radius: 40px;
+}
+
+.artlist {
+     padding: 0;
+}
+
+.artol {
+     padding-left: 2%;
+     /* width: 68%; */
+}
+
+.artlist li {
+     list-style: disc;
+     margin-left: 20px;
+}
+
+.artlist p {
+     /* text-indent: 0 !important; */
+     margin-left: 2%;
+     width: 68% !important;
+}
+
+.arta {
+     color: #B90E0A;
+}
+
+.arta:hover {
+     color: chocolate;
+}
+
+ol p {
+     /* text-indent: 0 !important; */
+     width: 69.4% !important;
 }
 
 .send_btn:hover {

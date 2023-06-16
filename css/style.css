@@ -382,10 +382,6 @@ ul.social_icon li a:hover {
      padding: 0 5%;
 }
 
-.gift_box {
-     margin-bottom: 3%;
-}
-
 .lartikelh1 {
      height: 86px;
      display: flex;
@@ -712,21 +708,30 @@ ul.right_icon li img {
      text-align: justify; 
 }
 
-#about p {
+#about p, #indexp p {
      font-weight: normal;
      text-align: justify; 
-     text-indent: 0.8in;
      margin: 0 30px;
 }
 
-#about ul {
-     font-weight: normal;
-     text-align: justify; 
-     text-indent: 0.15in;
-     margin: 0 30px 0 38px;     
+#about p {
+     text-indent: 0.8in;
 }
 
-#about li {
+#tentang p {
+     text-indent: 0.8in;
+     text-align: justify; 
+     margin: 0 30px;
+}
+
+#tentang ul {
+     text-align: justify; 
+     text-indent: 0.15in;
+     margin: 0 30px 0 38px;    
+     font-weight: 500; 
+}
+
+#tentang li {
      list-style-type: "-";
 }
 
@@ -735,12 +740,12 @@ ul.right_icon li img {
      text-indent: 0.6in;
 }
 
-#about h2, .daftarp h2 {
+#about h2, .daftarp h2, #indexp h2, #tentang h2 {
      font-size: 24px;
      margin: 0 30px;
 }
 
-#about h1, .daftarp h1 {
+#about h1, .daftarp h1, #indexp h1, #tentang h1 {
      margin: 0 30px;
 }
 
@@ -752,6 +757,10 @@ ul.right_icon li img {
 
 .pdf span {
      font-weight: bold;
+}
+
+.pdf:hover {
+     color: chocolate;
 }
 
 #daftarartikel p {
@@ -1208,7 +1217,7 @@ margin: 0 15px 20px 15px;
      width: 70%;
      padding: 0 15px;
      font-size: 17px;
-     /* border-radius: 32px; */
+     border-radius: 30px;
      border: #a8a8a8 solid 1px;
 }
 
@@ -1233,7 +1242,13 @@ margin: 0 15px 20px 15px;
 
 .artbutton .sumbit {
      font-size: 20px;
-     padding: 0.5% 4%;
+     padding: 5px 20px;
+     margin-right: 0;
+     margin-top: 5%;
+}
+
+.sumbit:hover {
+     background-color: chocolate;
 }
 
 .news_form .sumbit:hover {
@@ -1250,12 +1265,13 @@ margin: 0 15px 20px 15px;
 
 .gift_box {
      background-color: #fff;
-     box-shadow: 0px 0px 16px rgba(13, 3, 3, 20%);
+     box-shadow: 0px 0px 16px rgba(13, 3, 3, 30%);
      color: black;
      text-align: left;
      padding: 0 0 20%;
      border-radius: 20px;
      height: 420px;
+     margin-bottom: 5%;
 }
 
 .gift_box i {
@@ -1266,6 +1282,7 @@ margin: 0 15px 20px 15px;
      border-top-left-radius: 20px;
      border-top-right-radius: 20px;
      height: 183px;
+     width: 100%;
 }
 
 .gift_box span {
@@ -1409,6 +1426,7 @@ margin: 0 15px 20px 15px;
      float: left;
      margin: 4px 0;
      padding: 0 15px;
+     border-radius: 30px;
 }
 
 #location {
@@ -1454,6 +1472,23 @@ margin: 0 15px 20px 15px;
      justify-content: center;
      align-items: center;
      padding-top: 10px;
+}
+
+.fa {
+     font-size: 35px !important;
+     color: white;
+     margin: 5px;
+}
+
+.fa:hover {
+     color: chocolate;
+     /* color: #c8ae79; */
+}
+
+.fa-search {
+     color: #b7b7b7;
+     margin: 0;
+     font-size: 14px !important;
 }
 
 .copyright {

@@ -13,7 +13,7 @@
                    <div class="col-md-6">
                        <p>Email</p>
                        <form class="news_form">
-                           <input class="letter_form" placeholder=" Enter your email" type="text" name="Enter your email">
+                           <input class="letter_form" placeholder=" Masukkan Email Anda" type="text" name="Masukkan Email Anda">
                            <br>
                            <button class="submit">Subscribe</button>
                        </form>
@@ -29,8 +29,9 @@
                <div class="socials">
                    <a href="mailto:ksrpmi@stis.ac.id"><img src="../images/email.png" alt="email" width="35"></a>
                    <a href="https://twitter.com/ksr_stis" target=”_blank”><img src="../images/twitter.png" alt="twitter" width="50"></a>
-                   <a href="https://www.instagram.com/ksr_stis/" target=”_blank”><img src="../images/instagram.png" alt="twitter" width="30"></a>
-               </div>
+    <a href="mailto:ksrpmi@stis.ac.id"><i class="fa fa-solid fa-envelope"></i></a>
+               <a href="https://twitter.com/ksr_stis" target=”_blank”><i class="fa fa-twitter"></i></a>
+               <a href="https://www.instagram.com/ksr_stis/" target=”_blank”><i class="fa fa-instagram"></i></a>               </div>
                <div class="socials">
                    <p>© Copyright 2023, Politeknik Statistika STIS</p>
                </div>

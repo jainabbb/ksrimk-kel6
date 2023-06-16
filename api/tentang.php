@@ -26,6 +26,7 @@
    <!-- Tweaks for older IEs-->
    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
    <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
@@ -52,7 +53,7 @@
                </div>
             </div>
          </div>
-         <div class="opening" style="padding-left: 0; padding-right: 0; margin-bottom: 0;" id="about">
+         <div class="opening" style="padding-left: 0; padding-right: 0; margin-bottom: 0;" id="tentang">
             <h2>A. Latar Belakang</h2>
             <p>Setiap lingkungan kampus atau universitas pasti tidak lepas dari berbagai kegiatan ekstrakulikuler di dalamnya. Begitu juga di lingkungan kampus STIS, misalnya kegiatan masa integrasi pendidikan kampus (magradika), dies natalis, jelajah alam, atau kegiatan yang dilakukan oleh masing-masing unit kegiatan mahasiswa (UKM) di STIS. Kegiatan-kegiatan tersebut tidak lepas dari timbulnya kecelakaan bagi pesertanya. Oleh karena itu, pada pelaksanaan kegiatan tersebut diperlukan tim pertolongan pertama pada korban kecelakaan. Sayangnya, sumber daya yang memiliki kemampuan dalam memberikan pertolongan pertama di STIS selama ini masih kurang. Hal ini dikarenakan tidak adanya suatu wadah untuk pelatihan atau pendidikan dasar kepalangmerahan kepada mahasiswa STIS.</p>
             <p>Berdasarkan hal tersebut, beberapa mahasiswa STIS dan anggota pecinta alam STIS “GPA CHEBBY” yang tergerak hatinya bermaksud untuk mendirikan suatu unit kegiatan mahasiswa yang bergerak di bidang sosial, kemanusiaan, dan pertolongan pertama. Setelah mengajak mahasiswa lain untuk bergabung dalam wadah tersebut, diadakan pertemuan pertama diantara mahasiswa tersebut bertempat di kontrakan BPS (nama kontrakan mahasiswa STIS) untuk membahas pembentukan UKM baru yang bergerak di bidang pertolongan pertama serta menyusun kepengurusannya. Pertemuan tersebut menetapkan bahwa akan dibentuk UKM baru dengan nama UPM (UKM Palang Merah) STIS dan dipilih ketua UPM STIS pertama yaitu Nugrohoning Gusmastuti (3 KS2).</p>
@@ -148,7 +149,7 @@
                <div class="col-md-6">
                   <p>Email</p>
                   <form class="news_form">
-                     <input class="letter_form" placeholder=" Enter your email" type="text" name="Enter your email">
+                     <input class="letter_form" placeholder=" Masukkan Email Anda" type="text" name="Masukkan Email Anda">
                      <br>
                      <button class="submit">Subscribe</button>
                   </form>
@@ -162,9 +163,9 @@
                </div>
             </div>
             <div class="socials">
-               <a href="mailto:ksrpmi@stis.ac.id"><img src="../images/email.png" alt="email" width="35"></a>
-               <a href="https://twitter.com/ksr_stis" target=”_blank”><img src="../images/twitter.png" alt="twitter" width="50"></a>
-               <a href="https://www.instagram.com/ksr_stis/" target=”_blank”><img src="../images/instagram.png" alt="twitter" width="30"></a>
+               <a href="mailto:ksrpmi@stis.ac.id"><i class="fa fa-solid fa-envelope"></i></a>
+               <a href="https://twitter.com/ksr_stis" target=”_blank”><i class="fa fa-twitter"></i></a>
+               <a href="https://www.instagram.com/ksr_stis/" target=”_blank”><i class="fa fa-instagram"></i></a>
             </div>
             <div class="socials">
                <p>© Copyright 2023, Politeknik Statistika STIS</p>

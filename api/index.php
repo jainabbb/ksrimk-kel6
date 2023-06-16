@@ -92,7 +92,7 @@ if (!(session_status() === PHP_SESSION_ACTIVE)) {
                   <img src="../images/pdf.png" alt="unduh">
                   <span><br></span>
                   <span>pengumuman_pasca_diklat.pdf</span> <br>
-                  <span style="color: #c8ae79">Buka Dokumen</span>
+                  <span style="color: #c8ae79">Unduh Dokumen</span>
                </a>
             </div>
             <div class="row">

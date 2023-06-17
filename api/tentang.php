@@ -22,9 +22,16 @@
          </div>
          <div class="opening" style="padding-left: 0; padding-right: 0; margin-bottom: 0;" id="tentang">
             <h2>A. Latar Belakang</h2>
-            <p>Setiap lingkungan kampus atau universitas pasti tidak lepas dari berbagai kegiatan ekstrakulikuler di dalamnya. Begitu juga di lingkungan kampus STIS, misalnya kegiatan masa integrasi pendidikan kampus (magradika), dies natalis, jelajah alam, atau kegiatan yang dilakukan oleh masing-masing unit kegiatan mahasiswa (UKM) di STIS. Kegiatan-kegiatan tersebut tidak lepas dari timbulnya kecelakaan bagi pesertanya. Oleh karena itu, pada pelaksanaan kegiatan tersebut diperlukan tim pertolongan pertama pada korban kecelakaan. Sayangnya, sumber daya yang memiliki kemampuan dalam memberikan pertolongan pertama di STIS selama ini masih kurang. Hal ini dikarenakan tidak adanya suatu wadah untuk pelatihan atau pendidikan dasar kepalangmerahan kepada mahasiswa STIS.</p>
-            <p>Berdasarkan hal tersebut, beberapa mahasiswa STIS dan anggota pecinta alam STIS “GPA CHEBBY” yang tergerak hatinya bermaksud untuk mendirikan suatu unit kegiatan mahasiswa yang bergerak di bidang sosial, kemanusiaan, dan pertolongan pertama. Setelah mengajak mahasiswa lain untuk bergabung dalam wadah tersebut, diadakan pertemuan pertama diantara mahasiswa tersebut bertempat di kontrakan BPS (nama kontrakan mahasiswa STIS) untuk membahas pembentukan UKM baru yang bergerak di bidang pertolongan pertama serta menyusun kepengurusannya. Pertemuan tersebut menetapkan bahwa akan dibentuk UKM baru dengan nama UPM (UKM Palang Merah) STIS dan dipilih ketua UPM STIS pertama yaitu Nugrohoning Gusmastuti (3 KS2).</p>
+            <p>Setiap lingkungan kampus atau universitas pasti tidak lepas dari berbagai kegiatan ekstrakulikuler di dalamnya. Begitu juga di lingkungan kampus STIS, misalnya kegiatan masa integrasi pendidikan kampus (magradika), dies natalis, jelajah alam, atau kegiatan yang dilakukan oleh masing-masing unit kegiatan mahasiswa (UKM) di STIS. Kegiatan-kegiatan tersebut tidak lepas dari timbulnya kecelakaan bagi pesertanya. Oleh karena itu, pada pelaksanaan kegiatan tersebut diperlukan tim pertolongan pertama pada korban kecelakaan. Sayangnya, sumber daya yang memiliki kemampuan dalam memberikan pertolongan pertama di STIS selama ini masih kurang. Hal ini dikarenakan tidak adanya suatu wadah untuk pelatihan atau pendidikan dasar kepalangmerahan kepada mahasiswa STIS.
+               <a id="collapse-btn-latar" class="collapse-button" style="color: #B90E0A;">[<strong><i>Tampilkan Semua</i></strong>]</a>
+            </p>
+            <div id="latar-paragraf" class="collapse-paragraph">
+               <p>Berdasarkan hal tersebut, beberapa mahasiswa STIS dan anggota pecinta alam STIS “GPA CHEBBY” yang tergerak hatinya bermaksud untuk mendirikan suatu unit kegiatan mahasiswa yang bergerak di bidang sosial, kemanusiaan, dan pertolongan pertama. Setelah mengajak mahasiswa lain untuk bergabung dalam wadah tersebut, diadakan pertemuan pertama diantara mahasiswa tersebut bertempat di kontrakan BPS (nama kontrakan mahasiswa STIS) untuk membahas pembentukan UKM baru yang bergerak di bidang pertolongan pertama serta menyusun kepengurusannya. Pertemuan tersebut menetapkan bahwa akan dibentuk UKM baru dengan nama UPM (UKM Palang Merah) STIS dan dipilih ketua UPM STIS pertama yaitu Nugrohoning Gusmastuti (3 KS2).
+                  <a id="uncollapse-btn-latar" class="collapse-button" style="color: #B90E0A; display:none;">[<strong><i>Tampilkan Sebagian</i></strong>]</a>
+               </p>
+            </div>
             <br>
+
             <h2>B. Tujuan</h2>
             <p>Tujuan dibentuknya KSR di masing-masing kampus tidak jauh berbeda. Beberapa tujuan dibentuknya UKM Palang Merah (UPM) STIS diantaranya:</p>
             <ul>
@@ -144,6 +151,19 @@
          document.getElementById("tentang-paragraf").style.display = 'none';
          document.getElementById("collapse-btn-tentang").style.display = 'inline';
          document.getElementById("uncollapse-btn-tentang").style.display = 'none';
+      });
+
+      //paragraf latar belakang
+      document.getElementById("collapse-btn-latar").addEventListener("click", function() {
+         document.getElementById("latar-paragraf").style.display = 'inline';
+         document.getElementById("collapse-btn-latar").style.display = 'none';
+         document.getElementById("uncollapse-btn-latar").style.display = 'inline';
+
+      });
+      document.getElementById("uncollapse-btn-latar").addEventListener("click", function() {
+         document.getElementById("latar-paragraf").style.display = 'none';
+         document.getElementById("collapse-btn-latar").style.display = 'inline';
+         document.getElementById("uncollapse-btn-latar").style.display = 'none';
       });
    </script>
 </body>

@@ -748,6 +748,10 @@ ul.right_icon li img {
      margin: 0 30px;
 }
 
+.daftarp h2:hover {
+     color: chocolate;
+}
+
 .pdf img {
      width: 10%;
      float: left;
@@ -764,9 +768,13 @@ ul.right_icon li img {
 
 #daftarartikel p {
      color: #c8ae79;
-     padding: 0 30px;
-     font-size: 18px;
+     padding: 0 30px 10px;
+     font-size: 16px;
      font-weight: normal;
+}
+
+#daftarartikel p:hover {
+     color: chocolate;
 }
 
 #daftarartikel h2 {

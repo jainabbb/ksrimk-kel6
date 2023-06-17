@@ -111,26 +111,38 @@ $("select").on("change" , function() {
 //   modal.style.display = "none";
 // }
 
+$('#dropDown').change(function () {
+	if (this.value == 'all') {
+		$('#filterar').show();
+		$('#filterp').show();
+	} else {
+		$(this).find("option").each(function () {
+			$('#' + this.value).hide();
+		});
+		$('#' + this.value).show();
+	}
+});
+
 function openModal() {
 	document.getElementById("myModal").style.display = "block";
-  }
-  
-  function closeModal() {
+}
+
+function closeModal() {
 	document.getElementById("myModal").style.display = "none";
-  }
-  
-  var slideIndex = 0;
-  showSlides(slideIndex);
-  
-  function plusSlides(n) {
+}
+
+var slideIndex = 0;
+showSlides(slideIndex);
+
+function plusSlides(n) {
 	showSlides(slideIndex += n);
-  }
-  
-  function currentSlide(n) {
+}
+
+function currentSlide(n) {
 	showSlides(slideIndex = n);
-  }
+}
   
-  function showSlides(n) {
+function showSlides(n) {
 	console.log(slideIndex);
 	console.log(n);
 	var i;
@@ -144,4 +156,4 @@ function openModal() {
 	} else n %= slides.length;
 	modalImg.src = slides[n].src;
 	captionText.innerHTML = n + 1 + ' / ' + slides.length;
-  }
+}

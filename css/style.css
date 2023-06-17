@@ -1802,7 +1802,7 @@ ol p, .artol li {
           overflow: auto;
      }
      .banner_main{
-          margin-top: 0;
+          margin-top: 10%;
      }
      .title-home{
       text-align: center;

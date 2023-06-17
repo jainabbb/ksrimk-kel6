@@ -101,12 +101,13 @@
                 </div>
             </div>
             <div style="padding-left: 0; padding-right: 0; margin-bottom: 0;">
-               <p class="pb-2">Tampilkan:</p>
-               <select id="dropDown" class="form-select" autocomplete="off">
-                  <option value="all" selected>Semua</option>
-                  <option value="filterar">Artikel</option>
-                  <option value="filterp">Pengumuman</option>
-               </select>
+               <div class="filter">
+                  <select id="dropDown" class="form-select" autocomplete="off">
+                     <option value="all" selected>Semua</option>
+                     <option value="filterar">Artikel</option>
+                     <option value="filterp">Pengumuman</option>
+                  </select>
+               </div>
                <br>
                <div id="filterar">
                   <div class="" style="padding-bottom: 0" id="daftarar">
@@ -162,6 +163,9 @@
                      echo '          </div>
                                  </div>
                            </div>';
+                     if ($k == 0) {
+                        echo '<div class="opening" style="text-align: center; margin: 80px 0" id="noresult"></div>';
+                     }
                   ?>
                </div>
                <div id="filterp">
@@ -193,43 +197,48 @@
                         }
                         $a++;
                      }
+                     if ($b == 0) {
+                        echo '<div class="opening" style="text-align: center; margin: 80px 0" id="noresultp"></div>';
+                     }
 
-                     // judul page
+                     // // judul page
                      if ($k == 0) {
                         if ($b == 0) {
-                           echo "<script>document.getElementById('judulsearch').innerText += ' \"tidak ada hasil\"'</script>";
-                           echo '<div class="opening" style="text-align: center; margin: 80px 0">
+                           // echo "<script>document.getElementById('judulsearch').innerText += ' \"tidak ada hasil\"'</script>";
+                           echo '<div class="opening" style="text-align: center; margin: 80px 0" id="noresultall">
                                     <img src="../images/no result.png" alt="no result" width="100">
                                     <br><br>
                                     <p style="font-size: 18px; font-weight: normal;">Tidak ada hasil</p>
                                  </div>';
-                        } else {
-                           echo "<script>";
-                           echo "document.getElementById('judulsearch').innerText += ' \"ada pengumuman\"';
-                                 document.getElementById('daftarp').classList.add('daftarp');
-                                 document.getElementById('adap').innerText += 'Pengumuman ditemukan';
-                                 document.getElementById('daftarar').style.display = 'none';
-                                 document.getElementById('three_box').style.display = 'none';";
-                           echo "</script>";
-                        }
-                     } else {
-                        if ($b == 0) {
-                           echo "<script>";
-                           echo "document.getElementById('judulsearch').innerText += ' \"ada artikel\"';
-                                 document.getElementById('daftarar').classList.add('daftarp');
-                                 document.getElementById('adar').innerText += 'Artikel ditemukan';
-                                 document.getElementById('daftarp').style.display = 'none';";
-                           echo "</script>";
-                        } else {
-                           echo "<script>";
-                           echo "document.getElementById('judulsearch').innerText += ' \"ada artikel dan pengumuman\"';
-                                 document.getElementById('daftarar').classList.add('daftarp');
-                                 document.getElementById('adar').innerText += 'Artikel ditemukan';
-                                 document.getElementById('daftarp').classList.add('daftarp');
-                                 document.getElementById('adap').innerText += 'Pengumuman ditemukan'";
-                           echo "</script>";
                         }
                      }
+                     //    } else {
+                     //       echo "<script>";
+                     //       echo "document.getElementById('judulsearch').innerText += ' \"ada pengumuman\"';
+                     //             document.getElementById('daftarp').classList.add('daftarp');
+                     //             document.getElementById('adap').innerText += 'Pengumuman ditemukan';
+                     //             document.getElementById('daftarar').style.display = 'none';
+                     //             document.getElementById('three_box').style.display = 'none';";
+                     //       echo "</script>";
+                     //    }
+                     // } else {
+                     //    if ($b == 0) {
+                     //       echo "<script>";
+                     //       echo "document.getElementById('judulsearch').innerText += ' \"ada artikel\"';
+                     //             document.getElementById('daftarar').classList.add('daftarp');
+                     //             document.getElementById('adar').innerText += 'Artikel ditemukan';
+                     //             document.getElementById('daftarp').style.display = 'none';";
+                     //       echo "</script>";
+                     //    } else {
+                     //       echo "<script>";
+                     //       echo "document.getElementById('judulsearch').innerText += ' \"ada artikel dan pengumuman\"';
+                     //             document.getElementById('daftarar').classList.add('daftarp');
+                     //             document.getElementById('adar').innerText += 'Artikel ditemukan';
+                     //             document.getElementById('daftarp').classList.add('daftarp');
+                     //             document.getElementById('adap').innerText += 'Pengumuman ditemukan'";
+                     //       echo "</script>";
+                     //    }
+                     // }
                   ?>
                </div>
             </div>
@@ -289,6 +298,7 @@
       <script src="../js/jquery-3.0.0.min.js"></script>
       <!-- sidebar -->
       <script src="../js/jquery.mCustomScrollbar.concat.min.js"></script>
+      <script>$('#noresult').hide();</script>
       <script src="../js/custom.js"></script>
    </body>
 </html>

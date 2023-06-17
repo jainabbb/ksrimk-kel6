@@ -1286,6 +1286,18 @@ margin: 0 15px 20px 15px;
      background-color: #f2c119;
 }
 
+.form-select {
+     width: 20%;
+}
+
+.filter {
+     padding-bottom: 2%;
+     border-bottom: #B90E0A solid 3px;
+}
+
+.hide {
+     display: none;
+}
 
 /** end newslatter section **/
 

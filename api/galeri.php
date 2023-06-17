@@ -18,7 +18,7 @@
                   </div>
                </div>
             </div>
-            <div class="fullgallery">
+            <div class="fullgallery galeri-pc">
                <figure class="gallery__item gallery__item-1">
                   <img src="../images/banner.jpg" class="gallery__img" alt="Image 1" onclick="openModal();currentSlide(0)" class="hover-shadow cursor">
                </figure>
@@ -56,6 +56,44 @@
                   <img src="../images/donor.jpg" alt="Gallery image 12" class="gallery__img" onclick="openModal();currentSlide(11)" class="hover-shadow cursor">
                </figure>
             </div>
+            <div class="row galeri-mobile">
+               <div class="col-12 col-sm-12">
+                  <img src="../images/banner.jpg" class="img-mobile" alt="Image 1" onclick="openModal();currentSlide(0)" class="hover-shadow cursor">
+               </div>
+               <div class="col-12 col-sm-12">
+                  <img src="../images/donor.jpg" alt="Gallery image 2" class="img-mobile" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
+               </div>
+               <div class="col-12 col-sm-12">
+                  <img src="../images/pmi.jpg" alt="Gallery image 3" class="img-mobile" onclick="openModal();currentSlide(2)" class="hover-shadow cursor">
+               </div>
+               <div class="col-12 col-sm-12">
+                  <img src="../images/latian.jpg" alt="Gallery image 4" class="img-mobile" onclick="openModal();currentSlide(3)" class="hover-shadow cursor">
+               </div>
+               <div class="col-12 col-sm-12">
+                  <img src="../images/pmi jabar.jpeg" alt="Gallery image 5" class="img-mobile" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
+               </div>
+               <div class="col-12 col-sm-12">
+                  <img src="../images/banner.jpg" class="img-mobile" alt="Image 6" onclick="openModal();currentSlide(5)" class="hover-shadow cursor">
+               </div>
+               <div class="col-12 col-sm-12">
+                  <img src="../images/donor.jpg" alt="Gallery image 7" class="img-mobile" onclick="openModal();currentSlide(6)" class="hover-shadow cursor">
+               </div>
+               <div class="col-12 col-sm-12">
+                  <img src="../images/pmi.jpg" alt="Gallery image 8" class="img-mobile" onclick="openModal();currentSlide(7)" class="hover-shadow cursor">
+               </div>
+               <div class="col-12 col-sm-12">
+                  <img src="../images/latian.jpg" alt="Gallery image 9" class="img-mobile" onclick="openModal();currentSlide(8)" class="hover-shadow cursor">
+               </div>
+               <div class="col-12 col-sm-12">
+                  <img src="../images/pmi jabar.jpeg" alt="Gallery image 10" class="img-mobile" onclick="openModal();currentSlide(9)" class="hover-shadow cursor">
+               </div>
+               <div class="col-12 col-sm-12">
+                  <img src="../images/banner.jpg" class="img-mobile" alt="Image 11" onclick="openModal();currentSlide(10)" class="hover-shadow cursor">
+               </div>
+               <div class="col-12 col-sm-12">
+                  <img src="../images/donor.jpg" alt="Gallery image 12" class="img-mobile" onclick="openModal();currentSlide(11)" class="hover-shadow cursor">
+               </div>
+            </div>
          </div>
       </div>
       <div class="container">
@@ -71,10 +109,10 @@
 </html>
 <div id="myModal" class="modal">
    <span class="close cursor" onclick="closeModal()">&times;</span>
-   <div class="modal-content" style="height:50%; width: 50%;">
+   <div class="modal-content">
       <div class="mySlides">
          <div class="numbertext">1 / 4</div>
-         <img src="" style="height:100%;">
+         <img src="" class="img-modal" style="height:100%;">
       </div>
    </div>
    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>

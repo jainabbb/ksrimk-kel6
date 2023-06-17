@@ -309,31 +309,3 @@
         height: 44px;
     }
 }
-
-@media (max-width: 600px) {
-    .news {
-        background-color: rgb(255, 255, 255);
-        padding: 0px;
-        margin: 0px;
-        transition: 5s;
-        transform: translateY(0);
-        overflow: auto;
-   }
-
-   .title-home{
-    text-align: center;
-   }
-
-   .artikel{
-        display: flex;
-   }
-
-   .upline{
-    /* border-top: #B90E0A solid 5px;
-    width: 50%; */
-    }
-
-    .galeri{
-        display: flex;
-    }
-   }

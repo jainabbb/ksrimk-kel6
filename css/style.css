@@ -404,8 +404,13 @@ ul.social_icon li a:hover {
      display: block;
      margin-left: 2.5%;
 }
-@media only screen and (max-width: 700px) {
-.logo-index{
+@media only screen and (max-width: 800px) {
+     .banner_main {
+          padding: 5% 0px 0px 0px;
+          min-height: 547px;
+      }
+  
+     .logo-index{
      display: none;
 }
 }
@@ -552,7 +557,7 @@ ul.right_icon li img {
      z-index: 1;
 }
 
-@media only screen and (min-width: 500px) {
+@media only screen and (min-width: 800px) {
 .banner_main::before {
      content: "";
      position: absolute;
@@ -1796,7 +1801,35 @@ ol p, .artol li {
 }
 
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
+     .news {
+          background-color: rgb(255, 255, 255);
+          padding: 0px;
+          margin: 0px;
+          transition: 5s;
+          transform: translateY(0);
+          overflow: auto;
+     }
+     .banner_main{
+          margin-top: 10%;
+     }
+     .title-home{
+      text-align: center;
+     }
+  
+     .artikel{
+          display: flex;
+     }
+  
+     .upline{
+      /* border-top: #B90E0A solid 5px;
+      width: 50%; */
+      }
+  
+      .galeri{
+          display: flex;
+      }
+  
      #collapse-btn-pengurus, #collapse-btn-tentang {
           display:inline; 
      }
@@ -1856,9 +1889,34 @@ ol p, .artol li {
           /* line-height: 1.80857; */
           font-weight: bold;
      }
+
+     .artbutton .sumbit {
+          align-items: center;
+          white-space: nowrap;
+          text-align: center;
+          font-size: 15px;
+          padding: 3%;
+          margin-right: 0;
+          margin-top: 5%;
+          /* border-radius: 5px; */
+     }
+     
+     .sumbit:hover {
+          background-color: #B90E0A;
+          /* background-color: chocolate; */
+     }
+
+     .header_bottom{
+               position: fixed;
+               top: 0;
+               width: 100%;
+               z-index: 100;
+               /* Gaya lain yang diinginkan untuk navbar */
+     }
+     
 }
    
-   @media screen and (min-width: 601px) {
+   @media screen and (min-width: 801px) {
      #collapse-btn-pengurus, #collapse-btn-tentang{
        display: none; /* tombol collapse disembunyikan */
      }

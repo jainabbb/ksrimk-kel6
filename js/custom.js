@@ -111,6 +111,41 @@ $("select").on("change" , function() {
 //   modal.style.display = "none";
 // }
 
+var btnContainer = document.getElementById("myBtnContainer");
+var btns = btnContainer.getElementsByClassName("filterb");
+for (var i = 0; i < btns.length; i++) {
+  btns[i].addEventListener("click", function(){
+    var current = document.getElementsByClassName("activeb");
+    current[0].className = current[0].className.replace(" activeb", "");
+    this.className += " activeb";
+	if (this.value == 'all') {
+		$('#filterar').show();
+		$('#filterp').show();
+		if (document.getElementById('noresult')) $('#noresult').hide();
+		if (document.getElementById('noresultp')) $('#noresultp').hide();
+		if (document.getElementById('noresultall')) $('#noresultall').show();
+	} else {
+		if (this.value == 'filterar') {
+			$('#filterp').hide();
+			$('#filterar').show();
+		} else {
+			$('#filterp').show();
+			$('#filterar').hide();
+		}
+		
+		if (document.getElementById('noresult')) {
+			$('#noresult').show();
+			document.getElementById('noresult').innerHTML = '<img src="../images/no result.png" alt="no result" width="100"><br><br><p style="font-size: 18px; font-weight: normal;">Tidak ada hasil</p>';
+		}
+		if (document.getElementById('noresultp')) {
+			$('#noresultp').show();
+			$('#noresultall').hide();
+			document.getElementById('noresultp').innerHTML = '<img src="../images/no result.png" alt="no result" width="100"><br><br><p style="font-size: 18px; font-weight: normal;">Tidak ada hasil</p>';
+		}
+	}
+  });
+}
+
 $('#dropDown').change(function () {
 	if (this.value == 'all') {
 		$('#filterar').show();

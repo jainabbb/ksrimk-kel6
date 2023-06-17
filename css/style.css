@@ -120,9 +120,7 @@ button:focus {
      outline: none;
 }
 
-ul,
-li,
-ol {
+ul li {
      margin: 0px;
      padding: 0px;
      list-style: none;
@@ -382,10 +380,6 @@ ul.social_icon li a:hover {
      padding: 0 5%;
 }
 
-.gift_box {
-     margin-bottom: 3%;
-}
-
 .lartikelh1 {
      height: 86px;
      display: flex;
@@ -425,7 +419,7 @@ ul.social_icon li a:hover {
 
 #logo {
      float: left;    
-     margin: 0 3% 0 3%;
+     margin: 0 3% 10px 3%;
 }
 
 ul.conta_icon li a i {
@@ -678,6 +672,7 @@ ul.right_icon li img {
      font-weight: normal;
      text-align: justify; 
      text-indent: 0.3in;
+     width: 70%;
 }
 
 #kontenp p {
@@ -685,10 +680,13 @@ ul.right_icon li img {
      text-align: justify; 
 }
 
+<<<<<<< HEAD
 #konten p {
      width: 100%;
 }
 
+=======
+>>>>>>> 737145b5924f034e375aee74cee7536e0fd33301
 #kontenp {
      width: 68%;
      margin-left: 15px; 
@@ -697,6 +695,10 @@ ul.right_icon li img {
      float: left;
      color: black;
      height: 80%;
+}
+
+.bold {
+     font-weight: 500 !important;
 }
 
 #pdf {
@@ -719,21 +721,30 @@ ul.right_icon li img {
      text-align: justify; 
 }
 
-#about p {
+#about p, #indexp p {
      font-weight: normal;
      text-align: justify; 
-     text-indent: 0.8in;
      margin: 0 30px;
 }
 
-#about ul {
-     font-weight: normal;
-     text-align: justify; 
-     text-indent: 0.15in;
-     margin: 0 30px 0 38px;     
+#about p {
+     text-indent: 0.8in;
 }
 
-#about li {
+#tentang p {
+     text-indent: 0.8in;
+     text-align: justify; 
+     margin: 0 30px;
+}
+
+#tentang ul {
+     text-align: justify; 
+     text-indent: 0.15in;
+     margin: 0 30px 0 38px;    
+     font-weight: 500; 
+}
+
+#tentang li {
      list-style-type: "-";
 }
 
@@ -742,12 +753,12 @@ ul.right_icon li img {
      text-indent: 0.6in;
 }
 
-#about h2, .daftarp h2 {
+#about h2, .daftarp h2, #indexp h2, #tentang h2 {
      font-size: 24px;
      margin: 0 30px;
 }
 
-#about h1, .daftarp h1 {
+#about h1, .daftarp h1, #indexp h1, #tentang h1 {
      margin: 0 30px;
 }
 
@@ -759,6 +770,10 @@ ul.right_icon li img {
 
 .pdf span {
      font-weight: bold;
+}
+
+.pdf:hover {
+     color: chocolate;
 }
 
 #daftarartikel p {
@@ -1215,7 +1230,7 @@ margin: 0 15px 20px 15px;
      width: 70%;
      padding: 0 15px;
      font-size: 17px;
-     /* border-radius: 32px; */
+     border-radius: 30px;
      border: #a8a8a8 solid 1px;
 }
 
@@ -1243,7 +1258,17 @@ margin: 0 15px 20px 15px;
      /* white-space: nowrap; */
      text-align: center;
      font-size: 20px;
+<<<<<<< HEAD
      padding: 10%;
+=======
+     padding: 5px 20px;
+     margin-right: 0;
+     margin-top: 5%;
+}
+
+.sumbit:hover {
+     background-color: chocolate;
+>>>>>>> 737145b5924f034e375aee74cee7536e0fd33301
 }
 
 .news_form .sumbit:hover {
@@ -1260,12 +1285,13 @@ margin: 0 15px 20px 15px;
 
 .gift_box {
      background-color: #fff;
-     box-shadow: 0px 0px 16px rgba(13, 3, 3, 20%);
+     box-shadow: 0px 0px 16px rgba(13, 3, 3, 30%);
      color: black;
      text-align: left;
      padding: 0 0 20%;
      border-radius: 20px;
      height: 420px;
+     margin-bottom: 5%;
 }
 
 .gift_box i {
@@ -1276,6 +1302,7 @@ margin: 0 15px 20px 15px;
      border-top-left-radius: 20px;
      border-top-right-radius: 20px;
      height: 183px;
+     width: 100%;
 }
 
 .gift_box span {
@@ -1419,6 +1446,7 @@ background-color: #c8ae79;
      float: left;
      margin: 4px 0;
      padding: 0 15px;
+     border-radius: 30px;
 }
 
 #location {
@@ -1473,6 +1501,23 @@ background-color: #c8ae79;
      justify-content: center;
      align-items: center;
      padding-top: 10px;
+}
+
+.fa {
+     font-size: 35px !important;
+     color: white;
+     margin: 5px;
+}
+
+.fa:hover {
+     color: chocolate;
+     /* color: #c8ae79; */
+}
+
+.fa-search {
+     color: #b7b7b7;
+     margin: 0;
+     font-size: 14px !important;
 }
 
 .copyright {
@@ -1642,6 +1687,40 @@ background-color: #c8ae79;
      margin-top: 50px;
      transition: ease-in all 0.5s;
      border-radius: 40px;
+}
+
+.artlist {
+     padding: 0;
+}
+
+.artol {
+     padding-left: 2%;
+     /* width: 68%; */
+}
+
+.artlist li {
+     list-style: disc;
+     margin-left: 20px;
+}
+
+.artlist p {
+     /* text-indent: 0 !important; */
+     margin-left: 2%;
+     width: 68% !important;
+}
+
+.arta {
+     color: #B90E0A;
+}
+
+.arta:hover {
+     color: chocolate;
+}
+
+ol p, .artol li {
+     /* text-indent: 0 !important; */
+     width: 69.4% !important;
+     text-align: justify;
 }
 
 .send_btn:hover {

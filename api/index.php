@@ -22,8 +22,14 @@
                <h2>STIS</h2>
             </div>
             <div class="paragraf-justify">
-               <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-               <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.</p>
+            <br>
+            <p>Kegiatan-kegiatan kampus tidak lepas dari timbulnya kecelakaan bagi pesertanya.
+               Sayangnya, sumber daya yang memiliki kemampuan dalam memberikan pertolongan
+               pertama di STIS selama ini masih kurang. Hal ini dikarenakan tidak adanya suatu wadah untuk
+               pelatihan atau pendidikan dasar kepalangmerahan kepada mahasiswa STIS.
+               Berdasarkan hal tersebut, beberapa mahasiswa STIS dan anggota pecinta alam
+               STIS “GPA CHEBBY” yang tergerak hatinya bermaksud untuk mendirikan suatu unit
+               kegiatan mahasiswa yang bergerak di bidang sosial, kemanusiaan, dan pertolongan pertama.</p>
             </div>
          </div>
          <div class="container bagian">
@@ -34,22 +40,27 @@
                   </div>
                </div>
             </div>
-            <div class="opening" style="padding-left: 1.5%; padding-right: 1.5%; margin-bottom: 3%;" id="about">
+            <div class="opening" style="padding-left: 1.5%; padding-right: 1.5%; margin-bottom: 3%;" id="indexp">
                <a href="konten pengumuman 1.php">
-                  <h2>Pengumuman 1</h2>
-                  <h1>01-01-2023</h1>
+                  <h2>Pengumuman Pasca Diklat - OPREC KSR 2022</h2>
+                  <h1>18-11-2022</h1>
                </a>
-               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam pariatur, ullam unde earum, est sapiente odit iste dolore ratione quis consequatur. Repellat unde dolor vero ab. Eos earum qui deserunt!
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis blanditiis architecto doloremque in obcaecati accusantium laboriosam, dicta illum saepe corporis ducimus aperiam quam enim, laudantium nostrum autem sapiente vitae quasi?
-               </p>
-               <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque harum amet natus adipisci aliquam eos hic nemo velit consequatur eveniet cupiditate, eum ullam ratione, sed ad, quos officia. Corporis, eligendi?
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam iusto esse aut error dignissimos aliquam cupiditate sint, voluptatibus quo facere. Reprehenderit inventore in ullam veniam et tempore suscipit totam architecto.
-               </p>
+               <p style="font-weight: bold;">Halo Calon Anggota Muda KSR Angkatan 13!</p>
+               <!-- <br> -->
+               <p>Selamat sudah melewati Diklat 2 dan Tes Tulis
+                  hari ini. Karena sebelumnya udah ada pengumuman pra diklat,
+                  berarti ada juga dong pemunguman pasca diklat.
+                  Nah, mengenai apa aja yang perlu disiapkan setelah diklat,
+                  berikut dilampirkan file pengumuman pasca diklatnya ya.
+               </p><br>
+               <p>Tetap jaga kesehatan dan semangatnya!!!</p>
+               <br>
+               <p style="font-weight: bold;">Siamo Tutti Fratelli</p>
                <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pasca_diklat.pdf" target=”_blank” class="pdf">
                   <img src="../images/pdf.png" alt="unduh">
                   <span><br></span>
-                  <span>Judul Dokumen</span> <br>
-                  <span style="color: #c8ae79">Buka Dokumen</span>
+                  <span>pengumuman_pasca_diklat.pdf</span> <br>
+                  <span style="color: #c8ae79">Unduh Dokumen</span>
                </a>
             </div>
             <div class="row">
@@ -71,28 +82,28 @@
             <div class="three_box">
                <div class="container">
                   <div class="row">
-                     <div class="col-md-4">
+                  <div class="col-md-4" id="artikel1">
                         <div class="gift_box">
-                           <i><img src="../images/pmi.jpg" alt="pmi"></i>
-                           <h1>Artikel 1</h1>
-                           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                           <i><img src="../images/artikel 1.png" alt="pmi"></i>
+                           <div class="lartikelh1"><h1>Pentingnya "Me Time" Untuk Kesehatan Psikologis</h1></div>
+                           <div class="resume"><p>Pernahkah kamu merasa penat akan segala rutinitas yang kamu lakukan?</p></div>
                            <a href="konten artikel 1.php"><button class="sumbit">Lihat Selengkapnya</button></a>
                         </div>
                      </div>
-                     <div class="col-md-4">
+                     <div class="col-md-4" id="artikel2">
                         <div class="gift_box">
-                           <i><img src="../images/pmi.jpg" alt="pmi"></i>
-                           <h1>Artikel 2</h1>
-                           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-                           <button class="sumbit">Lihat Selengkapnya</button>
+                           <i><img src="../images/artikel 2.png" alt="pmi"></i>
+                           <div class="lartikelh1"><h1>Menjaga 'Mindset' Sehat di Tengah Pandemi</h1></div>
+                           <div class="resume"><p>Pikiran yang positif dan realistis setidaknya dapat membantu kita berpikir lebih jernih sebelum mengambil keputusan.</p></div>
+                           <a href="konten artikel 2.php"><button class="sumbit">Lihat Selengkapnya</button></a>
                         </div>
                      </div>
-                     <div class="col-md-4">
+                     <div class="col-md-4" id="artikel3">
                         <div class="gift_box">
-                           <i><img src="../images/pmi.jpg" alt="pmi"></i>
-                           <h1>Artikel 3</h1>
-                           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-                           <button class="sumbit">Lihat Selengkapnya</button>
+                           <i><img src="../images/artikel 3.png" alt="pmi"></i>
+                           <div class="lartikelh1"><h1>Pembelajaran Jarak Jauh Sehat, Bisakah?</h1></div>
+                           <div class="resume"><p>Duduk di depan perangkat digital seperti komputer atau laptop 'seharian' tentunya punya dampak negatif, lho!</p></div>
+                           <a href="konten artikel 3.php"><button class="sumbit">Lihat Selengkapnya</button></a>
                         </div>
                      </div>
                   </div>

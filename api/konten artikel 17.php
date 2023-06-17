@@ -3,6 +3,9 @@ if (!(session_status() === PHP_SESSION_ACTIVE)) {
    session_start();
 }
 $_SESSION['no_artikel'] = 17;
+$_SESSION['judul'] = "Menjaga 'Mindset' Sehat di Tengah Pandemi";
+$_SESSION['tanggal'] = "26-02-2021";
+
 ob_start();
 // Menyimpan HTML dalam variabel
 ?>

@@ -20,6 +20,34 @@
                      <p>11-13-2022</p>
                   </div>
                </div>
+           </div>
+            <div id="kontenp">
+               <div>
+                  <p style="font-weight: bold;">Halo Calon Anggota Muda KSR Angkatan 13!</p>
+                  <!-- <br> -->
+                  <p>Bentar lagi Oprec Tahap 1 KSR Angkatan 13 akan dimulai. 
+                     Pastinya udah pada ga sabar dan semangat kan. 
+                     Nah, sebelum kita bertemu di diklat nanti, ada beberapa 
+                     ketentuan nih yang harus kalian perhatikan. 
+                     Ketentuannya ada di file terlampir yaa..
+                  </p>
+                  <p>Persiapkan semuanya dengan maksimal ya!</p>
+                  <br>
+                  <p>Tetap jaga kesehatan dan semangatnya !</p>
+                  <br>
+                  <p style="font-weight: bold;">Siamo Tutti Fratelli</p>
+               </div>
+               <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumunan_pra_diklat.pdf" target=”_blank” class="pdf">
+                  <img src="../images/pdf.png" alt="unduh">
+                  <span><br></span>
+                  <span>pengumunan_pra_diklat.pdf</span> <br>
+                  <span style="color: #c8ae79">Unduh Dokumen</span>
+               </a>
+                <br><br>
+               <iframe id="pdf" src=
+                  "https://www.docdroid.net/YhZ2s5t/pengumunan-pra-diklat-pdf"
+                  width="800"
+                  height="500"></iframe>
             </div>
          </div>
          <div id="kontenp">

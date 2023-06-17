@@ -32,7 +32,7 @@
                   <img src="../images/pdf.png" alt="unduh">
                   <span><br></span>
                   <span>tugas_pradiklat_2_-_angkatan_11.pdf</span> <br>
-                  <span style="color: #c8ae79">Buka Dokumen</span>
+                  <span style="color: #c8ae79">Unduh Dokumen</span>
                </div>
             </a>
             <br>

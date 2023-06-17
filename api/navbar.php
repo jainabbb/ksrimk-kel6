@@ -24,6 +24,16 @@ if (!(session_status() === PHP_SESSION_ACTIVE)) {
                         <?php
                         }; ?>
                     </li>
+                    <li class="nav-item <?php if ($_SESSION['no_page'] == 4) {
+                                            echo 'active';
+                                        } ?>">
+                        <a class="nav-link" href="pengumuman.php">Pengumuman</a>
+                        <?php if ($_SESSION['no_page'] == 4) {
+                        ?>
+                            <div class="underline"></div>
+                        <?php
+                        }; ?>
+                    </li>
                     <li class="nav-item <?php if ($_SESSION['no_page'] == 2) {
                                             echo 'active';
                                         } ?>">
@@ -39,16 +49,6 @@ if (!(session_status() === PHP_SESSION_ACTIVE)) {
                                         } ?>">
                         <a class="nav-link" href="galeri.php">Galeri</a>
                         <?php if ($_SESSION['no_page'] == 3) {
-                        ?>
-                            <div class="underline"></div>
-                        <?php
-                        }; ?>
-                    </li>
-                    <li class="nav-item <?php if ($_SESSION['no_page'] == 4) {
-                                            echo 'active';
-                                        } ?>">
-                        <a class="nav-link" href="pengumuman.php">Pengumuman</a>
-                        <?php if ($_SESSION['no_page'] == 4) {
                         ?>
                             <div class="underline"></div>
                         <?php
@@ -100,6 +100,16 @@ if (!(session_status() === PHP_SESSION_ACTIVE)) {
                                             <?php
                                             }; ?>
                                         </li>
+                                        <li class="nav-item <?php if ($_SESSION['no_page'] == 4) {
+                                                                echo 'active';
+                                                            } ?>">
+                                            <a class="nav-link" href="pengumuman.php">Pengumuman</a>
+                                            <?php if ($_SESSION['no_page'] == 4) {
+                                            ?>
+                                                <div class="underline"></div>
+                                            <?php
+                                            }; ?>
+                                        </li>
                                         <li class="nav-item <?php if ($_SESSION['no_page'] == 2) {
                                                                 echo 'active';
                                                             } ?>">
@@ -115,16 +125,6 @@ if (!(session_status() === PHP_SESSION_ACTIVE)) {
                                                             } ?>">
                                             <a class="nav-link" href="galeri.php">Galeri</a>
                                             <?php if ($_SESSION['no_page'] == 3) {
-                                            ?>
-                                                <div class="underline"></div>
-                                            <?php
-                                            }; ?>
-                                        </li>
-                                        <li class="nav-item <?php if ($_SESSION['no_page'] == 4) {
-                                                                echo 'active';
-                                                            } ?>">
-                                            <a class="nav-link" href="pengumuman.php">Pengumuman</a>
-                                            <?php if ($_SESSION['no_page'] == 4) {
                                             ?>
                                                 <div class="underline"></div>
                                             <?php

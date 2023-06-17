@@ -20,6 +20,35 @@
                      <p>01-01-2022</p>
                   </div>
                </div>
+           </div>
+            <div id="kontenp">
+               <div>
+                  <p style="font-weight: bold;">Halo Calon Anggota Muda KSR Angkatan 12!</p>
+                  <!-- <br> -->
+                  <p>Selamat yaa sudah melewati diklat hari ini, empat jempol buat kalian.</p>
+                  <p>Sebelumnya ada pengumuman pra diklat kan yaa, berarti selanjutnya ada...</p>
+                  <p>Ada pengumuman pasca diklat dong!</p>
+                  <br>
+                  <p>Berikut kami lampirkan file pengumuman pasca diklatnya yaa</p>
+                  <p>Persiapkan semuanya dengan sangat baik.</p>
+                  <br>
+                  <p>Tetap jaga kesehatan dan semangatnya</p>
+                  <br>
+                  <p style="font-weight: bold;">Siamo Tutti Fratelli</p>
+               </div>
+                <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pasca_diklat.pdf" target=”_blank”>
+                  <div class="pdf">
+                     <img src="../images/pdf.png" alt="unduh" style="margin-left: 0; padding-left: 0">
+                     <span><br></span>
+                     <span>pengumuman_pasca_diklat.pdf</span> <br>
+                     <span style="color: #c8ae79">Unduh Dokumen</span>
+                  </div>
+                </a>
+                <br>
+               <iframe id="pdf" src=
+                  "https://www.docdroid.net/ZN06g0Z/pengumuman-pasca-diklat-pdf"
+                  width="800"
+                  height="500"></iframe>
             </div>
          </div>
          <div id="kontenp">

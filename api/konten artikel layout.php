@@ -13,8 +13,8 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="titlepage" id="judulartikel">
-                            <h2>Artikel <?= $_SESSION['no_artikel'] ?></h2>
-                            <p>01-01-2023</p>
+                            <h2><?= $_SESSION['judul'] ?></h2>
+                            <p><?= $_SESSION['tanggal'] ?></p>
                         </div>
                     </div>
                 </div>

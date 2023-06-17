@@ -40,7 +40,7 @@
                   <img src="../images/pdf.png" alt="unduh">
                   <span><br></span>
                   <span>pengumuman_pra_diklat__2020_.pdf</span> <br>
-                  <span style="color: #c8ae79">Buka Dokumen</span>
+                  <span style="color: #c8ae79">Unduh Dokumen</span>
                </div>
             </a>
             <br>

@@ -39,7 +39,7 @@
                   <img src="../images/pdf.png" alt="unduh" style="margin-left: 0; padding-left: 0">
                   <span><br></span>
                   <span>pengumuman_pra_diklat.pdf</span> <br>
-                  <span style="color: #c8ae79">Buka Dokumen</span>
+                  <span style="color: #c8ae79">Unduh Dokumen</span>
                </div>
             </a>
             <br>

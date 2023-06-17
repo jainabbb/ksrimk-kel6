@@ -39,7 +39,7 @@
                   <img src="../images/pdf.png" alt="unduh">
                   <span><br></span>
                   <span>pengumuman_pasca_diklat.pdf</span> <br>
-                  <span style="color: #c8ae79">Buka Dokumen</span>
+                  <span style="color: #c8ae79">Unduh Dokumen</span>
                </a>
                <br>
             </div>
@@ -67,7 +67,7 @@
                   <img src="../images/pdf.png" alt="unduh">
                   <span><br></span>
                   <span>pengumunan_pra_diklat.pdf</span> <br>
-                  <span style="color: #c8ae79">Buka Dokumen</span>
+                  <span style="color: #c8ae79">Unduh Dokumen</span>
                </a>
                <br>
             </div>
@@ -94,7 +94,7 @@
                   <img src="../images/pdf.png" alt="unduh">
                   <span><br></span>
                   <span>pengumuman_pasca_diklat.pdf</span> <br>
-                  <span style="color: #c8ae79">Buka Dokumen</span>
+                  <span style="color: #c8ae79">Unduh Dokumen</span>
                </a>
                <br>
             </div>
@@ -118,7 +118,7 @@
                   <img src="../images/pdf.png" alt="unduh">
                   <span><br></span>
                   <span>pengumuman_pra_diklat.pdf</span> <br>
-                  <span style="color: #c8ae79">Buka Dokumen</span>
+                  <span style="color: #c8ae79">Unduh Dokumen</span>
                </a>
                <br>
             </div>
@@ -139,7 +139,7 @@
                   <img src="../images/pdf.png" alt="unduh">
                   <span><br></span>
                   <span>materi_oprec_angkatan_12.pdf</span> <br>
-                  <span style="color: #c8ae79">Buka Dokumen</span>
+                  <span style="color: #c8ae79">Unduh Dokumen</span>
                </a>
                <br>
             </div>

@@ -2,6 +2,7 @@
 if (!(session_status() === PHP_SESSION_ACTIVE)) {
    session_start();
 }
+$_SESSION['no_page'] = 2;
 $_SESSION['no_artikel'] = 10;
 $_SESSION['judul'] = "Tubuh Ideal Setelah Hari Raya? Why Not?!";
 $_SESSION['tanggal'] = "21-06-2019";

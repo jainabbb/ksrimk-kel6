@@ -47,15 +47,33 @@
          </div>
          <div class="opening" id="daftarartikel" style="padding-left: 0; padding-right: 0; margin-bottom: 0;">
             <h2>Daftar Pengumuman</h2>
-            <a href="konten pengumuman 1.php"><p>Pengumuman Pasca Diklat - OPREC KSR 2022</p></a>
-                <a href="konten pengumuman 2.php"><p>Pengumuman Pra Diklat - OPREC KSR 2022</p></a>
-                <a href="konten pengumuman 3.php"><p>Pengumuman Pasca Diklat - OPREC KSR 2021</p></a>
-                <a href="konten pengumuman 4.php"><p>Pengumuman Pra Diklat - OPREC KSR 2021</p></a>
-                <a href="konten pengumuman 5.php"><p>Materi Tes Tertulis - OPREC KSR</p></a>
-                <a href="konten pengumuman 6.php"><p>Pengumuman Pradiklat 3 - KSR Angkatan 11</p></a>
-                <a href="konten pengumuman 7.php"><p>Pengumuman Pradiklat 2 - KSR Angkatan 11</p></a>
-                <a href="konten pengumuman 8.php"><p>Pengumuman Pradiklat 1 - KSR Angkatan 11</p></a>
-                <a href="konten pengumuman 9.php"><p>Pengumuman Pasca Diklat Calon Anggota KSR Angkatan 11</p></a>
+            <a href="konten pengumuman 1.php">
+               <p>Pengumuman Pasca Diklat - OPREC KSR 2022</p>
+            </a>
+            <a href="konten pengumuman 2.php">
+               <p>Pengumuman Pra Diklat - OPREC KSR 2022</p>
+            </a>
+            <a href="konten pengumuman 3.php">
+               <p>Pengumuman Pasca Diklat - OPREC KSR 2021</p>
+            </a>
+            <a href="konten pengumuman 4.php">
+               <p>Pengumuman Pra Diklat - OPREC KSR 2021</p>
+            </a>
+            <a href="konten pengumuman 5.php">
+               <p>Materi Tes Tertulis - OPREC KSR</p>
+            </a>
+            <a href="konten pengumuman 6.php">
+               <p>Pengumuman Pradiklat 3 - KSR Angkatan 11</p>
+            </a>
+            <a href="konten pengumuman 7.php">
+               <p>Pengumuman Pradiklat 2 - KSR Angkatan 11</p>
+            </a>
+            <a href="konten pengumuman 8.php">
+               <p>Pengumuman Pradiklat 1 - KSR Angkatan 11</p>
+            </a>
+            <a href="konten pengumuman 9.php">
+               <p>Pengumuman Pasca Diklat Calon Anggota KSR Angkatan 11</p>
+            </a>
             <a href="pengumuman.php">
                <p>Pengumuman lainnya...</p>
             </a>

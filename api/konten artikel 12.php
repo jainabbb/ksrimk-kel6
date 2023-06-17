@@ -2,6 +2,7 @@
 if (!(session_status() === PHP_SESSION_ACTIVE)) {
    session_start();
 }
+$_SESSION['no_page'] = 2;
 $_SESSION['no_artikel'] = 12;
 $_SESSION['judul'] = "Diare? Jangan Anggap Sepele!";
 $_SESSION['tanggal'] = "01-01-2023";

@@ -2,6 +2,7 @@
 if (!(session_status() === PHP_SESSION_ACTIVE)) {
    session_start();
 }
+$_SESSION['no_page'] = 2;
 $_SESSION['no_artikel'] = 1;
 $_SESSION['judul'] = "Pentingnya \"Me Time\" Untuk Kesehatan Psikologis";
 $_SESSION['tanggal'] = "01-04-2021";

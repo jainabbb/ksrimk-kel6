@@ -36,9 +36,20 @@
             </ul>
             <br>
             <h2>C. Kegiatan</h2>
-            <p>Kegiatan yang pertama kali dilakukan yaitu pertemuan diantara anggota untuk membahas susunan kepengurusan, pembentukan divisi-divisi, penyusunan visi dan misi, serta membahas program-program kerja selama setahun ke depan. Selanjutnya direncanakan kegiatan peresmian UPM STIS. Peresmian UPM STIS akhirnya dilakasanakan pada hari Jum’at tanggal 2 Februari 2010 di Gedung 2302 (Gedung Lama STIS). Kegiatan ini dihadiri oleh pembantu ketua tiga STIS, ketua PMI cabang Jakarta Timur, sekretaris kecamatan Jatinegara, Pembina-pembina PMI, anggota KSR UNJ serta anggota UPM STIS.</p>
-            <p>Selanjutnya untuk mendukung dan menyukseskan tujuan diatas dilaksanakan beberapa kegiatan. Kegiatan-kegiatan dalam UPM STIS dapat dikategorikan menjadi dua, yaitu pendidikan-pelatihan dan aktifitas sosial-kemasyarakatan. Pendidikan dalam UPM STIS ini dilakukan dengan model “Pendidikan dan Latihan”, karena meliputi materi dan praktek dalam setiap tahapannya. Dengan model ini peserta akan dapat menguasai ilmu pertolongan pertama dan kepalangmerahan secara teoritis dan aplikatif. Tahap-tahap pendidikan yang diberikan dalam UPM STIS ini meliputi beberapa tahap, yaitu latihan rutin, diklat – diksar KSR, serta latihan dan pemantapan. Latihan rutin dilakukan untuk menambah dan meningkatkan kemampuan anggota baik materi umum maupun kepalangmerahan. Latihan rutin meliputi pelatihan manajemen, materi umum kepalangmerahan, pelatihan teknis, pendidikan lapangan, dll. Latihan rutin KSR angkatan I direncanakan beberapa kali pelatihan dengan mengundang pelatih dari PMI untuk memantapkan materi masing – masing anggota. Selanjutnya kegiatan diklat – diksar KSR untuk memberikan pembekalan materi dan dasar pelatihan dasar kepalangmerahan sebagai prasyarat menjadi anggota KSR. Kegiatan diklat – diksar ada dua bentuk kegiatan, pertama pembekalan materi di ruangan, kedua pelatihan dan praktek penerapan materi di lapangan. Diklat angkatan I ini di fasilitasi oleh PMI Cabang Jakarta Timur. Sedangkan latihan dan pemantapan ditujukan untuk meningkatkan dan memantapkan kemampuan anggota khususnya dalam praktek pertolongan pertama di lapangan dan aplikasinya dalam kasus kehidupan sehari – hari, termasuk di dalamnya manajemen alam.</p>
-            <p>Walaupun sebagai angkatan pertama, UPM STIS berusaha untuk dapat memberikan pelayanan terbaik kepada masyarakat baik mahasiswa STIS maupun masyarakat sekitar. Aktifitas-aktifitas yang berhubungan dengan hal ini antara lain adalah aksi donor darah sukarela, bakti sosial, mahasiswa siaga, kunjungan ke UKM/KSR/instansi/lembaga lain di luar STIS, dan seminar kesehatan. Aksi donor darah sukarela dilakukan oleh UPM STIS sendiri atau bekerja sama dengan kegiatan UKM lain yang mengadakan kegiatan donor darah juga. Aksi donor darah ini bekerja sama dengan PMI Pusat Jakarta. Bakti sosial berupa santunan anak yatim, penyediaan alat-alat pendidikan, pemberian sembako, atau lainnya (sasarannya seperti warga Kebon Sayur, Kuburan Cina, SD Islam Talmiyah, atau lainnya). Kegiatan mahasiswa siaga merupakan pelatihan pertolongan pertama gawat darurat (PPGD) untuk mahasiswa/i STIS dengan sasaran perwakilan setiap kelas dan UKM-UKM. Kunjungan ke UKM/KSR/instansi/lembaga lain di luar STIS dimaksudkan untuk mempererat persaudaraan dan saling tukar pikiran mengenai kegiatan kepalangmerahan di kampus/instansi/lembaga masing-masing. Sedangkan seminar kesehatan direncanakan diadakan satu kali kepengurusan dengan mengundang pembicara, pembina PMI, anggota KSR kampus/instansi/lembaga lain, serta dosen dan mahsiswa STIS. Seminar ini dilakukan sebagai sosialisasi mengenai bahaya narkoba dan AIDS karena seminar ini mengangkat tema narkoba dan AIDS.</p>
+            <p>Kegiatan yang pertama kali dilakukan yaitu pertemuan diantara anggota untuk membahas susunan kepengurusan, pembentukan divisi-divisi, penyusunan visi dan misi, serta membahas program-program kerja selama setahun ke depan. Selanjutnya direncanakan kegiatan peresmian UPM STIS. Peresmian UPM STIS akhirnya dilakasanakan pada hari Jum’at tanggal 2 Februari 2010 di Gedung 2302 (Gedung Lama STIS). Kegiatan ini dihadiri oleh pembantu ketua tiga STIS, ketua PMI cabang Jakarta Timur, sekretaris kecamatan Jatinegara, Pembina-pembina PMI, anggota KSR UNJ serta anggota UPM STIS.
+               <a id="latarBelakangAtas" onclick="ubahKelas1(this.id);" style="color: #B90E0A;" class="collapsed text-decoration-none" data-bs-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+                  [<strong><i>Tampilkan Semua</i></strong>]
+               </a>
+            </p>
+            <div class="collapse" id="collapseExample">
+               <p>Selanjutnya untuk mendukung dan menyukseskan tujuan diatas dilaksanakan beberapa kegiatan. Kegiatan-kegiatan dalam UPM STIS dapat dikategorikan menjadi dua, yaitu pendidikan-pelatihan dan aktifitas sosial-kemasyarakatan. Pendidikan dalam UPM STIS ini dilakukan dengan model “Pendidikan dan Latihan”, karena meliputi materi dan praktek dalam setiap tahapannya. Dengan model ini peserta akan dapat menguasai ilmu pertolongan pertama dan kepalangmerahan secara teoritis dan aplikatif. Tahap-tahap pendidikan yang diberikan dalam UPM STIS ini meliputi beberapa tahap, yaitu latihan rutin, diklat – diksar KSR, serta latihan dan pemantapan. Latihan rutin dilakukan untuk menambah dan meningkatkan kemampuan anggota baik materi umum maupun kepalangmerahan. Latihan rutin meliputi pelatihan manajemen, materi umum kepalangmerahan, pelatihan teknis, pendidikan lapangan, dll. Latihan rutin KSR angkatan I direncanakan beberapa kali pelatihan dengan mengundang pelatih dari PMI untuk memantapkan materi masing – masing anggota. Selanjutnya kegiatan diklat – diksar KSR untuk memberikan pembekalan materi dan dasar pelatihan dasar kepalangmerahan sebagai prasyarat menjadi anggota KSR. Kegiatan diklat – diksar ada dua bentuk kegiatan, pertama pembekalan materi di ruangan, kedua pelatihan dan praktek penerapan materi di lapangan. Diklat angkatan I ini di fasilitasi oleh PMI Cabang Jakarta Timur. Sedangkan latihan dan pemantapan ditujukan untuk meningkatkan dan memantapkan kemampuan anggota khususnya dalam praktek pertolongan pertama di lapangan dan aplikasinya dalam kasus kehidupan sehari – hari, termasuk di dalamnya manajemen alam.</p>
+               <p>Walaupun sebagai angkatan pertama, UPM STIS berusaha untuk dapat memberikan pelayanan terbaik kepada masyarakat baik mahasiswa STIS maupun masyarakat sekitar. Aktifitas-aktifitas yang berhubungan dengan hal ini antara lain adalah aksi donor darah sukarela, bakti sosial, mahasiswa siaga, kunjungan ke UKM/KSR/instansi/lembaga lain di luar STIS, dan seminar kesehatan. Aksi donor darah sukarela dilakukan oleh UPM STIS sendiri atau bekerja sama dengan kegiatan UKM lain yang mengadakan kegiatan donor darah juga. Aksi donor darah ini bekerja sama dengan PMI Pusat Jakarta. Bakti sosial berupa santunan anak yatim, penyediaan alat-alat pendidikan, pemberian sembako, atau lainnya (sasarannya seperti warga Kebon Sayur, Kuburan Cina, SD Islam Talmiyah, atau lainnya). Kegiatan mahasiswa siaga merupakan pelatihan pertolongan pertama gawat darurat (PPGD) untuk mahasiswa/i STIS dengan sasaran perwakilan setiap kelas dan UKM-UKM. Kunjungan ke UKM/KSR/instansi/lembaga lain di luar STIS dimaksudkan untuk mempererat persaudaraan dan saling tukar pikiran mengenai kegiatan kepalangmerahan di kampus/instansi/lembaga masing-masing. Sedangkan seminar kesehatan direncanakan diadakan satu kali kepengurusan dengan mengundang pembicara, pembina PMI, anggota KSR kampus/instansi/lembaga lain, serta dosen dan mahsiswa STIS. Seminar ini dilakukan sebagai sosialisasi mengenai bahaya narkoba dan AIDS karena seminar ini mengangkat tema narkoba dan AIDS.
+                  <a id="latarBelakangBawah" onclick="ubahKelas2(this.id);" style="color: #B90E0A;" class="collapsed text-decoration-none" data-bs-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+                     [<strong><i>Tampilkan Sebagian</i></strong>]
+                  </a>
+               </p>
+            </div>
+
             <br>
             <h2>D. Susunan Pengurus</h2>
             <p>Sejak diresmikan, anggota UPM STIS berjumlah 21 orang. Mungkin jumlah tersebut sedikit karena merupakan angkatan perintis. Berikut ini susunan pengurus UPM STIS angkatan pertama:</p>
@@ -102,6 +113,31 @@
    <!-- end three_box section -->
 
    <?php include 'footer.php' ?>
+   <script>
+      // jika tekan Tampilkan Semua
+      function ubahKelas1(id) {
+         if (id == "latarBelakangAtas") {
+            document.getElementById("latarBelakangAtas").innerHTML = "";
+         }
+
+         if (id == "metodologiAtas") {
+            document.getElementById("metodologiAtas").innerHTML = "";
+         }
+      }
+
+      // jika tekan Tampilkan Sebagian
+      function ubahKelas2(id) {
+         if (id == "latarBelakangBawah") {
+            document.getElementById("latarBelakangAtas").innerHTML = "[<strong><i>Tampilkan Semua</i></strong>]";
+            document.getElementById("tombol").scrollIntoView();
+         }
+
+         if (id == "metodologiBawah") {
+            document.getElementById("metodologiAtas").innerHTML = "[<strong><i>Tampilkan Semua</i></strong>]";
+            document.getElementById("goToMetodologi").scrollIntoView();
+         }
+      }
+   </script>
 </body>
 
 </html>

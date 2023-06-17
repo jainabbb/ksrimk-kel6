@@ -2,6 +2,7 @@
 if (!(session_status() === PHP_SESSION_ACTIVE)) {
    session_start();
 }
+$_SESSION['no_page'] = 2;
 $_SESSION['no_artikel'] = 2;
 $_SESSION['judul'] = "Menjaga 'Mindset' Sehat di Tengah Pandemi";
 $_SESSION['tanggal'] = "26-02-2021";

@@ -111,26 +111,50 @@ $("select").on("change" , function() {
 //   modal.style.display = "none";
 // }
 
+$('#dropDown').change(function () {
+	if (this.value == 'all') {
+		$('#filterar').show();
+		$('#filterp').show();
+		if (document.getElementById('noresult')) $('#noresult').hide();
+		if (document.getElementById('noresultp')) $('#noresultp').hide();
+		if (document.getElementById('noresultall')) $('#noresultall').show();
+	} else {
+		$(this).find("option").each(function () {
+			$('#' + this.value).hide();
+		});
+		if (document.getElementById('noresult')) {
+			$('#noresult').show();
+			document.getElementById('noresult').innerHTML = '<img src="../images/no result.png" alt="no result" width="100"><br><br><p style="font-size: 18px; font-weight: normal;">Tidak ada hasil</p>';
+		}
+		if (document.getElementById('noresultp')) {
+			$('#noresultp').show();
+			$('#noresultall').hide();
+			document.getElementById('noresultp').innerHTML = '<img src="../images/no result.png" alt="no result" width="100"><br><br><p style="font-size: 18px; font-weight: normal;">Tidak ada hasil</p>';
+		}
+		$('#' + this.value).show();
+	}
+});
+
 function openModal() {
 	document.getElementById("myModal").style.display = "block";
-  }
-  
-  function closeModal() {
+}
+
+function closeModal() {
 	document.getElementById("myModal").style.display = "none";
-  }
-  
-  var slideIndex = 0;
-  showSlides(slideIndex);
-  
-  function plusSlides(n) {
+}
+
+var slideIndex = 0;
+showSlides(slideIndex);
+
+function plusSlides(n) {
 	showSlides(slideIndex += n);
-  }
-  
-  function currentSlide(n) {
+}
+
+function currentSlide(n) {
 	showSlides(slideIndex = n);
-  }
+}
   
-  function showSlides(n) {
+function showSlides(n) {
 	console.log(slideIndex);
 	console.log(n);
 	var i;
@@ -144,4 +168,4 @@ function openModal() {
 	} else n %= slides.length;
 	modalImg.src = slides[n].src;
 	captionText.innerHTML = n + 1 + ' / ' + slides.length;
-  }
+}

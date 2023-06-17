@@ -9,6 +9,10 @@ $_SESSION['tanggal'] = "01-04-2021";
 ob_start();
 // Menyimpan HTML dalam variabel
 ?>
+<div class="d-none" id="judulart">
+   <h2>Pentingnya "Me Time" Untuk Kesehatan Psikologis</h2>
+   <p>01-04-2021</p>
+</div>
 <img src="../images/konten artikel 1.png" alt="Logo" width="100%" height="100%" id="logo" style="margin-left: 0;">
 <div class="opening" style="padding-left: 0; padding-right: 0; margin-bottom: 0;" id="konten">
    <p>

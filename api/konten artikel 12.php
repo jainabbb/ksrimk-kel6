@@ -10,6 +10,10 @@ $_SESSION['tanggal'] = "01-01-2023";
 ob_start();
 // Menyimpan HTML dalam variabel
 ?>
+<div class="d-none" id="judulart">
+   <h2>Diare? Jangan Anggap Sepele!</h2>
+   <p>01-01-2023</p>
+</div>
 <img src="../images/pmi.jpg" alt="Logo" width="100%" height="100%" id="logo" style="margin-left: 0;">
 <div class="opening" style="padding-left: 0; padding-right: 0; margin-bottom: 0;" id="konten">
    <p>Dilansir dari <span style="font-style: italic">Buletin Diare Kementrian Kesehatan Republik Indonesia</span>, berdasarkan pola penyebab kematian semua umur; Diare merupakan penyebab kematian peringkat ke-13 dengan proporsi 3,5%. Sedangkan berdasarkan penyakit menular, diare merupakan penyebab kematian peringkat ke-3 setelah TB dan Pneumonia.</p>
@@ -41,7 +45,6 @@ ob_start();
 </div>
 
 <?php
-$htmlContent = ob_get_clean();
-
-include 'konten artikel layout.php';
+   $htmlContent = ob_get_clean();
+   include 'konten artikel layout.php';
 ?>

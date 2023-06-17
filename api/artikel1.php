@@ -60,7 +60,7 @@
                      </div>
                   </div>
                   <div class="row">
-                     <div class="col-md-4">
+                     <div class="col-md-4" id="artikel4">
                         <div class="gift_box">
                            <i><img src="../images/artikel 4.png" alt="pmi"></i>
                            <div class="lartikelh1">
@@ -69,10 +69,10 @@
                            <div class="resume">
                               <p>Kondisi kesehatan bukan hanya kesehatan fisik namun juga kesehatan mental.</p>
                            </div>
-                           <button class="sumbit">Lihat Selengkapnya</button>
+                           <a href="konten artikel 4.php"><button class="sumbit">Lihat Selengkapnya</button></a>
                         </div>
                      </div>
-                     <div class="col-md-4">
+                     <div class="col-md-4" id="artikel5">
                         <div class="gift_box">
                            <i><img src="../images/artikel 5.png" alt="pmi"></i>
                            <div class="lartikelh1">
@@ -81,10 +81,10 @@
                            <div class="resume">
                               <p>COVID-19 adalah penyakit menular yang disebabkan oleh jenis coronavirus yang baru ditemukan.</p>
                            </div>
-                           <button class="sumbit">Lihat Selengkapnya</button>
+                           <a href="konten artikel 5.php"><button class="sumbit">Lihat Selengkapnya</button></a>
                         </div>
                      </div>
-                     <div class="col-md-4">
+                     <div class="col-md-4" id="artikel6">
                         <div class="gift_box">
                            <i><img src="../images/artikel 6.png" alt="pmi"></i>
                            <div class="lartikelh1">
@@ -93,12 +93,12 @@
                            <div class="resume">
                               <p>Kinta, sebuah kampung tua di Palu, Sulawesi Tenggara ternyata bertuah. Di kampung itu berdiri 15 rumah saling berhadapan.</p>
                            </div>
-                           <button class="sumbit">Lihat Selengkapnya</button>
+                           <a href="konten artikel 6.php"><button class="sumbit">Lihat Selengkapnya</button></a>
                         </div>
                      </div>
                   </div>
                   <div class="row">
-                     <div class="col-md-4">
+                     <div class="col-md-4" id="artikel7">
                         <div class="gift_box">
                            <i><img src="../images/artikel 7.png" alt="pmi"></i>
                            <div class="lartikelh1">
@@ -107,10 +107,10 @@
                            <div class="resume">
                               <p>Ada tiga elemen yang dapat menentukan kualitas tidur yang baik, yaitu durasi, kontinuitas dan kedalaman.</p>
                            </div>
-                           <button class="sumbit">Lihat Selengkapnya</button>
+                           <a href="konten artikel 7.php"><button class="sumbit">Lihat Selengkapnya</button></a>
                         </div>
                      </div>
-                     <div class="col-md-4">
+                     <div class="col-md-4" id="artikel8">
                         <div class="gift_box">
                            <i><img src="../images/artikel 8.png" alt="pmi"></i>
                            <div class="lartikelh1">
@@ -119,10 +119,10 @@
                            <div class="resume">
                               <p>Gempa merupakan salah satu bencana alam yang telah merogoh harta bahkan nyawa manusia.</p>
                            </div>
-                           <button class="sumbit">Lihat Selengkapnya</button>
+                           <a href="konten artikel 8.php"><button class="sumbit">Lihat Selengkapnya</button></a>
                         </div>
                      </div>
-                     <div class="col-md-4">
+                     <div class="col-md-4" id="artikel9">
                         <div class="gift_box">
                            <i><img src="../images/artikel 9.png" alt="pmi"></i>
                            <div class="lartikelh1">
@@ -131,7 +131,7 @@
                            <div class="resume">
                               <p>Kebiasaan masyarakat yang sering membuang sampah ke sungai menyebabkan sampah menumpuk di lautan.</p>
                            </div>
-                           <button class="sumbit">Lihat Selengkapnya</button>
+                           <a href="konten artikel 9.php"><button class="sumbit">Lihat Selengkapnya</button></a>
                         </div>
                      </div>
                   </div>

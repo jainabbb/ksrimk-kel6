@@ -8,9 +8,13 @@ $_SESSION['judul'] = "Menjaga 'Mindset' Sehat di Tengah Pandemi";
 $_SESSION['tanggal'] = "26-02-2021";
 ob_start();
 ?>
-<img src="../images/konten artikel 2.png" alt="Logo" width="100%" height="100%" id="logo" style="margin-left: 0;">
+<div class="d-none" id="judulart">
+   <h2>Menjaga 'Mindset' Sehat di Tengah Pandemi</h2>
+   <p>26-02-2021</p>
+</div>
+<img src="../images/konten artikel 2.jpg" alt="Logo" width="100%" height="100%" id="logo" style="margin-left: 0;">
 <div class="opening" style="padding-left: 0; padding-right: 0; margin-bottom: 0;" id="konten">
-   <p>Di tengah pandemi COVID-19 yang penuh ketidakpastian, sulit rasanya untuk berpikir positif. Setiap hari, kita melihat berita tentang jumlah pasien positif yang terus meningkat, menipisnya persediaan alat pelindung diri, hingga cerita masyarakat yang kesusahan karena tidak dapat mencari nafkah.</p>
+   <p>Di tengah pandemi COVID-19 yang penuh ketidakpastian, sulit rasanya untuk berpikir positif. Setiap hari, kita melihat berita tentang jumlah pasien positif yang terus meningkat, menipisnya persediaan alat pelindung diri, hingga cerita masyarakat yang kesusahan karena tidak dapat  mencari nafkah.</p>
    <p>Berpikir positif memang tidak akan mengakhiri pandemi COVID-19 begitu saja. Situasi yang tidak stabil saat ini mungkin akan tetap membuat kita cemas. Meski demikian, pikiran yang positif dan realistis setidaknya dapat membantu kita berpikir lebih jernih sebelum mengambil keputusan.</p>
    <p style="text-indent: 0;">Kita dapat menjaga mindset sehat dengan cara berikut.</p>
    <ol type="1" class="artol">
@@ -29,7 +33,6 @@ ob_start();
 </div>
 
 <?php
-$htmlContent = ob_get_clean();
-
-include 'konten artikel layout.php';
+   $htmlContent = ob_get_clean();
+   include 'konten artikel layout.php';
 ?>

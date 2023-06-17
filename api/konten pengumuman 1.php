@@ -22,6 +22,7 @@
                </div>
             </div>
          </div>
+         <div>
          <div id="kontenp">
             <div>
                <p style="font-weight: bold;">Halo Calon Anggota Muda KSR Angkatan 13!</p>
@@ -45,9 +46,9 @@
                </div>
             </a>
             <br>
-            <embed src="https://drive.google.com/file/d/1J8KUIINXb1w87q-X4opMM6BLSH_me3gq/preview?usp=sharing" type="application/pdf" width="680" height="500"/>
+            <iframe src="https://drive.google.com/file/d/1J8KUIINXb1w87q-X4opMM6BLSH_me3gq/preview" width="685" height="500" allow="autoplay"></iframe>
          </div>
-         <div class="opening" id="daftarartikel" style="padding-left: 0; padding-right: 0; margin-bottom: 0;">
+         <div class="opening" id="daftarartikel" style="float: right; width: 28%; padding-left: 0; padding-right: 0; margin-bottom: 0;">
             <h2>Daftar Pengumuman</h2>
             <a href="konten pengumuman 1.php">
                <p>Pengumuman Pasca Diklat - OPREC KSR 2022</p>
@@ -79,6 +80,7 @@
             <a href="pengumuman.php">
                <p>Pengumuman lainnya...</p>
             </a>
+         </div>
          </div>
 
       </div>

@@ -1880,6 +1880,31 @@ ol p, .artol li {
           /* line-height: 1.80857; */
           font-weight: bold;
      }
+
+     .artbutton .sumbit {
+          align-items: center;
+          white-space: nowrap;
+          text-align: center;
+          font-size: 15px;
+          padding: 3%;
+          margin-right: 0;
+          margin-top: 5%;
+          /* border-radius: 5px; */
+     }
+     
+     .sumbit:hover {
+          background-color: #B90E0A;
+          /* background-color: chocolate; */
+     }
+
+     .header_bottom{
+               position: fixed;
+               top: 0;
+               width: 100%;
+               z-index: 100;
+               /* Gaya lain yang diinginkan untuk navbar */
+     }
+     
 }
    
    @media screen and (min-width: 801px) {

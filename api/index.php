@@ -20,6 +20,47 @@
                <h2>KSR PMI Unit</h2>
                <h2>Politeknik Statistika STIS</h2>
             </div>
+            <div class="row galeri-mobile">
+               <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                  <ol class="carousel-indicators">
+                     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                     <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                     <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+                     <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+                  </ol>
+                  <div class="carousel-inner">
+                     <div class="carousel-item active">
+                        <img src="../images/banner.jpg" class="d-block w-100 img-mobile" alt="Image 1" onclick="openModal();currentSlide(0)" class="hover-shadow cursor">
+                        <!-- <img class="d-block w-100" src="..." alt="First slide"> -->
+                     </div>
+                     <div class="carousel-item">
+                        <!-- <img class="d-block w-100" src="..." alt="Second slide"> -->
+                        <img src="../images/donor.jpg" alt="Gallery image 2" class="d-block w-100 img-mobile" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
+                     </div>
+                     <div class="carousel-item">
+                        <img src="../images/pmi.jpg" alt="Gallery image 3" class="d-block w-100 img-mobile" onclick="openModal();currentSlide(2)" class="hover-shadow cursor">
+                     </div>
+                     <div class="carousel-item">
+                        <img src="../images/latian.jpg" alt="Gallery image 4" class="d-block w-100 img-mobile" onclick="openModal();currentSlide(3)" class="hover-shadow cursor">
+                     </div>
+                     <div class="carousel-item">
+                        <img src="../images/pmi jabar.jpeg" alt="Gallery image 5" class="d-block w-100 img-mobile" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
+                     </div>
+                  </div>
+                  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                     <span class="sr-only">Previous</span>
+                  </a>
+                  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                     <span class="sr-only">Next</span>
+                  </a>
+               </div>
+               <div class="col-12 artbutton">
+                  <a href="#pengumuman"><button class="sumbit">Pengumuman terbaru</button></a>
+               </div>
+            </div>
             <div class="paragraf-justify">
                <br>
                <p>Kegiatan-kegiatan kampus tidak lepas dari timbulnya kecelakaan bagi pesertanya.
@@ -31,7 +72,7 @@
                   kegiatan mahasiswa yang bergerak di bidang sosial, kemanusiaan, dan pertolongan pertama.</p>
             </div>
          </div>
-         <div class="container bagian">
+         <div class="container bagian" id="pengumuman">
             <div class="row">
                <div class="col-md-12">
                   <div class="titlepage">

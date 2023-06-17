@@ -65,7 +65,7 @@ if (!(session_status() === PHP_SESSION_ACTIVE)) {
                         }; ?>
                     </li>
                 </ul>
-                <form action="search.php" method="post">
+                <form class="m-2" action="search.php" method="post">
                     <input class="form_sea" type="text" placeholder="Cari artikel atau pengumuman" name="search">
                     <button type="submit" class="seach_icon"><i class="fa fa-search"></i></button>
                 </form>

@@ -21,14 +21,14 @@
                <h2>Politeknik Statistika STIS</h2>
             </div>
             <div class="paragraf-justify">
-            <br>
-            <p>Kegiatan-kegiatan kampus tidak lepas dari timbulnya kecelakaan bagi pesertanya.
-               Sayangnya, sumber daya yang memiliki kemampuan dalam memberikan pertolongan
-               pertama di STIS selama ini masih kurang. Hal ini dikarenakan tidak adanya suatu wadah untuk
-               pelatihan atau pendidikan dasar kepalangmerahan kepada mahasiswa STIS.
-               Berdasarkan hal tersebut, beberapa mahasiswa STIS dan anggota pecinta alam
-               STIS “GPA CHEBBY” yang tergerak hatinya bermaksud untuk mendirikan suatu unit
-               kegiatan mahasiswa yang bergerak di bidang sosial, kemanusiaan, dan pertolongan pertama.</p>
+               <br>
+               <p>Kegiatan-kegiatan kampus tidak lepas dari timbulnya kecelakaan bagi pesertanya.
+                  Sayangnya, sumber daya yang memiliki kemampuan dalam memberikan pertolongan
+                  pertama di STIS selama ini masih kurang. Hal ini dikarenakan tidak adanya suatu wadah untuk
+                  pelatihan atau pendidikan dasar kepalangmerahan kepada mahasiswa STIS.
+                  Berdasarkan hal tersebut, beberapa mahasiswa STIS dan anggota pecinta alam
+                  STIS “GPA CHEBBY” yang tergerak hatinya bermaksud untuk mendirikan suatu unit
+                  kegiatan mahasiswa yang bergerak di bidang sosial, kemanusiaan, dan pertolongan pertama.</p>
             </div>
          </div>
          <div class="container bagian">
@@ -81,27 +81,39 @@
             <div class="three_box">
                <div class="container">
                   <div class="row">
-                  <div class="col-md-4" id="artikel1">
+                     <div class="col-md-4" id="artikel1">
                         <div class="gift_box">
                            <i><img src="../images/artikel 1.png" alt="pmi"></i>
-                           <div class="lartikelh1"><h1>Pentingnya "Me Time" Untuk Kesehatan Psikologis</h1></div>
-                           <div class="resume"><p>Pernahkah kamu merasa penat akan segala rutinitas yang kamu lakukan?</p></div>
+                           <div class="lartikelh1">
+                              <h1>Pentingnya "Me Time" Untuk Kesehatan Psikologis</h1>
+                           </div>
+                           <div class="resume">
+                              <p>Pernahkah kamu merasa penat akan segala rutinitas yang kamu lakukan?</p>
+                           </div>
                            <a href="konten artikel 1.php"><button class="sumbit">Lihat Selengkapnya</button></a>
                         </div>
                      </div>
                      <div class="col-md-4" id="artikel2">
                         <div class="gift_box">
                            <i><img src="../images/artikel 2.png" alt="pmi"></i>
-                           <div class="lartikelh1"><h1>Menjaga 'Mindset' Sehat di Tengah Pandemi</h1></div>
-                           <div class="resume"><p>Pikiran yang positif dan realistis setidaknya dapat membantu kita berpikir lebih jernih sebelum mengambil keputusan.</p></div>
+                           <div class="lartikelh1">
+                              <h1>Menjaga 'Mindset' Sehat di Tengah Pandemi</h1>
+                           </div>
+                           <div class="resume">
+                              <p>Pikiran yang positif dan realistis setidaknya dapat membantu kita berpikir lebih jernih sebelum mengambil keputusan.</p>
+                           </div>
                            <a href="konten artikel 2.php"><button class="sumbit">Lihat Selengkapnya</button></a>
                         </div>
                      </div>
                      <div class="col-md-4" id="artikel3">
                         <div class="gift_box">
                            <i><img src="../images/artikel 3.png" alt="pmi"></i>
-                           <div class="lartikelh1"><h1>Pembelajaran Jarak Jauh Sehat, Bisakah?</h1></div>
-                           <div class="resume"><p>Duduk di depan perangkat digital seperti komputer atau laptop 'seharian' tentunya punya dampak negatif, lho!</p></div>
+                           <div class="lartikelh1">
+                              <h1>Pembelajaran Jarak Jauh Sehat, Bisakah?</h1>
+                           </div>
+                           <div class="resume">
+                              <p>Duduk di depan perangkat digital seperti komputer atau laptop 'seharian' tentunya punya dampak negatif, lho!</p>
+                           </div>
                            <a href="konten artikel 3.php"><button class="sumbit">Lihat Selengkapnya</button></a>
                         </div>
                      </div>
@@ -118,35 +130,6 @@
          </div>
          <div class="container bagian">
             <div class="row">
-               <div class="col-md-12">
-                  <div class="titlepage">
-                     <h2>Galeri</h2>
-                  </div>
-                  <div class="gallery">
-                     <figure class="gallery__item gallery__item--1">
-                        <img src="../images/banner.jpg" class="gallery__img" alt="Image 1" onclick="openModal();currentSlide(0)" class="hover-shadow cursor">
-                     </figure>
-                     <figure class="gallery__item gallery__item--2">
-                        <img src="../images/donor.jpg" alt="Gallery image 2" class="gallery__img" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
-                     </figure>
-                     <figure class="gallery__item gallery__item--3">
-                        <img src="../images/pmi.jpg" alt="Gallery image 3" class="gallery__img" onclick="openModal();currentSlide(2)" class="hover-shadow cursor">
-                     </figure>
-                     <figure class="gallery__item gallery__item--4">
-                        <img src="../images/latian.jpg" alt="Gallery image 4" class="gallery__img" onclick="openModal();currentSlide(3)" class="hover-shadow cursor">
-                     </figure>
-                     <figure class="gallery__item gallery__item--5">
-                        <img src="../images/pmi jabar.jpeg" alt="Gallery image 5" class="gallery__img" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
-                     </figure>
-                  </div>
-               </div>
-            </div>
-            <div class="row">
-               <div class="col-md-12">
-                  <div class="artbutton">
-                     <a href="galeri.php"><button class="sumbit">Foto Lainnya</button></a>
-                  </div>
-               </div>
             </div>
          </div>
       </div>
@@ -162,10 +145,10 @@
    <?php include 'footer.php'; ?>
    <div id="myModal" class="modal">
       <span class="close cursor" onclick="closeModal()">&times;</span>
-      <div class="modal-content" style="height:50%; width: 50%;">
+      <div class="modal-content">
          <div class="mySlides">
             <div class="numbertext">1 / 4</div>
-            <img src="" style="width:100%;">
+            <img src="" class="img-modal" style="height:100%;">
          </div>
       </div>
       <a class="prev" onclick="plusSlides(-1)">&#10094;</a>

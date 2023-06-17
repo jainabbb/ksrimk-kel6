@@ -1771,7 +1771,7 @@ ol p, .artol li {
 }
 
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 600px) {
      #collapse-btn-pengurus, #collapse-btn-tentang {
           display:inline; 
      }
@@ -1815,9 +1815,25 @@ ol p, .artol li {
           align-items:center;
           
      }
+
+     .nav-mob{
+          visibility: visible;
+     }
+     
+     .nav-pc{
+          display: none;
+     }
+
+     .brand-teks{
+          color: #fff;
+          font-size: 22px;
+          font-family: 'Poppins', sans-serif;
+          /* line-height: 1.80857; */
+          font-weight: bold;
+     }
 }
    
-   @media screen and (min-width: 501px) {
+   @media screen and (min-width: 601px) {
      #collapse-btn-pengurus, #collapse-btn-tentang{
        display: none; /* tombol collapse disembunyikan */
      }
@@ -1839,5 +1855,13 @@ ol p, .artol li {
      .modal-content{
           height:50%; 
           width: 50%;
+     }
+
+     .nav-mob{
+          display: none;
+     }
+     
+     .nav-pc{
+          visibility: visible;
      }
 }

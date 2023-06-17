@@ -45,7 +45,7 @@
                </div>
             </a>
             <br>
-            <iframe id="pdf" src="https://www.docdroid.net/ZN06g0Z/pengumuman-pasca-diklat-pdf" width="800" height="500"></iframe>
+            <iframe id="pdf" src="https://www.docdroid.net/ZN06g0Z/pengumuman-pasca-diklat-pdf"  style="overflow: auto!important; -webkit-overflow-scrolling: touch!important;" width="800" height="500"></iframe>
          </div>
          <div class="opening" id="daftarartikel" style="padding-left: 0; padding-right: 0; margin-bottom: 0;">
             <h2>Daftar Pengumuman</h2>

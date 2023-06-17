@@ -53,7 +53,7 @@
                            <i><img src="../images/artikel 13.png" alt="pmi"></i>
                            <div class="lartikelh1"><h1>Anak Kost Anti Sakit</h1></div>
                            <div class="resume"><p>Ada beberapa yang perlu kamu perhatikan saat berada di tanah rantau yang jauh dari keluarga.</p></div>
-                           <button class="sumbit">Lihat Selengkapnya</button>
+                           <a href="konten artikel 13.php"><button class="sumbit">Lihat Selengkapnya</button></a>
                         </div>
                      </div>
                      <div class="col-md-4" id="artikel14">
@@ -65,7 +65,7 @@
                            <div class="resume">
                               <p>Berikut ini 10 tips untuk tetap menjaga kesehatan mata saat sedang bekerja di depan layar.</p>
                            </div>
-                           <button class="sumbit">Lihat Selengkapnya</button>
+                           <a href="konten artikel 14.php"><button class="sumbit">Lihat Selengkapnya</button></a>
                         </div>
                      </div>
                      <div class="col-md-4" id="artikel15">
@@ -77,7 +77,7 @@
                            <div class="resume">
                               <p>Terbiasa tidur larut malam selama beberapa pekan bisa menganggu siklus tidur kita.</p>
                            </div>
-                           <button class="sumbit">Lihat Selengkapnya</button>
+                           <a href="konten artikel 15.php"><button class="sumbit">Lihat Selengkapnya</button></a>
                         </div>
                      </div>
                   </div>
@@ -91,7 +91,7 @@
                            <div class="resume">
                               <p>Kesehatan tubuh selama mudik harus dijaga agar perjalanan lancar dan sampai kampung halaman dengan selamat.</p>
                            </div>
-                           <button class="sumbit">Lihat Selengkapnya</button>
+                           <a href="konten artikel 16.php"><button class="sumbit">Lihat Selengkapnya</button></a>
                         </div>
                      </div>
                      <div class="col-md-4" id="artikel17">
@@ -103,7 +103,7 @@
                            <div class="resume">
                               <p>Tidur di lantai dengan ditemani kipas angin itu berpengaruh buruk bagi kesehatan.</p>
                            </div>
-                           <button class="sumbit">Lihat Selengkapnya</button>
+                           <a href="konten artikel 17.php"><button class="sumbit">Lihat Selengkapnya</button></a>
                         </div>
                      </div>
                      <div class="col-md-4" id="artikel18">
@@ -115,7 +115,7 @@
                            <div class="resume">
                               <p>Sakit kepala sebelah berdenyut yang disertai dengan mual dan muntah dalam waktu lama adalah gejala migrain.</p>
                            </div>
-                           <button class="sumbit">Lihat Selengkapnya</button>
+                           <a href="konten artikel 18.php"><button class="sumbit">Lihat Selengkapnya</button></a>
                         </div>
                      </div>
                   </div>

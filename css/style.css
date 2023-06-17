@@ -1728,15 +1728,24 @@ background-color: #c8ae79;
      border-radius: 40px;
 }
 
+strong {
+     font-size: 15px;
+}
+
 .artlist {
      padding: 0;
-     width: 97%;
+     /* width: 97%; */
      text-align: justify;
      font-size: 15px;
 }
 
+.artb li {
+     font-weight: bold;
+}
+
 .artol {
      padding-left: 2%;
+     font-size: 15px;
      /* width: 68%; */
 }
 
@@ -1747,7 +1756,7 @@ background-color: #c8ae79;
 
 .artlist p {
      /* text-indent: 0 !important; */
-     margin-left: 2%;
+     margin-left: 20px;
      width: 100% !important;
 }
 

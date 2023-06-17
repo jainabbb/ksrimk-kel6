@@ -3,7 +3,7 @@ if (!(session_status() === PHP_SESSION_ACTIVE)) {
    session_start();
 }
 $_SESSION['no_page'] = 2;
-$_SESSION['no_artikel'] = 3;
+$_SESSION['no_artikel'] = 8;
 $_SESSION['judul'] = "Gempa Bumi? Jangan Panik!";
 $_SESSION['tanggal'] = "17-08-2019";
 

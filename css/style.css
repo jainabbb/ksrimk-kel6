@@ -680,13 +680,10 @@ ul.right_icon li img {
      text-align: justify; 
 }
 
-<<<<<<< HEAD
 #konten p {
      width: 100%;
 }
 
-=======
->>>>>>> 737145b5924f034e375aee74cee7536e0fd33301
 #kontenp {
      width: 68%;
      margin-left: 15px; 
@@ -762,6 +759,10 @@ ul.right_icon li img {
      margin: 0 30px;
 }
 
+.daftarp h2:hover {
+     color: chocolate;
+}
+
 .pdf img {
      width: 10%;
      float: left;
@@ -778,9 +779,13 @@ ul.right_icon li img {
 
 #daftarartikel p {
      color: #c8ae79;
-     padding: 0 30px;
-     font-size: 18px;
+     padding: 0 30px 10px;
+     font-size: 16px;
      font-weight: normal;
+}
+
+#daftarartikel p:hover {
+     color: chocolate;
 }
 
 #daftarartikel h2 {
@@ -1258,9 +1263,6 @@ margin: 0 15px 20px 15px;
      /* white-space: nowrap; */
      text-align: center;
      font-size: 20px;
-<<<<<<< HEAD
-     padding: 10%;
-=======
      padding: 5px 20px;
      margin-right: 0;
      margin-top: 5%;
@@ -1268,7 +1270,6 @@ margin: 0 15px 20px 15px;
 
 .sumbit:hover {
      background-color: chocolate;
->>>>>>> 737145b5924f034e375aee74cee7536e0fd33301
 }
 
 .news_form .sumbit:hover {

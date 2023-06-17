@@ -212,14 +212,14 @@
         margin-top: 0px !important;
     }
     .banner_main {
-        padding: 99px 0px 0px 0px;
+        padding: 5% 0px 0px 0px;
         min-height: 547px;
     }
     .text-bg h1 {
         font-size: 50px;
         padding-bottom: 20px;
         line-height: 66px;
-        px;
+        /* px; */
     }
     .text-bg p {
         line-height: 30px;
@@ -310,3 +310,26 @@
     }
 }
 
+@media (max-width: 600px) {
+    .news {
+        background-color: rgb(255, 255, 255);
+        padding: 0px;
+        margin: 0px;
+        transition: 5s;
+        transform: translateY(0);
+        overflow: auto;
+   }
+
+   .title-home{
+    text-align: center;
+   }
+
+   .artikel{
+        display: flex;
+   }
+
+   .upline{
+    /* border-top: #B90E0A solid 5px;
+    width: 50%; */
+}
+   }

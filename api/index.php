@@ -1,42 +1,4 @@
-<?php
-if (!(session_status() === PHP_SESSION_ACTIVE)) {
-   session_start();
-}
-?>
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-   <!-- basic -->
-   <meta charset="utf-8">
-   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-   <!-- mobile metas -->
-   <meta name="viewport" content="width=device-width, initial-scale=1">
-   <meta name="viewport" content="initial-scale=1, maximum-scale=1">
-   <!-- site metas -->
-   <title>IMK Redesign Website KSR</title>
-   <meta name="keywords" content="">
-   <meta name="description" content="">
-   <meta name="author" content="">
-   <!-- bootstrap css -->
-   <link rel="stylesheet" href="../css/bootstrap.min.css">
-   <!-- style css -->
-   <link rel="stylesheet" href="../css/style.css">
-   <!-- Responsive-->
-   <link rel="stylesheet" href="../css/responsive.css">
-   <!-- fevicon -->
-   <link rel="icon" href="../images/fevicon.png" type="image/gif">
-   <!-- Scrollbar Custom CSS -->
-   <link rel="stylesheet" href="../css/jquery.mCustomScrollbar.min.css">
-   <!-- Tweaks for older IEs-->
-   <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
-   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
-   <!-- <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> -->
-   <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
-</head>
-<!-- body -->
+<?php include 'head.php' ?>
 
 <body class="main-layout">
    <!-- loader  -->
@@ -51,12 +13,18 @@ if (!(session_status() === PHP_SESSION_ACTIVE)) {
       <!-- news section -->
       <div class="news w3-animate-bottom">
          <div class="opening">
-            <img src="../images/logo.png" alt="Logo" width="310" height="310" id="logo">
-            <h2>KSR PMI Unit</h2>
-            <h2>Politeknik Statistika</h2>
-            <h2>STIS</h2>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.</p>
+            <div class="logo-index">
+               <img src="../images/logo.png" alt="Logo" width="310" height="310" id="logo">
+            </div>
+            <div class="title-home">
+               <h2>KSR PMI Unit</h2>
+               <h2>Politeknik Statistika</h2>
+               <h2>STIS</h2>
+            </div>
+            <div class="paragraf-justify">
+               <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+               <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.</p>
+            </div>
          </div>
          <div class="container bagian">
             <div class="row">

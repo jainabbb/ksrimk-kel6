@@ -101,15 +101,12 @@
                 </div>
             </div>
             <div style="padding-left: 0; padding-right: 0; margin-bottom: 0;">
-               <div class="filter">
-                  <select id="dropDown" class="form-select" autocomplete="off">
-                     <option value="all" selected>Semua</option>
-                     <option value="filterar">Artikel</option>
-                     <option value="filterp">Pengumuman</option>
-                  </select>
+               <div id="myBtnContainer">
+                  <button value="all" class="sumbit filterb float-none py-1 px-3 m-0 activeb">Semua</button>
+                  <button value="filterar" class="sumbit filterb float-none py-1 px-3 m-0">Artikel</button>
+                  <button value="filterp" class="sumbit filterb float-none py-1 px-3 m-0">Pengumuman</button>
                </div>
-               <br>
-               <div id="filterar">
+               <div id="filterar" class="mt-3">
                   <div class="" style="padding-bottom: 0" id="daftarar">
                      <h2 id="adar" style="font-size: 24px;"></h2>
                   </div>
@@ -165,6 +162,8 @@
                            </div>';
                      if ($k == 0) {
                         echo '<div class="opening" style="text-align: center; margin: 80px 0" id="noresult"></div>';
+                     } else {
+                        echo '<div class="borders"></div>';
                      }
                   ?>
                </div>

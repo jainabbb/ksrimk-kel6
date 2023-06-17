@@ -63,12 +63,24 @@
             <a href="konten artikel 3.php">
                <p>Pembelajaran Jarak Jauh Sehat, Bisakah?</p>
             </a>
-            <p>Gangguan Kesehatan Mental</p>
-            <p>Yuk Kenal Lebih Dekat Dengan COVID-19</p>
-            <p>Tetua Berkata, Budak Bertindak</p>
-            <p>Pola Hidup Mahasiswa Politeknik Statistika STIS 2019</p>
-            <p>Gempa Bumi? Jangan Panik!</p>
-            <p>Save Our Ocean, Plastic Free!</p>
+            <a href="konten artikel 4.php">
+               <p>Gangguan Kesehatan Mental</p>
+            </a>
+            <a href="konten artikel 5.php">
+               <p>Yuk Kenal Lebih Dekat Dengan COVID-19</p>
+            </a>
+            <a href="konten artikel 6.php">
+               <p>Tetua Berkata, Budak Bertindak</p>
+            </a>
+            <a href="konten artikel 7.php">
+               <p>Pola Hidup Mahasiswa Politeknik Statistika STIS 2019</p>
+            </a>
+            <a href="konten artikel 8.php">
+               <p>Gempa Bumi? Jangan Panik!</p>
+            </a>
+            <a href="konten artikel 9.php">
+               <p>Save Our Ocean, Plastic Free!</p>
+            </a>
             <a href="../artikel1.php">
                <p>Artikel lainnya...</p>
             </a>

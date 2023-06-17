@@ -781,6 +781,16 @@ ul.right_icon li img {
      font-size: 25px;
 }
 
+.linkul a {
+     padding: 0;
+     color: #B90E0A;
+}
+
+.linkul a:hover{
+     color: chocolate;
+     cursor: pointer;
+}
+
 .titlepage h2 img {
      padding-right: 10%;
 }
@@ -1669,6 +1679,9 @@ margin: 0 15px 20px 15px;
 
 .artlist {
      padding: 0;
+     width: 70%;
+     text-align: justify;
+     font-size: 15px;
 }
 
 .artol {

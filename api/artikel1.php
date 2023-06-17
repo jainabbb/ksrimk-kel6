@@ -91,7 +91,7 @@ $_SESSION['no_page'] = 2; ?>
                            <i><img src="../images/artikel 4.png" alt="pmi"></i>
                            <div class="lartikelh1"><h1>Gangguan Kesehatan Mental</h1></div>
                            <div class="resume"><p>Kondisi kesehatan bukan hanya kesehatan fisik namun juga kesehatan mental.</p></div>
-                           <button class="sumbit">Lihat Selengkapnya</button>
+                           <a href="konten artikel 4.php"><button class="sumbit">Lihat Selengkapnya</button></a>
                         </div>
                      </div>
                      <div class="col-md-4">
@@ -99,7 +99,7 @@ $_SESSION['no_page'] = 2; ?>
                            <i><img src="../images/artikel 5.png" alt="pmi"></i>
                            <div class="lartikelh1"><h1>Yuk Kenal Lebih Dekat Dengan COVID-19</h1></div>
                            <div class="resume"><p>COVID-19 adalah penyakit menular yang disebabkan oleh jenis coronavirus yang baru ditemukan.</p></div>
-                           <button class="sumbit">Lihat Selengkapnya</button>
+                           <a href="konten artikel 5.php"><button class="sumbit">Lihat Selengkapnya</button></a>
                         </div>
                      </div>
                      <div class="col-md-4">
@@ -107,7 +107,7 @@ $_SESSION['no_page'] = 2; ?>
                            <i><img src="../images/artikel 6.png" alt="pmi"></i>
                            <div class="lartikelh1"><h1>Tetua Berkata, Budak Bertindak</h1></div>
                            <div class="resume"><p>Kinta, sebuah kampung tua di Palu, Sulawesi Tenggara ternyata bertuah. Di kampung itu berdiri 15 rumah saling berhadapan.</p></div>
-                           <button class="sumbit">Lihat Selengkapnya</button>
+                           <a href="konten artikel 6.php"><button class="sumbit">Lihat Selengkapnya</button></a>
                         </div>
                      </div>
                   </div>
@@ -117,7 +117,7 @@ $_SESSION['no_page'] = 2; ?>
                            <i><img src="../images/artikel 7.png" alt="pmi"></i>
                            <div class="lartikelh1"><h1>Pola Hidup Mahasiswa Politeknik Statistika STIS 2019</h1></div>
                            <div class="resume"><p>Ada tiga elemen yang dapat menentukan kualitas tidur yang baik, yaitu durasi, kontinuitas dan kedalaman.</p></div>
-                           <button class="sumbit">Lihat Selengkapnya</button>
+                           <a href="konten artikel 7.php"><button class="sumbit">Lihat Selengkapnya</button></a>
                         </div>
                      </div>
                      <div class="col-md-4">
@@ -125,7 +125,7 @@ $_SESSION['no_page'] = 2; ?>
                            <i><img src="../images/artikel 8.png" alt="pmi"></i>
                            <div class="lartikelh1"><h1>Gempa Bumi? Jangan Panik!</h1></div>
                            <div class="resume"><p>Gempa merupakan salah satu bencana alam yang telah merogoh harta bahkan nyawa manusia.</p></div>
-                           <button class="sumbit">Lihat Selengkapnya</button>
+                           <a href="konten artikel 8.php"><button class="sumbit">Lihat Selengkapnya</button></a>
                         </div>
                      </div>
                      <div class="col-md-4">
@@ -133,7 +133,7 @@ $_SESSION['no_page'] = 2; ?>
                            <i><img src="../images/artikel 9.png" alt="pmi"></i>
                            <div class="lartikelh1"><h1>Save Our Ocean, Plastic Free!</h1></div>
                            <div class="resume"><p>Kebiasaan masyarakat yang sering membuang sampah ke sungai menyebabkan sampah menumpuk di lautan.</p></div>
-                           <button class="sumbit">Lihat Selengkapnya</button>
+                           <a href="konten artikel 9.php"><button class="sumbit">Lihat Selengkapnya</button></a>
                         </div>
                      </div>
                   </div>

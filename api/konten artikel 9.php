@@ -38,8 +38,7 @@
    <!-- <div class="loader_bg">
          <div class="loader"><img src="images/loading.gif" alt="#"></div>
       </div> -->
-   <?php $_SESSION['no_page'] = 2;
-   include 'navbar.php'; ?>
+   <?php $_SESSION['no_page'] = 2; include 'navbar.php'; ?>
    <div class="banner_main">
       <!-- news section -->
       <div class="news w3-animate-bottom" style="padding: 30px 20px;">
@@ -47,14 +46,14 @@
             <div class="row">
                <div class="col-md-12">
                   <div class="titlepage" id="judulartikel">
-                     <h2>Pentingnya "Me Time" Untuk Kesehatan Psikologis</h2>
-                     <p>01-04-2021</p>
+                     <h2>Save Our Ocean, Plastic Free!</h2>
+                     <p>19-07-2019</p>
                   </div>
                </div>
             </div>
          </div>
          <div class="opening" id="daftarartikel" style="padding-left: 0; padding-right: 0;">
-            <img src="../images/konten artikel 1.png" alt="Logo" id="logo" style="margin-left: 0;" width="70%">
+            <img src="../images/konten artikel 9.png" alt="Logo" id="logo" style="margin-left: 0;" width="70%">
             <h2>Daftar Artikel</h2>
             <a href="konten artikel.php">
                <p>Pentingnya "Me Time" Untuk Kesehatan Psikologis</p>
@@ -89,27 +88,22 @@
          </div>
          <br>
          <div class="opening" style="padding-left: 0; padding-right: 0; margin-bottom: 0;" id="konten">
-            <p>
-               Manusia merupakan makhluk sosial yang tidak bisa hidup sendiri. Manusia perlu berinteraksi dengan orang lain dan melakukan rutinitas sehari-hari. Bahkan sampai menguras waktu, tenaga, dan pikiran. Tapi pernahkah kamu merasa penat akan segala rutinitas yang kamu lakukan? Disinilah kamu bisa meluangkan waktu sejenak untuk diri sendiri, yaitu Me Time. Banyak orang yang belum paham pentingnya Me Time untuk kesehatan psikologis. Ada yang berpikir bahwa Me Time telalu memikirkan diri sendiri, egois dan antisosial. Faktanya Me Time memberikan banyak manfaat. Yuk simak manfaatnya dibawah ini.
-            </p>
-            <!-- <br> -->
+            <p>Plastik merupakan salah satu bahan yang sering digunakan masyarakat dalam kehidupan sehari-hari untuk membawa barang dan membungkus makanan. Ditambah juga banyak peralatan-peralatan rumah tangga yang berbahan dasar plastik. Seringnya plastik digunakan oleh masyarakat  membuat bahan yang satu ini seolah-olah menjadi kebutuhan yang harus tersedia di kehidupan masyarakat.  Diperkirakan ada 500 juta sampai 1 milyar kantong plastik digunakan penduduk dunia dalam satu tahun. Ini berarti ada sekitar 1 juta kantong plastik per menit. Untuk membuatnya, diperlukan 12 juta barel minyak per tahun, dan 14 juta pohon ditebang. Ditambah dengan fakta tentang bahan pembuat plastik, (umumnya <em>polimer polivinil</em>) terbuat dari <em>polychlorinated biphenyl</em> (PCB) yang mempunyai struktur mirip DDT dan kantong plastik yang sulit untuk diurai oleh tanah hingga membutuhkan waktu antara 100 hingga 500 tahun membuat plastik menjadi bahan yang berbahaya untuk lingkungan baik di darat maupun di laut.</p>
+            <p>Kebiasaan masyarakat indonesia yang sering membuang sampah yang sebagian besar berbahan dasar plastik ke sungai menyebabkan sampah tersebut menumpuk di lautan. Tentunya ini sangat berbahaya bagi kelangsungan hidup biota-biota laut. Lalu apa saja bahaya plastik bagi lautan?</p>
+            <p>Hewan-hewan laut, seperti lumba-lumba, penyu, dan anjing laut menganggap sampah atau kantong plastik sebagai makanannya sehingga mereka akhirnya bisa mati hanya gara-gara memakannya dan tidak mampu mencernanya.</p>
+            <p>Seperti yang kita ketahui sampah plastik membutuhkan waktu ratusan tahun sebelum terurai sempurna. Dalam prosesnya sampah hancur menjadi partikel-partikel kecil, menyebar di seantero perairan dan tanpa sadar dikonsumsi oleh hewan-hewan di lautan. Sampah-sampah itu terus membunuh makhluk hidup di lautan. Berdasarkan penelitian yang diterbitkan Sekretariat Konvensi tentang Keanekaragaman Hayati (United Nations Convention On Biological Diversity) pada 2016, sampah di lautan telah membahayakan lebih dari 800 spesies. Dari 800 spesies itu, 40% nya adalah mamalia laut dan 44% lainnya adalah spesies burung laut. Data itu kemudian diperbarui pada Konferensi Laut PBB di New York pada 2017 lalu. Konferensi menyebut limbah plastik di lautan telah membunuh 1 juta burung laut, 100 ribu mamalia laut, kura-kura laut, dan ikan-ikan dalam jumlah besar, tiap tahun.</p>
+            <p>Laut memiliki peran penting bagi berlangsungnya kehidupan makhluk hidup di bumi. Sebagian besar orang tidak berpikir bahwa satu dari dua hela nafas yang mereka tarik berasal dari lautan yang luas. Semua hal di dunia ini berkaitan satu dengan yang lain, termasuk aktivitas di daratan juga memiliki pengaruh besar terhadap kesehatan lautan di mana kelangsungan hidup manusia bergantung padanya.</p>
+            <p>Sudah sepatutnya kita sebagai makhluk yang memiliki kelebihan akal untuk saling menjaga makhluk hidup lain yang lebih lemah dan menjaga bumi tercinta. Kita bukan hanya satu-satunya generasi yang hidup di bumi, masih ada generasi-generasi selanjutnya yang memiliki hak untuk menikmati keindahan di bumi ini. Untuk itu ada beberapa hal kecil yang bisa kita lakukan untuk menjaga laut kita yaitu:</p>
             <ul class="artlist">
-               <li>Menjernihkan pikiran dan menyegarkan tubuh</li>
-               <p>Waktu untuk diri sendiri amat berguna untuk menyegarkan pikiran karena otak beristirahat sejenak dan terbebas dari berbagai hal yang mengganggunya. Jika pikiran kamu terasa segar, tubuh pun akan merasakan hal yang sama.</p>
-               <li>Meningkatkan mood dan mengurangi stress</li>
-               <p>Semakin banyak dan sulit pekerjaan menjadikan diri lebih stres dan mood akan sering berubah-berubah. Oleh sebab itu, Me Time sangat diperlukan untuk meningkatkan mood agar senantiasa senang dan mengurangi stres agar kita dapat bekerja maupun belajar lebih baik.</p>
-               <li>Meningkatkan konsentrasi dan produktivitas</li>
-               <p>Selain bisa membuatmu lebih berkonsentrasi kamu juga bisa menggali potensi yang ada pada dirimu. Saat kamu kembali kerutinitasmu, kamu lebih siap untuk mengadapi segala hal yang terjadi.</p>
-               <li>Bisa lebih memahami diri sendiri dan introspeksi diri</li>
-               <p>Saat Me Time, kamu dapat merenungkan banyak hal, termasuk memahami diri kamu sendiri. Dengan begitu, kamu bisa menilai diri lebih baik, mengurangi hal-hal negatif pada diri kamu dan berusaha menjadi pribadi yang lebih positif.</p>
-               <li>Membuat keputusan yang lebih tepat</li>
-               <p>Saat Me Time kamu bisa mempertimbangkan lebih dalam mengenai berbagai keputusan yang kamu ambil untuk masa depan. </p>
-               <li>Meningkatkan kemampuan bersosialisasi</li>
-               <p>Ketika kamu melakukan Me Time kamu bisa memikirkan lebih banyak hal yang positif. Ketika kamu kembali ke rutinitas dengan pribadi yang lebih positif, otomatis kamu punya rasa percaya diri yang lebih besar dan mengubah cara pandang dan berfikirmu tentang menjaga hubungan baik dengan orang lain sehingga mampu bersosialisasi lebih baik. </p>
+                <li>Tukar sedotan <a href="https://nationalgeographic.grid.id/tag/plastik" target="_blank" class="arta">plastik</a>: Untuk membantu mengurangi sampah plastik, Anda bisa menggantinya dengan sedotan bambu atau baja. Bawa sedotan ramah lingkungan tersebut setiap Anda pergi ke restoran.</li>
+                <li>Membawa botol minuman sendiri: Selalu bawa botol minuman sendiri ketika bepergian. Ini menghindari Anda membeli minuman dalam botol atau gelas plastik. Dengan begitu, sampah plastik pun dapat berkurang.</li>
+                <li>Batasi pembelian <em>online</em> Barang-barang yang dikirim ke rumah Anda, terkadang dibungkus dengan plastik. Salah satu cara untuk mengurangi penggunaan plastik adalah dengan membatasi pembelian online. Anda bisa membeli kebutuhan di toko terdekat lalu membawanya dengan tote bag–tanpa kantung plastik.</li>
+                <li>Jangan membuang sampah sembarangan: Jika Anda pergi berlibur ke pantai, pastikan tidak ada sampah plastik yang tertinggal di sana. Seperti yang sudah dijelaskan sebelumnya, sampah plastik yang mengapung di lautan dapat membahayakan kehidupan hewan di sana.</li>
             </ul>
-            <!-- <br> -->
-            <p>Nah sekarang kamu sudah tahu kan betapa pentingnya Me Time untuk kesehatan psikologismu. Ada beberapa tips melakukan Me Time sederhana tetapi tetap bermanfaat. Seperti: duduk di teras rumah sambil siapkan camilan dan minuman, mendengarkan musik sendirian, duduk tenang tidak melakukan apapun sambil meregangkan badan, dan lain-lain. Me Time tidak harus dilakukan berjam-jam atau berhari-hari, bahkan 10-30 menit saja kamu bisa menggunakan waktu sebaik-baiknya. </p>
-         </div>
+            <p>Karena setiap sampah yang kita hasilkan membawa dampak untuk bumi tempat kita tinggal, yuk mulai sekarang kita terapkan hal-hal kecil untuk mengurangi penggunaan plastik.</p>
+            <br>
+            <p style="text-indent: 0">#saveourocean</p>
+        </div>
       </div>
       <!-- end news section -->
       <!-- three_box section -->

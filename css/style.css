@@ -672,7 +672,7 @@ ul.right_icon li img {
      font-weight: normal;
      text-align: justify; 
      text-indent: 0.3in;
-     width: 70%;
+     width: 100%;
 }
 
 #kontenp p {
@@ -680,15 +680,8 @@ ul.right_icon li img {
      text-align: justify; 
 }
 
-<<<<<<< HEAD
-#konten p {
-     width: 100%;
-}
-
-=======
->>>>>>> 737145b5924f034e375aee74cee7536e0fd33301
 #kontenp {
-     width: 68%;
+     width: 100%;
      margin-left: 15px; 
      margin-bottom: 30px; 
      margin-right: 25px;
@@ -1706,7 +1699,7 @@ background-color: #c8ae79;
 .artlist p {
      /* text-indent: 0 !important; */
      margin-left: 2%;
-     width: 68% !important;
+     width: 100% !important;
 }
 
 .arta {
@@ -1719,7 +1712,7 @@ background-color: #c8ae79;
 
 ol p, .artol li {
      /* text-indent: 0 !important; */
-     width: 69.4% !important;
+     width: 100% !important;
      text-align: justify;
 }
 

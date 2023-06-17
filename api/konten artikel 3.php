@@ -9,7 +9,7 @@ $_SESSION['tanggal'] = "24-10-2020";
 ob_start();
 // Menyimpan HTML dalam variabel
 ?>
-<img src="../images/pmi.jpg" alt="Logo" width="100%" height="100%" id="logo" style="margin-left: 0;">
+<img src="../images/artikel 3.png" alt="Logo" width="100%" height="100%" id="logo" style="margin-left: 0;">
 <div class="opening" style="padding-left: 0; padding-right: 0; margin-bottom: 0;" id="konten">
    <p class="bold">Haloo teman jauh! Tahun akademik kali ini diawali dengan segala yang berbau istilah 'jarak jauh'. Mulai dari kuliah jarak jauh, rapat jarak jauh, ujian jarak jauh, seminar jarak jauh (webinar), adik kita yang sekolah jarak jauh, orang tua atau kerabat kita yang bekerja jarak jauh, dan masih banyak lagi. Keadaan tersebut mendorong kita untuk berkomunikasi dengan perangkat digital yang terhubung secara daring. Duduk di depan perangkat digital seperti komputer atau laptop ‘seharian’ tentunya punya dampak negatif, lho! Terus bagaimana ya biar kita tidak terkena dampak negatif tersebut? Yuk, simak artikel ini.</p>
    <p class="bold">Dampak Negatif? Apaan tuh? Berikut dampak negatif dari duduk terlalu lama depan perangkat digital yang telah sobat KSR rangkum:</p>

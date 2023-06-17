@@ -1745,3 +1745,26 @@ ol p, .artol li {
      display: flex;
 }
 
+
+@media screen and (max-width: 500px) {
+     #collapse-btn-pengurus, #collapse-btn-tentang {
+          display:inline; 
+     }
+   
+     .collapse-paragraph {
+       display: none; /* paragraf disembunyikan */
+     }     
+   }
+   
+   @media screen and (min-width: 501px) {
+     #collapse-btn-pengurus, #collapse-btn-tentang{
+       display: none; /* tombol collapse disembunyikan */
+     }
+   
+     .collapse-paragraph {
+       display: block; /* paragraf ditampilkan sebagai blok */
+     }
+     .collapse-button {
+          display: none; /* Paragraf disembunyikan saat kelas collapsed diterapkan */
+        }
+   }

@@ -705,7 +705,7 @@ ul.right_icon li img {
 
 #pdf {
      width: 100%;
-     overflow: scroll;
+     /* overflow: scroll; */
 }
 
 .daftarp {

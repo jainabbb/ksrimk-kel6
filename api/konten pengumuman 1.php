@@ -45,8 +45,8 @@
                </div>
             </a>
             <br>
-            <object data="https://jmp.sh/3Jk82iSP" type="application/pdf" width="680" height="500">
-               <embed src="https://jmp.sh/3Jk82iSP" type="application/pdf" />
+            <object data="https://drive.google.com/file/d/1J8KUIINXb1w87q-X4opMM6BLSH_me3gq/preview?usp=sharing" type="application/pdf" width="680" height="500">
+               <embed src="https://drive.google.com/file/d/1J8KUIINXb1w87q-X4opMM6BLSH_me3gq/preview?usp=sharing" type="application/pdf" />
             </object>
          </div>
          <div class="opening" id="daftarartikel" style="padding-left: 0; padding-right: 0; margin-bottom: 0;">

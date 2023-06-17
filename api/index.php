@@ -18,8 +18,7 @@
             </div>
             <div class="title-home">
                <h2>KSR PMI Unit</h2>
-               <h2>Politeknik Statistika</h2>
-               <h2>STIS</h2>
+               <h2>Politeknik Statistika STIS</h2>
             </div>
             <div class="paragraf-justify">
             <br>

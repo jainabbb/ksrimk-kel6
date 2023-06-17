@@ -5,11 +5,15 @@ if (!(session_status() === PHP_SESSION_ACTIVE)) {
 $_SESSION['no_page'] = 2;
 $_SESSION['no_artikel'] = 3;
 $_SESSION['judul'] = "Yuk Kenal Lebih Dekat Dengan COVID-19";
-$_SESSION['tanggal'] = "01-04-2021";
+$_SESSION['tanggal'] = "22-08-2020";
 
 ob_start();
 // Menyimpan HTML dalam variabel
 ?>
+<div class="d-none" id="judulart">
+   <h2>Yuk Kenal Lebih Dekat Dengan COVID-19</h2>
+   <p>22-08-2020</p>
+</div>
 <img src="../images/konten artikel 5.png" alt="Logo" width="100%" height="100%" id="logo" style="margin-left: 0;">
 <div class="opening" style="padding-left: 0; padding-right: 0; margin-bottom: 0;" id="konten">
    <p style="font-weight: bold; text-indent: 0">Apa itu Covid-19?</p>

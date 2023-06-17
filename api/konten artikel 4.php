@@ -10,6 +10,10 @@ $_SESSION['tanggal'] = "22-09-2020";
 ob_start();
 // Menyimpan HTML dalam variabel
 ?>
+<div class="d-none" id="judulart">
+   <h2>Gangguan Kesehatan Mental</h2>
+   <p>22-09-2020</p>
+</div>
 <img src="../images/konten artikel 4.png" alt="Logo" width="100%" height="100%" id="logo" style="margin-left: 0;">
 <div class="opening" style="padding-left: 0; padding-right: 0; margin-bottom: 0;" id="konten">
    <p style="text-indent: 0;">Oleh: Rizqi Aulia</p><br>

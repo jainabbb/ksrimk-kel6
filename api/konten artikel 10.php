@@ -10,6 +10,10 @@ $_SESSION['tanggal'] = "21-06-2019";
 ob_start();
 // Menyimpan HTML dalam variabel
 ?>
+<div class="d-none" id="judulart">
+   <h2>Tubuh Ideal Setelah Hari Raya? Why Not?!</h2>
+   <p>21-06-2019</p>
+</div>
 <img src="../images/pmi.jpg" alt="Logo" width="100%" height="100%" id="logo" style="margin-left: 0;">
 <div class="opening" style="padding-left: 0; padding-right: 0; margin-bottom: 0;" id="konten">
    <p>Tidak terasa kita telah melewati bulan suci ramadhan, setelah sebulan penuh melaksanakan ibadah puasa tentu datangnya hari raya adalah sesuatu yang umat islam nanti-nantikan. Sebagaimana diketahui, hari raya lebaran adalah hari yang identik dengan makanan yang kaya akan lemak dan bersantan, makanan yang bisa memicu berbagai macam penyakit jika dikonsumsi secara berlebihan dan tentunya bisa menambah berat badanmu loh. Maka dari itu perlu untuk menjalankan pola hidup sehat saat lebaran dan tentunya juga setelah lebaran. Pola ini seperti mengatur asupan kalori, berolahraga, konsumsi air putih, dan masih banyak lagi. Berikut hal yang harus diperhatikan agar kita tetap memiliki tubuh yang ideal usai hari raya:</p>

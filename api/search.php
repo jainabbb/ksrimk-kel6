@@ -119,7 +119,7 @@
                foreach($articles as $article) {
                   $i++;
                   $content = file_get_html(rtrim($article), true);
-                  $judul = $content->find('#judulartikel');
+                  $judul = $content->find('#judulart');
                   $isi = $content->find('#konten');
                   if(stripos($judul[0]->plaintext, $searchString) !== false) {
                      $isiart = $artlist->find('#artikel'.$i);
@@ -136,7 +136,7 @@
                foreach($articles2 as $article) {
                   $j++;
                   $content = file_get_html(rtrim($article), true);
-                  $judul = $content->find('#judulartikel');
+                  $judul = $content->find('#judulart');
                   $isi = $content->find('#konten');
                   if(stripos($judul[0]->plaintext, $searchString) !== false) {
                      $isiart = $artlist2->find('#artikel'.$j);

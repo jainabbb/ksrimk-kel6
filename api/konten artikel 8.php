@@ -10,6 +10,10 @@ $_SESSION['tanggal'] = "17-08-2019";
 ob_start();
 // Menyimpan HTML dalam variabel
 ?>
+<div class="d-none" id="judulart">
+   <h2>Gempa Bumi? Jangan Panik!</h2>
+   <p>17-08-2019</p>
+</div>
 <img src="../images/konten artikel 8.jpg" alt="Logo" width="100%" height="100%" id="logo" style="margin-left: 0;">
 <div class="opening" style="padding-left: 0; padding-right: 0; margin-bottom: 0;" id="konten">
    <p>Gempa merupakan salah satu bencana alam yang telah merogoh harta bahkan nyawa manusia. Maka dari itu, bukan hal yang asing bila melihat manusia digeluti rasa panik saat gempa tiba-tiba menerpa. Sehingga ada baiknya kita mengetahui seluk beluk bencana Gempa bumi. Yuk, simak artikel singkat gempa bumi berikut!</p>

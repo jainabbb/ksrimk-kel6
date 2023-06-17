@@ -10,6 +10,10 @@ $_SESSION['tanggal'] = "19-07-2019";
 ob_start();
 // Menyimpan HTML dalam variabel
 ?>
+<div class="d-none" id="judulart">
+   <h2>Save Our Ocean, Plastic Free!</h2>
+   <p>19-07-2019</p>
+</div>
 <img src="../images/konten artikel 9.png" alt="Logo" width="100%" height="100%" id="logo" style="margin-left: 0;">
 <div class="opening" style="padding-left: 0; padding-right: 0; margin-bottom: 0;" id="konten">
    <p>Plastik merupakan salah satu bahan yang sering digunakan masyarakat dalam kehidupan sehari-hari untuk membawa barang dan membungkus makanan. Ditambah juga banyak peralatan-peralatan rumah tangga yang berbahan dasar plastik. Seringnya plastik digunakan oleh masyarakat membuat bahan yang satu ini seolah-olah menjadi kebutuhan yang harus tersedia di kehidupan masyarakat. Diperkirakan ada 500 juta sampai 1 milyar kantong plastik digunakan penduduk dunia dalam satu tahun. Ini berarti ada sekitar 1 juta kantong plastik per menit. Untuk membuatnya, diperlukan 12 juta barel minyak per tahun, dan 14 juta pohon ditebang. Ditambah dengan fakta tentang bahan pembuat plastik, (umumnya <em>polimer polivinil</em>) terbuat dari <em>polychlorinated biphenyl</em> (PCB) yang mempunyai struktur mirip DDT dan kantong plastik yang sulit untuk diurai oleh tanah hingga membutuhkan waktu antara 100 hingga 500 tahun membuat plastik menjadi bahan yang berbahaya untuk lingkungan baik di darat maupun di laut.</p>

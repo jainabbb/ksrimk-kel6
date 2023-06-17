@@ -1,3 +1,9 @@
 konten artikel 1.php
 konten artikel 2.php
 konten artikel 3.php
+konten artikel 4.php
+konten artikel 5.php
+konten artikel 6.php
+konten artikel 7.php
+konten artikel 8.php
+konten artikel 9.php

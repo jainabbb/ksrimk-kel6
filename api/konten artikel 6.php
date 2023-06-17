@@ -10,6 +10,10 @@ $_SESSION['tanggal'] = "27-09-2019";
 ob_start();
 // Menyimpan HTML dalam variabel
 ?>
+<div class="d-none" id="judulart">
+   <h2>Tetua Berkata, Budak Bertindak</h2>
+   <p>27-09-2019</p>
+</div>
 <img src="../images/konten artikel 6.jpeg" alt="Logo" width="100%" height="100%" id="logo" style="margin-left: 0;">
 <div class="opening" style="padding-left: 0; padding-right: 0; margin-bottom: 0;" id="konten">
    <p style="font-weight: bold; text-indent: 0">Kisah pilu dari Palu</p>

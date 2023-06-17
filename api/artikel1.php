@@ -31,7 +31,7 @@
                            <div class="resume">
                               <p>Pernahkah kamu merasa penat akan segala rutinitas yang kamu lakukan?</p>
                            </div>
-                           <a href="konten artikel.php"><button class="sumbit">Lihat Selengkapnya</button></a>
+                           <a href="konten artikel 1.php"><button class="sumbit">Lihat Selengkapnya</button></a>
                         </div>
                      </div>
                      <div class="col-md-4" id="artikel2">
@@ -72,91 +72,90 @@
                            <button class="sumbit">Lihat Selengkapnya</button>
                         </div>
                      </div>
-                     <div class="col-md-4"></div>
-                     <div class="gift_box">
-                        <i><img src="../images/artikel 5.png" alt="pmi"></i>
-                        <div class="lartikelh1">
-                           <h1>Yuk Kenal Lebih Dekat Dengan COVID-19</h1>
+                     <div class="col-md-4">
+                        <div class="gift_box">
+                           <i><img src="../images/artikel 5.png" alt="pmi"></i>
+                           <div class="lartikelh1">
+                              <h1>Yuk Kenal Lebih Dekat Dengan COVID-19</h1>
+                           </div>
+                           <div class="resume">
+                              <p>COVID-19 adalah penyakit menular yang disebabkan oleh jenis coronavirus yang baru ditemukan.</p>
+                           </div>
+                           <button class="sumbit">Lihat Selengkapnya</button>
                         </div>
-                        <div class="resume">
-                           <p>COVID-19 adalah penyakit menular yang disebabkan oleh jenis coronavirus yang baru ditemukan.</p>
+                     <div class="col-md-4">
+                        <div class="gift_box">
+                           <i><img src="../images/artikel 6.png" alt="pmi"></i>
+                           <div class="lartikelh1">
+                              <h1>Tetua Berkata, Budak Bertindak</h1>
+                           </div>
+                           <div class="resume">
+                              <p>Kinta, sebuah kampung tua di Palu, Sulawesi Tenggara ternyata bertuah. Di kampung itu berdiri 15 rumah saling berhadapan.</p>
+                           </div>
+                           <button class="sumbit">Lihat Selengkapnya</button>
                         </div>
-                        <button class="sumbit">Lihat Selengkapnya</button>
                      </div>
                   </div>
-                  <div class="col-md-4">
-                     <div class="gift_box">
-                        <i><img src="../images/artikel 6.png" alt="pmi"></i>
-                        <div class="lartikelh1">
-                           <h1>Tetua Berkata, Budak Bertindak</h1>
+                  <div class="row">
+                     <div class="col-md-4">
+                        <div class="gift_box">
+                           <i><img src="../images/artikel 7.png" alt="pmi"></i>
+                           <div class="lartikelh1">
+                              <h1>Pola Hidup Mahasiswa Politeknik Statistika STIS 2019</h1>
+                           </div>
+                           <div class="resume">
+                              <p>Ada tiga elemen yang dapat menentukan kualitas tidur yang baik, yaitu durasi, kontinuitas dan kedalaman.</p>
+                           </div>
+                           <button class="sumbit">Lihat Selengkapnya</button>
                         </div>
-                        <div class="resume">
-                           <p>Kinta, sebuah kampung tua di Palu, Sulawesi Tenggara ternyata bertuah. Di kampung itu berdiri 15 rumah saling berhadapan.</p>
-                        </div>
-                        <button class="sumbit">Lihat Selengkapnya</button>
                      </div>
-                  </div>
-               </div>
-               <div class="row">
-                  <div class="col-md-4">
-                     <div class="gift_box">
-                        <i><img src="../images/artikel 7.png" alt="pmi"></i>
-                        <div class="lartikelh1">
-                           <h1>Pola Hidup Mahasiswa Politeknik Statistika STIS 2019</h1>
+                     <div class="col-md-4">
+                        <div class="gift_box">
+                           <i><img src="../images/artikel 8.png" alt="pmi"></i>
+                           <div class="lartikelh1">
+                              <h1>Gempa Bumi? Jangan Panik!</h1>
+                           </div>
+                           <div class="resume">
+                              <p>Gempa merupakan salah satu bencana alam yang telah merogoh harta bahkan nyawa manusia.</p>
+                           </div>
+                           <button class="sumbit">Lihat Selengkapnya</button>
                         </div>
-                        <div class="resume">
-                           <p>Ada tiga elemen yang dapat menentukan kualitas tidur yang baik, yaitu durasi, kontinuitas dan kedalaman.</p>
-                        </div>
-                        <button class="sumbit">Lihat Selengkapnya</button>
                      </div>
-                  </div>
-                  <div class="col-md-4">
-                     <div class="gift_box">
-                        <i><img src="../images/artikel 8.png" alt="pmi"></i>
-                        <div class="lartikelh1">
-                           <h1>Gempa Bumi? Jangan Panik!</h1>
+                     <div class="col-md-4">
+                        <div class="gift_box">
+                           <i><img src="../images/artikel 9.png" alt="pmi"></i>
+                           <div class="lartikelh1">
+                              <h1>Save Our Ocean, Plastic Free!</h1>
+                           </div>
+                           <div class="resume">
+                              <p>Kebiasaan masyarakat yang sering membuang sampah ke sungai menyebabkan sampah menumpuk di lautan.</p>
+                           </div>
+                           <button class="sumbit">Lihat Selengkapnya</button>
                         </div>
-                        <div class="resume">
-                           <p>Gempa merupakan salah satu bencana alam yang telah merogoh harta bahkan nyawa manusia.</p>
-                        </div>
-                        <button class="sumbit">Lihat Selengkapnya</button>
-                     </div>
-                  </div>
-                  <div class="col-md-4">
-                     <div class="gift_box">
-                        <i><img src="../images/artikel 9.png" alt="pmi"></i>
-                        <div class="lartikelh1">
-                           <h1>Save Our Ocean, Plastic Free!</h1>
-                        </div>
-                        <div class="resume">
-                           <p>Kebiasaan masyarakat yang sering membuang sampah ke sungai menyebabkan sampah menumpuk di lautan.</p>
-                        </div>
-                        <button class="sumbit">Lihat Selengkapnya</button>
                      </div>
                   </div>
                </div>
             </div>
-         </div>
-         <nav aria-label="Page navigation example">
-            <ul class="pagination justify-content-end">
-               <!-- <li class="page-item disabled">
+            <nav aria-label="Page navigation example">
+               <ul class="pagination justify-content-end">
+                  <!-- <li class="page-item disabled">
                         <a class="page-link" href="#" tabindex="-1">Previous</a>
                      </li> -->
-               <li class="page-item active"><a class="page-link" href="#">1</a></li>
-               <li class="page-item"><a class="page-link" href="artikel2.php">2</a></li>
-               <!-- <li class="page-item">
+                  <li class="page-item active"><a class="page-link" href="#">1</a></li>
+                  <li class="page-item"><a class="page-link" href="artikel2.php">2</a></li>
+                  <!-- <li class="page-item">
                         <a class="page-link" href="#">Next</a>
                      </li> -->
-            </ul>
-         </nav>
+               </ul>
+            </nav>
+         </div>
       </div>
-   </div>
-   <!-- end news section -->
-   <!-- three_box section -->
-   <div class="container">
-      <div class="row">
+      <!-- end news section -->
+      <!-- three_box section -->
+      <div class="container">
+         <div class="row">
+         </div>
       </div>
-   </div>
    </div>
    <!-- end three_box section -->
 

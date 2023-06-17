@@ -331,5 +331,9 @@
    .upline{
     /* border-top: #B90E0A solid 5px;
     width: 50%; */
-}
+    }
+
+    .galeri{
+        display: flex;
+    }
    }

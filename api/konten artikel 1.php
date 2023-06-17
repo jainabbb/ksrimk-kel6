@@ -2,7 +2,7 @@
 if (!(session_status() === PHP_SESSION_ACTIVE)) {
    session_start();
 }
-$_SESSION['no_artikel'] = 3;
+$_SESSION['no_artikel'] = 1;
 ob_start();
 // Menyimpan HTML dalam variabel
 ?>

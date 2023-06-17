@@ -74,7 +74,7 @@
    <div class="modal-content" style="height:50%; width: 50%;">
       <div class="mySlides">
          <div class="numbertext">1 / 4</div>
-         <img src="" style="width:100%;">
+         <img src="" style="height:100%;">
       </div>
    </div>
    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>

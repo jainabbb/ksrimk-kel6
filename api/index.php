@@ -76,7 +76,7 @@
                            <i><img src="../images/pmi.jpg" alt="pmi"></i>
                            <h1>Artikel 1</h1>
                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-                           <a href="konten artikel.php"><button class="sumbit">Lihat Selengkapnya</button></a>
+                           <a href="konten artikel 1.php"><button class="sumbit">Lihat Selengkapnya</button></a>
                         </div>
                      </div>
                      <div class="col-md-4">

@@ -45,7 +45,7 @@
                </div>
             </a>
             <br>
-            <iframe id="pdf" src="https://jmp.sh/3Jk82iSP" style="overflow: auto!important; -webkit-overflow-scrolling: touch!important;" width="800" height="500"></iframe>
+            <iframe id="pdf" src="https://jmp.sh/3Jk82iSP" style="overflow: auto!important; -webkit-overflow-scrolling: touch!important;" width="800" height="500" scrolling="yes"></iframe>
          </div>
          <div class="opening" id="daftarartikel" style="padding-left: 0; padding-right: 0; margin-bottom: 0;">
             <h2>Daftar Pengumuman</h2>

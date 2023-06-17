@@ -83,6 +83,7 @@
                            </div>
                            <button class="sumbit">Lihat Selengkapnya</button>
                         </div>
+                     </div>
                      <div class="col-md-4">
                         <div class="gift_box">
                            <i><img src="../images/artikel 6.png" alt="pmi"></i>

@@ -1,37 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-   <!-- basic -->
-   <meta charset="utf-8">
-   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-   <!-- mobile metas -->
-   <meta name="viewport" content="width=device-width, initial-scale=1">
-   <meta name="viewport" content="initial-scale=1, maximum-scale=1">
-   <!-- site metas -->
-   <title>IMK Redesign Website KSR</title>
-   <meta name="keywords" content="">
-   <meta name="description" content="">
-   <meta name="author" content="">
-   <!-- bootstrap css -->
-   <link rel="stylesheet" href="../css/bootstrap.min.css">
-   <!-- style css -->
-   <link rel="stylesheet" href="../css/style.css">
-   <!-- Responsive-->
-   <link rel="stylesheet" href="../css/responsive.css">
-   <!-- fevicon -->
-   <link rel="icon" href="../images/fevicon.png" type="image/gif">
-   <!-- Scrollbar Custom CSS -->
-   <link rel="stylesheet" href="../css/jquery.mCustomScrollbar.min.css">
-   <!-- Tweaks for older IEs-->
-   <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
-   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
-   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-   <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
-</head>
-<!-- body -->
+<?php include 'head.php' ?>
 
 <body class="main-layout">
    <!-- loader  -->
@@ -69,9 +36,20 @@
             </ul>
             <br>
             <h2>C. Kegiatan</h2>
-            <p>Kegiatan yang pertama kali dilakukan yaitu pertemuan diantara anggota untuk membahas susunan kepengurusan, pembentukan divisi-divisi, penyusunan visi dan misi, serta membahas program-program kerja selama setahun ke depan. Selanjutnya direncanakan kegiatan peresmian UPM STIS. Peresmian UPM STIS akhirnya dilakasanakan pada hari Jum’at tanggal 2 Februari 2010 di Gedung 2302 (Gedung Lama STIS). Kegiatan ini dihadiri oleh pembantu ketua tiga STIS, ketua PMI cabang Jakarta Timur, sekretaris kecamatan Jatinegara, Pembina-pembina PMI, anggota KSR UNJ serta anggota UPM STIS.</p>
-            <p>Selanjutnya untuk mendukung dan menyukseskan tujuan diatas dilaksanakan beberapa kegiatan. Kegiatan-kegiatan dalam UPM STIS dapat dikategorikan menjadi dua, yaitu pendidikan-pelatihan dan aktifitas sosial-kemasyarakatan. Pendidikan dalam UPM STIS ini dilakukan dengan model “Pendidikan dan Latihan”, karena meliputi materi dan praktek dalam setiap tahapannya. Dengan model ini peserta akan dapat menguasai ilmu pertolongan pertama dan kepalangmerahan secara teoritis dan aplikatif. Tahap-tahap pendidikan yang diberikan dalam UPM STIS ini meliputi beberapa tahap, yaitu latihan rutin, diklat – diksar KSR, serta latihan dan pemantapan. Latihan rutin dilakukan untuk menambah dan meningkatkan kemampuan anggota baik materi umum maupun kepalangmerahan. Latihan rutin meliputi pelatihan manajemen, materi umum kepalangmerahan, pelatihan teknis, pendidikan lapangan, dll. Latihan rutin KSR angkatan I direncanakan beberapa kali pelatihan dengan mengundang pelatih dari PMI untuk memantapkan materi masing – masing anggota. Selanjutnya kegiatan diklat – diksar KSR untuk memberikan pembekalan materi dan dasar pelatihan dasar kepalangmerahan sebagai prasyarat menjadi anggota KSR. Kegiatan diklat – diksar ada dua bentuk kegiatan, pertama pembekalan materi di ruangan, kedua pelatihan dan praktek penerapan materi di lapangan. Diklat angkatan I ini di fasilitasi oleh PMI Cabang Jakarta Timur. Sedangkan latihan dan pemantapan ditujukan untuk meningkatkan dan memantapkan kemampuan anggota khususnya dalam praktek pertolongan pertama di lapangan dan aplikasinya dalam kasus kehidupan sehari – hari, termasuk di dalamnya manajemen alam.</p>
-            <p>Walaupun sebagai angkatan pertama, UPM STIS berusaha untuk dapat memberikan pelayanan terbaik kepada masyarakat baik mahasiswa STIS maupun masyarakat sekitar. Aktifitas-aktifitas yang berhubungan dengan hal ini antara lain adalah aksi donor darah sukarela, bakti sosial, mahasiswa siaga, kunjungan ke UKM/KSR/instansi/lembaga lain di luar STIS, dan seminar kesehatan. Aksi donor darah sukarela dilakukan oleh UPM STIS sendiri atau bekerja sama dengan kegiatan UKM lain yang mengadakan kegiatan donor darah juga. Aksi donor darah ini bekerja sama dengan PMI Pusat Jakarta. Bakti sosial berupa santunan anak yatim, penyediaan alat-alat pendidikan, pemberian sembako, atau lainnya (sasarannya seperti warga Kebon Sayur, Kuburan Cina, SD Islam Talmiyah, atau lainnya). Kegiatan mahasiswa siaga merupakan pelatihan pertolongan pertama gawat darurat (PPGD) untuk mahasiswa/i STIS dengan sasaran perwakilan setiap kelas dan UKM-UKM. Kunjungan ke UKM/KSR/instansi/lembaga lain di luar STIS dimaksudkan untuk mempererat persaudaraan dan saling tukar pikiran mengenai kegiatan kepalangmerahan di kampus/instansi/lembaga masing-masing. Sedangkan seminar kesehatan direncanakan diadakan satu kali kepengurusan dengan mengundang pembicara, pembina PMI, anggota KSR kampus/instansi/lembaga lain, serta dosen dan mahsiswa STIS. Seminar ini dilakukan sebagai sosialisasi mengenai bahaya narkoba dan AIDS karena seminar ini mengangkat tema narkoba dan AIDS.</p>
+            <p>Kegiatan yang pertama kali dilakukan yaitu pertemuan diantara anggota untuk membahas susunan kepengurusan, pembentukan divisi-divisi, penyusunan visi dan misi, serta membahas program-program kerja selama setahun ke depan. Selanjutnya direncanakan kegiatan peresmian UPM STIS. Peresmian UPM STIS akhirnya dilakasanakan pada hari Jum’at tanggal 2 Februari 2010 di Gedung 2302 (Gedung Lama STIS). Kegiatan ini dihadiri oleh pembantu ketua tiga STIS, ketua PMI cabang Jakarta Timur, sekretaris kecamatan Jatinegara, Pembina-pembina PMI, anggota KSR UNJ serta anggota UPM STIS.
+               <a id="latarBelakangAtas" onclick="ubahKelas1(this.id);" style="color: #B90E0A;" class="collapsed text-decoration-none" data-bs-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+                  [<strong><i>Tampilkan Semua</i></strong>]
+               </a>
+            </p>
+            <div class="collapse" id="collapseExample">
+               <p>Selanjutnya untuk mendukung dan menyukseskan tujuan diatas dilaksanakan beberapa kegiatan. Kegiatan-kegiatan dalam UPM STIS dapat dikategorikan menjadi dua, yaitu pendidikan-pelatihan dan aktifitas sosial-kemasyarakatan. Pendidikan dalam UPM STIS ini dilakukan dengan model “Pendidikan dan Latihan”, karena meliputi materi dan praktek dalam setiap tahapannya. Dengan model ini peserta akan dapat menguasai ilmu pertolongan pertama dan kepalangmerahan secara teoritis dan aplikatif. Tahap-tahap pendidikan yang diberikan dalam UPM STIS ini meliputi beberapa tahap, yaitu latihan rutin, diklat – diksar KSR, serta latihan dan pemantapan. Latihan rutin dilakukan untuk menambah dan meningkatkan kemampuan anggota baik materi umum maupun kepalangmerahan. Latihan rutin meliputi pelatihan manajemen, materi umum kepalangmerahan, pelatihan teknis, pendidikan lapangan, dll. Latihan rutin KSR angkatan I direncanakan beberapa kali pelatihan dengan mengundang pelatih dari PMI untuk memantapkan materi masing – masing anggota. Selanjutnya kegiatan diklat – diksar KSR untuk memberikan pembekalan materi dan dasar pelatihan dasar kepalangmerahan sebagai prasyarat menjadi anggota KSR. Kegiatan diklat – diksar ada dua bentuk kegiatan, pertama pembekalan materi di ruangan, kedua pelatihan dan praktek penerapan materi di lapangan. Diklat angkatan I ini di fasilitasi oleh PMI Cabang Jakarta Timur. Sedangkan latihan dan pemantapan ditujukan untuk meningkatkan dan memantapkan kemampuan anggota khususnya dalam praktek pertolongan pertama di lapangan dan aplikasinya dalam kasus kehidupan sehari – hari, termasuk di dalamnya manajemen alam.</p>
+               <p>Walaupun sebagai angkatan pertama, UPM STIS berusaha untuk dapat memberikan pelayanan terbaik kepada masyarakat baik mahasiswa STIS maupun masyarakat sekitar. Aktifitas-aktifitas yang berhubungan dengan hal ini antara lain adalah aksi donor darah sukarela, bakti sosial, mahasiswa siaga, kunjungan ke UKM/KSR/instansi/lembaga lain di luar STIS, dan seminar kesehatan. Aksi donor darah sukarela dilakukan oleh UPM STIS sendiri atau bekerja sama dengan kegiatan UKM lain yang mengadakan kegiatan donor darah juga. Aksi donor darah ini bekerja sama dengan PMI Pusat Jakarta. Bakti sosial berupa santunan anak yatim, penyediaan alat-alat pendidikan, pemberian sembako, atau lainnya (sasarannya seperti warga Kebon Sayur, Kuburan Cina, SD Islam Talmiyah, atau lainnya). Kegiatan mahasiswa siaga merupakan pelatihan pertolongan pertama gawat darurat (PPGD) untuk mahasiswa/i STIS dengan sasaran perwakilan setiap kelas dan UKM-UKM. Kunjungan ke UKM/KSR/instansi/lembaga lain di luar STIS dimaksudkan untuk mempererat persaudaraan dan saling tukar pikiran mengenai kegiatan kepalangmerahan di kampus/instansi/lembaga masing-masing. Sedangkan seminar kesehatan direncanakan diadakan satu kali kepengurusan dengan mengundang pembicara, pembina PMI, anggota KSR kampus/instansi/lembaga lain, serta dosen dan mahsiswa STIS. Seminar ini dilakukan sebagai sosialisasi mengenai bahaya narkoba dan AIDS karena seminar ini mengangkat tema narkoba dan AIDS.
+                  <a id="latarBelakangBawah" onclick="ubahKelas2(this.id);" style="color: #B90E0A;" class="collapsed text-decoration-none" data-bs-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+                     [<strong><i>Tampilkan Sebagian</i></strong>]
+                  </a>
+               </p>
+            </div>
+
             <br>
             <h2>D. Susunan Pengurus</h2>
             <p>Sejak diresmikan, anggota UPM STIS berjumlah 21 orang. Mungkin jumlah tersebut sedikit karena merupakan angkatan perintis. Berikut ini susunan pengurus UPM STIS angkatan pertama:</p>
@@ -134,54 +112,32 @@
    </div>
    <!-- end three_box section -->
 
-   <!--  footer -->
-   <footer>
-      <div class="footer">
-         <div class="container">
-            <div class="row">
-               <div class="col-md-3">
-                  <div class="inror_box">
-                     <h3>Stay Updated!</h3>
-                  </div>
-               </div>
-            </div>
-            <div class="row footinfo">
-               <div class="col-md-6">
-                  <p>Email</p>
-                  <form class="news_form">
-                     <input class="letter_form" placeholder=" Masukkan Email Anda" type="text" name="Masukkan Email Anda">
-                     <br>
-                     <button class="submit">Subscribe</button>
-                  </form>
-               </div>
-               <div class="col-md-6">
-                  <img src="../images/location.png" alt="location" width="100" id="location">
-                  <span>Sekretariat KSR PMI Unit STIS Ruang PMKL, Gedung 3 Lantai 3</span><br>
-                  <span>Politeknik Statistika STIS</span><br>
-                  <span>Jalan Otto Iskandardinata 64C,</span><br>
-                  <span>Bidara Cina, Jatinegara, Jakarta Timur, DKI Jakarta, 13330</span>
-               </div>
-            </div>
-            <div class="socials">
-               <a href="mailto:ksrpmi@stis.ac.id"><i class="fa fa-solid fa-envelope"></i></a>
-               <a href="https://twitter.com/ksr_stis" target=”_blank”><i class="fa fa-twitter"></i></a>
-               <a href="https://www.instagram.com/ksr_stis/" target=”_blank”><i class="fa fa-instagram"></i></a>
-            </div>
-            <div class="socials">
-               <p>© Copyright 2023, Politeknik Statistika STIS</p>
-            </div>
-         </div>
-      </div>
-   </footer>
-   <!-- end footer -->
-   <!-- Javascript files-->
-   <script src="../js/jquery.min.js"></script>
-   <script src="../js/popper.min.js"></script>
-   <script src="../js/bootstrap.bundle.min.js"></script>
-   <script src="../js/jquery-3.0.0.min.js"></script>
-   <!-- sidebar -->
-   <script src="../js/jquery.mCustomScrollbar.concat.min.js"></script>
-   <script src="../js/custom.js"></script>
+   <?php include 'footer.php' ?>
+   <script>
+      // jika tekan Tampilkan Semua
+      function ubahKelas1(id) {
+         if (id == "latarBelakangAtas") {
+            document.getElementById("latarBelakangAtas").innerHTML = "";
+         }
+
+         if (id == "metodologiAtas") {
+            document.getElementById("metodologiAtas").innerHTML = "";
+         }
+      }
+
+      // jika tekan Tampilkan Sebagian
+      function ubahKelas2(id) {
+         if (id == "latarBelakangBawah") {
+            document.getElementById("latarBelakangAtas").innerHTML = "[<strong><i>Tampilkan Semua</i></strong>]";
+            document.getElementById("tombol").scrollIntoView();
+         }
+
+         if (id == "metodologiBawah") {
+            document.getElementById("metodologiAtas").innerHTML = "[<strong><i>Tampilkan Semua</i></strong>]";
+            document.getElementById("goToMetodologi").scrollIntoView();
+         }
+      }
+   </script>
 </body>
 
 </html>

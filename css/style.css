@@ -404,6 +404,11 @@ ul.social_icon li a:hover {
      display: block;
      margin-left: 2.5%;
 }
+@media only screen and (max-width: 700px) {
+.logo-index{
+     display: none;
+}
+}
 
 .logo-mobile {
      width: 10%;
@@ -547,6 +552,7 @@ ul.right_icon li img {
      z-index: 1;
 }
 
+@media only screen and (min-width: 500px) {
 .banner_main::before {
      content: "";
      position: absolute;
@@ -562,6 +568,7 @@ ul.right_icon li img {
      background-repeat: no-repeat;
      background-attachment: fixed;
    }
+}
 
 .blodark {
      color: #183661;
@@ -673,6 +680,10 @@ ul.right_icon li img {
      text-align: justify; 
 }
 
+#konten p {
+     width: 100%;
+}
+
 #kontenp {
      width: 68%;
      margin-left: 15px; 
@@ -768,7 +779,7 @@ ul.right_icon li img {
 
 #daftarartikel p {
      color: #c8ae79;
-     padding: 0 30px 10px;
+     padding: 1% 0;
      font-size: 16px;
      font-weight: normal;
 }
@@ -1258,6 +1269,9 @@ margin: 0 15px 20px 15px;
 }
 
 .artbutton .sumbit {
+     align-items: center;
+     /* white-space: nowrap; */
+     text-align: center;
      font-size: 20px;
      padding: 5px 20px;
      margin-right: 0;
@@ -1438,7 +1452,7 @@ margin: 0 15px 20px 15px;
 /** footer **/
 
 .submit {
-     background-color: #c8ae79;
+background-color: #c8ae79;
      color: white;
      float: left;
      margin: 4px 0;
@@ -1448,6 +1462,15 @@ margin: 0 15px 20px 15px;
 
 #location {
      float: left;
+     height: 150px;
+     min-width: 150px;
+
+}
+
+.location{
+     display: flex;
+     justify-content: center;
+     align-items:start;
 }
 
 .footer {
@@ -1679,7 +1702,7 @@ margin: 0 15px 20px 15px;
 
 .artlist {
      padding: 0;
-     width: 70%;
+     width: 97%;
      text-align: justify;
      font-size: 15px;
 }
@@ -1697,7 +1720,7 @@ margin: 0 15px 20px 15px;
 .artlist p {
      /* text-indent: 0 !important; */
      margin-left: 2%;
-     width: 68% !important;
+     width: 100% !important;
 }
 
 .arta {
@@ -1710,7 +1733,7 @@ margin: 0 15px 20px 15px;
 
 ol p, .artol li {
      /* text-indent: 0 !important; */
-     width: 69.4% !important;
+     width: 100% !important;
      text-align: justify;
 }
 
@@ -1726,4 +1749,12 @@ ol p, .artol li {
 
 
 /** end contact section **/
+
+.paragraf-justify {
+     text-align: justify;
+}
+
+.address{
+     display: flex;
+}
 

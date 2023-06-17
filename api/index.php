@@ -1,43 +1,4 @@
-<?php
-if (!(session_status() === PHP_SESSION_ACTIVE)) {
-   session_start();
-}
-?>
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-   <!-- basic -->
-   <meta charset="utf-8">
-   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-   <!-- mobile metas -->
-   <meta name="viewport" content="width=device-width, initial-scale=1">
-   <meta name="viewport" content="initial-scale=1, maximum-scale=1">
-   <!-- site metas -->
-   <title>IMK Redesign Website KSR</title>
-   <meta name="keywords" content="">
-   <meta name="description" content="">
-   <meta name="author" content="">
-   <!-- bootstrap css -->
-   <link rel="stylesheet" href="../css/bootstrap.min.css">
-   <!-- style css -->
-   <link rel="stylesheet" href="../css/style.css">
-   <!-- Responsive-->
-   <link rel="stylesheet" href="../css/responsive.css">
-   <!-- fevicon -->
-   <link rel="icon" href="../images/fevicon.png" type="image/gif">
-   <!-- Scrollbar Custom CSS -->
-   <link rel="stylesheet" href="../css/jquery.mCustomScrollbar.min.css">
-   <!-- Tweaks for older IEs-->
-   <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
-   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
-   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-   <!-- <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> -->
-   <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
-</head>
-<!-- body -->
+<?php include 'head.php' ?>
 
 <body class="main-layout">
    <!-- loader  -->
@@ -52,9 +13,14 @@ if (!(session_status() === PHP_SESSION_ACTIVE)) {
       <!-- news section -->
       <div class="news w3-animate-bottom">
          <div class="opening">
-            <img src="../images/logo.png" alt="Logo" width="310" height="310" id="logo">
-            <h2>KSR PMI Unit</h2>
-            <h2>Politeknik Statistika STIS</h2>
+            <div class="logo-index">
+               <img src="../images/logo.png" alt="Logo" width="310" height="310" id="logo">
+            </div>
+            <div class="title-home">
+               <h2>KSR PMI Unit</h2>
+               <h2>Politeknik Statistika STIS</h2>
+            </div>
+            <div class="paragraf-justify">
             <br>
             <p>Kegiatan-kegiatan kampus tidak lepas dari timbulnya kecelakaan bagi pesertanya.
                Sayangnya, sumber daya yang memiliki kemampuan dalam memberikan pertolongan
@@ -63,6 +29,7 @@ if (!(session_status() === PHP_SESSION_ACTIVE)) {
                Berdasarkan hal tersebut, beberapa mahasiswa STIS dan anggota pecinta alam
                STIS “GPA CHEBBY” yang tergerak hatinya bermaksud untuk mendirikan suatu unit
                kegiatan mahasiswa yang bergerak di bidang sosial, kemanusiaan, dan pertolongan pertama.</p>
+            </div>
          </div>
          <div class="container bagian">
             <div class="row">
@@ -119,7 +86,7 @@ if (!(session_status() === PHP_SESSION_ACTIVE)) {
                            <i><img src="../images/artikel 1.png" alt="pmi"></i>
                            <div class="lartikelh1"><h1>Pentingnya "Me Time" Untuk Kesehatan Psikologis</h1></div>
                            <div class="resume"><p>Pernahkah kamu merasa penat akan segala rutinitas yang kamu lakukan?</p></div>
-                           <a href="konten artikel.php"><button class="sumbit">Lihat Selengkapnya</button></a>
+                           <a href="konten artikel 1.php"><button class="sumbit">Lihat Selengkapnya</button></a>
                         </div>
                      </div>
                      <div class="col-md-4" id="artikel2">

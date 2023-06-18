@@ -8,6 +8,7 @@
    <!-- end loader -->
    <?php
    header("Cache-Control: no cache");
+   session_cache_limiter("private_no_expire");
    $_SESSION['no_page'] = 1;
    include 'navbar.php'; ?>
    <div class="banner_main">

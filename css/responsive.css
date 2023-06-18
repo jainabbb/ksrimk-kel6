@@ -344,4 +344,16 @@
         margin-left: 10px;
         margin-right: 7%;
     }
+    #indexp p, #indexp h2, #indexp h1 {
+        margin: 0 2.8%;
+    }
+    .juduldok {
+        padding-top: 0.6rem !important;
+    }
+    .indexpdf {
+        margin-left: 0 !important;
+    }
+    .paragraf-justify {
+        margin-right: 0;
+    }
 }

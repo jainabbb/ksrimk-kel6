@@ -98,11 +98,14 @@
                <p>Tetap jaga kesehatan dan semangatnya!!!</p>
                <br>
                <p style="font-weight: bold;">Siamo Tutti Fratelli</p>
-               <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pasca_diklat.pdf" target=”_blank” class="pdf">
-                  <img src="../images/pdf.png" alt="unduh">
-                  <span><br></span>
-                  <span>pengumuman_pasca_diklat.pdf</span> <br>
-                  <span style="color: #c8ae79">Unduh Dokumen</span>
+               <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pasca_diklat.pdf" target=”_blank”>
+                  <div class="pdf indexpdf" style="margin-left: 12px;">
+                     <img src="../images/pdf.png" alt="unduh" style="margin-left: 0; padding-left: 0">
+                     <div class="juduldok" style="padding-top: 1rem;">
+                        <span>pengumuman_pasca_diklat.pdf</span> <br>
+                        <span style="color: #c8ae79">Unduh Dokumen</span>
+                     </div>
+                  </div>
                </a>
             </div>
             <div class="row">

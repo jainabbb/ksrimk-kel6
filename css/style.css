@@ -774,6 +774,11 @@ ul.right_icon li img {
      /* margin-left: 12px; */
 }
 
+#scroll-wrapper {
+     -webkit-overflow-scrolling: touch;
+     overflow-y: scroll;
+ }
+
 .pdf span {
      font-weight: bold;
 }

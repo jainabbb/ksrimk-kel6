@@ -1,5 +1,8 @@
-<?php ini_set('session.cache_limiter','public');
-session_cache_limiter(false); include 'head.php'; ?>
+<?php 
+   ini_set('session.cache_limiter', 'public');
+   session_cache_limiter(false); 
+   include 'head.php'; 
+?>
 
 <body class="main-layout">
    <!-- loader  -->

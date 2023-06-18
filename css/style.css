@@ -646,7 +646,7 @@ ul.right_icon li img {
      }
 }
 
-.titlepage h2, .opening h2, .gift_box h1, #adar, #adap {
+.titlepage h2, .opening h2, .gift_box h1, #adar, #adap, .daftarp h2 a {
      color: #B90E0A;
      line-height: 40px;
      font-weight: bold;
@@ -786,6 +786,18 @@ ul.right_icon li img {
 
 .daftarp .pdf img, #indexp .pdf img {
      margin-left: 12px;
+}
+
+.visited a:visited {
+     color: indianred;
+}
+
+.visited a:hover {
+     color: chocolate;
+}
+
+.visited a {
+     transition-duration: 0s;
 }
 
 .iframe-container {

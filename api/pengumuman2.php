@@ -18,10 +18,12 @@
             </div>
             <div class="opening daftarp">
                <div>
-                  <a href="konten pengumuman 6.php">
-                     <h2>Pengumuman Pradiklat 3 - KSR Angkatan 11</h2>
-                     <h1>27-02-2021</h1>
-                  </a>
+                  <h2 class="visited">
+                     <a href="konten pengumuman 6.php">
+                        Pengumuman Pradiklat 3 - KSR Angkatan 11
+                     </a>
+                  </h2>
+                  <h1>27-02-2021</h1>
                   <p>Haiii anggota muda KSR angkatan 11 !!</p>
                   <p>Tidak terasa kita sudah melewati diklat 1 dan 2, kini tiba saatnya untuk diklat 3. Yeayyy !!</p>
                   <span style="margin-left: 30px;">Nah sebelum itu, berikut di bawah ini kami lampirkan untuk </span>
@@ -42,10 +44,12 @@
             </div>
             <div class="opening daftarp">
                <div>
-                  <a href="konten pengumuman 7.php">
-                     <h2>Pengumuman Pradiklat 2 - KSR Angkatan 11</h2>
-                     <h1>20-02-2021</h1>
-                  </a>
+                  <h2 class="visited">
+                     <a href="konten pengumuman 7.php">
+                        Pengumuman Pradiklat 2 - KSR Angkatan 11
+                     </a>
+                  </h2>
+                  <h1>20-02-2021</h1>
                   <p>Hai anggota muda KSR 11. Gimana Diklat 1 nya?, semoga menyenangkan dan tambah semangat ya untuk mengikuti diklat selanjutnya :)
                   </p>
                   <span style="margin-left: 30px;">Berikut ini adalah lampiran untuk </span>
@@ -62,10 +66,12 @@
             </div>
             <div class="opening daftarp">
                <div>
-                  <a href="konten pengumuman 8.php">
-                     <h2>Pengumuman Pradiklat 1 - KSR Angkatan 11</h2>
-                     <h1>13-02-2021</h1>
-                  </a>
+                  <h2 class="visited">
+                     <a href="konten pengumuman 8.php">
+                        Pengumuman Pradiklat 1 - KSR Angkatan 11
+                     </a>
+                  </h2>
+                  <h1>13-02-2021</h1>
                   <div style="margin-left: 30px;">
                      <span>Halo anggota muda KSR PMI Unit Polstat STIS angkatan 11. Berikut terlampir ketentuan-ketentuan dan penugasan untuk pelaksanaan </span>
                      <span style="font-weight: bold;">Diklat I</span><span>.</span>
@@ -81,10 +87,12 @@
             </div>
             <div class="opening daftarp">
                <div>
-                  <a href="konten pengumuman 9.php">
-                     <h2>Pengumuman Pasca Diklat Calon Anggota KSR Angkatan 11</h2>
-                     <h1>16-12-2020</h1>
-                  </a>
+                  <h2 class="visited">
+                     <a href="konten pengumuman 9.php">
+                        Pengumuman Pasca Diklat Calon Anggota KSR Angkatan 11
+                     </a>
+                  </h2>
+                  <h1>16-12-2020</h1>
                   <p>Halo calon anggota muda KSR PMI Unit Polstat STIS angkatan 11!</p>
                   <p>Selamat sudah melewati diklat hari ini.</p>
                   <span style="margin-left: 30px;">Berikut ini kami lampirkan </span>
@@ -105,10 +113,12 @@
             </div>
             <div class="opening daftarp">
                <div>
-                  <a href="konten pengumuman 10.php">
-                     <h2>Pengumuman Pra Diklat Calon Anggota KSR Angkatan 11</h2>
-                     <h1>16-12-2020</h1>
-                  </a>
+                  <h2 class="visited">
+                     <a href="konten pengumuman 10.php">
+                        Pengumuman Pra Diklat Calon Anggota KSR Angkatan 11
+                     </a>
+                  </h2>
+                  <h1>16-12-2020</h1>
                   <p style="font-weight: bold;">Halo Calon Anggota Muda KSR angkatan 11!</p>
                   <br>
                   <p>Selamat telah melewati tes tertulis, Tahapan oprec selanjutnya adalah Diklat niih!</p>

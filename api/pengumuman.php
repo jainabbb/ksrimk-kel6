@@ -1,4 +1,5 @@
 <?php include 'head.php' ?>
+
 <body class="main-layout">
    <!-- loader  -->
    <!-- <div class="loader_bg">
@@ -19,10 +20,12 @@
             </div>
             <div class="opening daftarp">
                <div>
-                  <a href="konten pengumuman 1.php">
-                     <h2>Pengumuman Pasca Diklat - OPREC KSR 2022</h2>
-                     <h1>18-11-2022</h1>
-                  </a>
+                  <h2 class="visited">
+                     <a href="konten pengumuman 1.php">
+                        Pengumuman Pasca Diklat - OPREC KSR 2022
+                     </a>
+                  </h2>
+                  <h1>18-11-2022</h1>
                   <p style="font-weight: bold;">Halo Calon Anggota Muda KSR Angkatan 13!</p>
                   <!-- <br> -->
                   <p>Selamat sudah melewati Diklat 2 dan Tes Tulis
@@ -45,10 +48,12 @@
             </div>
             <div class="opening daftarp">
                <div>
-                  <a href="konten pengumuman 2.php">
-                     <h2>Pengumuman Pra Diklat - OPREC KSR 2022</h2>
-                     <h1>13-11-2022</h1>
-                  </a>
+                  <h2 class="visited">
+                     <a href="konten pengumuman 2.php">
+                        Pengumuman Pra Diklat - OPREC KSR 2022
+                     </a>
+                  </h2>
+                  <h1>13-11-2022</h1>
                   <p style="font-weight: bold;">Halo Calon Anggota Muda KSR Angkatan 13!</p>
                   <!-- <br> -->
                   <p>Bentar lagi Oprec Tahap 1 KSR Angkatan 13 akan dimulai.
@@ -73,10 +78,12 @@
             </div>
             <div class="opening daftarp">
                <div>
-                  <a href="konten pengumuman 3.php">
-                     <h2>Pengumuman Pasca Diklat - OPREC KSR 2021</h2>
-                     <h1>01-01-2022</h1>
-                  </a>
+                  <h2 class="visited">
+                     <a href="konten pengumuman 3.php">
+                        Pengumuman Pasca Diklat - OPREC KSR 2021
+                     </a>
+                  </h2>
+                  <h1>01-01-2022</h1>
                   <p style="font-weight: bold;">Halo Calon Anggota Muda KSR Angkatan 12!</p>
                   <!-- <br> -->
                   <p>Selamat yaa sudah melewati diklat hari ini, empat jempol buat kalian.</p>
@@ -100,10 +107,12 @@
             </div>
             <div class="opening daftarp">
                <div>
-                  <a href="konten pengumuman 4.php">
-                     <h2>Pengumuman Pra Diklat - OPREC KSR 2021</h2>
-                     <h1>01-01-2022</h1>
-                  </a>
+                  <h2 class="visited">
+                     <a href="konten pengumuman 4.php">
+                        Pengumuman Pra Diklat - OPREC KSR 2021
+                     </a>
+                  </h2>
+                  <h1>01-01-2022</h1>
                   <p style="font-weight: bold;">Halo Calon Anggota Muda KSR Angkatan 12!</p>
                   <!-- <br> -->
                   <p>Selamat yaa telah melewati tes tertulis, gimana nih semangatnya masih tetap full kan yaa? </p>
@@ -124,10 +133,12 @@
             </div>
             <div class="opening daftarp">
                <div>
-                  <a href="konten pengumuman 5.php">
-                     <h2>Materi Tes Tertulis - OPREC KSR</h2>
-                     <h1>29-12-2021</h1>
-                  </a>
+                  <h2 class="visited">
+                     <a href="konten pengumuman 5.php">
+                        Materi Tes Tertulis - OPREC KSR
+                     </a>
+                  </h2>
+                  <h1>29-12-2021</h1>
                   <p>Tes Tertulis Kurang Tiga Hari Lagiiii</p>
                   <p>Tenang gaiss, kami udah siapin nutrisi yang akan menemani kalian tiga hari ke depan supaya kalian siap menghadapi tes tertulis nanti</p>
                   <p>Oke, cuss langsung diunduh dan dipelajari materinya yaa!</p>

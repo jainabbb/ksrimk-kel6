@@ -48,7 +48,7 @@
             </a>
             <br>
             <div id="scroll-wrapper">
-            <iframe src="https://drive.google.com/file/d/1J8KUIINXb1w87q-X4opMM6BLSH_me3gq/preview" class="w-100" height="500" allow="autoplay"></iframe>
+            <iframe src="https://drive.google.com/file/d/1J8KUIINXb1w87q-X4opMM6BLSH_me3gq/preview" style="min-height:500px;" class="w-100" height="100%" allow="autoplay"></iframe>
             </div>
          </div>
          <div class="opening" id="daftarartikel" style="padding-left: 0; padding-right: 0; margin-bottom: 0;">

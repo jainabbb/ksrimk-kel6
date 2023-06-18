@@ -1615,6 +1615,14 @@ background-color: #c8ae79;
      padding-bottom: 10px;
 }
 
+.divalamat {
+     padding: 0;
+     margin: 0;
+     justify-content: center;
+     align-items: center;
+     padding-left: 5%;
+}
+
 .socials {
      display: flex;
      justify-content: center;

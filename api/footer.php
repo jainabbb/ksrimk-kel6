@@ -18,15 +18,17 @@
                            <button type="button" class="submit" data-toggle="modal" data-target="#cobamyModal">Subscribe</button>
                        </form>
                    </div>
-                   <div class="col-md-6 row">
+                   <div class="col-md-6 row divalamat">
                        <div class="col-4 location">
                            <img src="../images/location.png" alt="location" width="100" id="location">
                        </div>
-                       <div class="col-8">
-                           <span>Sekretariat KSR PMI Unit STIS Ruang PMKL, Gedung 3 Lantai 3</span><br>
-                           <span>Politeknik Statistika STIS</span><br>
+                       <div class="col-8 alamat">
+                           <span>Sekretariat KSR PMI Unit STIS Ruang PMKL,</span><br>
+                           <span>Gedung 3 Lantai 3,</span><br>
+                           <span>Politeknik Statistika STIS,</span><br>
                            <span>Jalan Otto Iskandardinata 64C,</span><br>
-                           <span>Bidara Cina, Jatinegara, Jakarta Timur, DKI Jakarta, 13330</span>
+                           <span>Bidara Cina, Jatinegara, Jakarta Timur,</span><br>
+                           <span>DKI Jakarta, 13330</span>
                        </div>
                    </div>
                </div>

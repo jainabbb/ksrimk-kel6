@@ -333,4 +333,15 @@
     .paginationart {
         margin: 0 20px;
     }
+    .alamat {
+        padding: 0;
+    }
+    .alamat span {
+        font-size: 12px;
+    }
+    .divalamat {
+        padding: 0;
+        margin-left: 10px;
+        margin-right: 7%;
+    }
 }

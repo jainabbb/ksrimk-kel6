@@ -172,73 +172,75 @@
             </div>
          </div>
          <div class="container bagian">
-            <div class="row">
-               <div class="col-md-12">
-                  <div class="titlepage">
-                     <h2>Galeri</h2>
-                  </div>
+            <div class="container bagian">
+               <div class="row">
+                  <div class="col-md-12">
+                     <div class="titlepage">
+                        <h2>Galeri</h2>
+                     </div>
 
-                  <div class="gallery galeri-pc">
-                     <figure class="gallery__item gallery__item--1">
-                        <img src="../images/banner.jpg" class="gallery__img" alt="Image 1" onclick="openModal();currentSlide(0)" class="hover-shadow cursor">
-                     </figure>
-                     <figure class="gallery__item gallery__item--2">
-                        <img src="../images/donor.jpg" alt="Gallery image 2" class="gallery__img" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
-                     </figure>
-                     <figure class="gallery__item gallery__item--3">
-                        <img src="../images/pmi.jpg" alt="Gallery image 3" class="gallery__img" onclick="openModal();currentSlide(2)" class="hover-shadow cursor">
-                     </figure>
-                     <figure class="gallery__item gallery__item--4">
-                        <img src="../images/latian.jpg" alt="Gallery image 4" class="gallery__img" onclick="openModal();currentSlide(3)" class="hover-shadow cursor">
-                     </figure>
-                     <figure class="gallery__item gallery__item--5">
-                        <img src="../images/pmi jabar.jpeg" alt="Gallery image 5" class="gallery__img" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
-                     </figure>
-                  </div>
-                  <div class="row galeri-mobile" style="padding: 0 8%;">
-                     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-                        <ol class="carousel-indicators">
-                           <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-                           <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-                           <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-                           <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-                           <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
-                        </ol>
-                        <div class="carousel-inner">
-                           <div class="carousel-item active">
-                              <img src="../images/banner.jpg" class="d-block w-100 img-mobile" alt="Image 1" onclick="openModal();currentSlide(0)" class="hover-shadow cursor">
-                              <!-- <img class="d-block w-100" src="..." alt="First slide"> -->
+                     <div class="gallery galeri-pc">
+                        <figure class="gallery__item gallery__item--1">
+                           <img src="../images/banner.jpg" class="gallery__img" alt="Image 1" onclick="openModal();currentSlide(0)" class="hover-shadow cursor">
+                        </figure>
+                        <figure class="gallery__item gallery__item--2">
+                           <img src="../images/donor.jpg" alt="Gallery image 2" class="gallery__img" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
+                        </figure>
+                        <figure class="gallery__item gallery__item--3">
+                           <img src="../images/pmi.jpg" alt="Gallery image 3" class="gallery__img" onclick="openModal();currentSlide(2)" class="hover-shadow cursor">
+                        </figure>
+                        <figure class="gallery__item gallery__item--4">
+                           <img src="../images/latian.jpg" alt="Gallery image 4" class="gallery__img" onclick="openModal();currentSlide(3)" class="hover-shadow cursor">
+                        </figure>
+                        <figure class="gallery__item gallery__item--5">
+                           <img src="../images/pmi jabar.jpeg" alt="Gallery image 5" class="gallery__img" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
+                        </figure>
+                     </div>
+                     <div class="row galeri-mobile">
+                        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                           <ol class="carousel-indicators">
+                              <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                              <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                              <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                              <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+                              <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+                           </ol>
+                           <div class="carousel-inner">
+                              <div class="carousel-item active">
+                                 <img src="../images/banner.jpg" class="d-block w-100 img-mobile" alt="Image 1" onclick="openModal();currentSlide(0)" class="hover-shadow cursor">
+                                 <!-- <img class="d-block w-100" src="..." alt="First slide"> -->
+                              </div>
+                              <div class="carousel-item">
+                                 <!-- <img class="d-block w-100" src="..." alt="Second slide"> -->
+                                 <img src="../images/donor.jpg" alt="Gallery image 2" class="d-block w-100 img-mobile" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
+                              </div>
+                              <div class="carousel-item">
+                                 <img src="../images/pmi.jpg" alt="Gallery image 3" class="d-block w-100 img-mobile" onclick="openModal();currentSlide(2)" class="hover-shadow cursor">
+                              </div>
+                              <div class="carousel-item">
+                                 <img src="../images/latian.jpg" alt="Gallery image 4" class="d-block w-100 img-mobile" onclick="openModal();currentSlide(3)" class="hover-shadow cursor">
+                              </div>
+                              <div class="carousel-item">
+                                 <img src="../images/pmi jabar.jpeg" alt="Gallery image 5" class="d-block w-100 img-mobile" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
+                              </div>
                            </div>
-                           <div class="carousel-item">
-                              <!-- <img class="d-block w-100" src="..." alt="Second slide"> -->
-                              <img src="../images/donor.jpg" alt="Gallery image 2" class="d-block w-100 img-mobile" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
-                           </div>
-                           <div class="carousel-item">
-                              <img src="../images/pmi.jpg" alt="Gallery image 3" class="d-block w-100 img-mobile" onclick="openModal();currentSlide(2)" class="hover-shadow cursor">
-                           </div>
-                           <div class="carousel-item">
-                              <img src="../images/latian.jpg" alt="Gallery image 4" class="d-block w-100 img-mobile" onclick="openModal();currentSlide(3)" class="hover-shadow cursor">
-                           </div>
-                           <div class="carousel-item">
-                              <img src="../images/pmi jabar.jpeg" alt="Gallery image 5" class="d-block w-100 img-mobile" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
-                           </div>
+                           <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                              <span class="sr-only">Previous</span>
+                           </a>
+                           <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                              <span class="sr-only">Next</span>
+                           </a>
                         </div>
-                        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-                           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                           <span class="sr-only">Previous</span>
-                        </a>
-                        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-                           <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                           <span class="sr-only">Next</span>
-                        </a>
                      </div>
                   </div>
                </div>
-            </div>
-            <div class="row m-3">
-               <div class="col-md-12">
-                  <div class="artbutton">
-                     <a href="galeri.php"><button class="sumbit">Foto Lainnya</button></a>
+               <div class="row m-3">
+                  <div class="col-md-12">
+                     <div class="artbutton">
+                        <a href="galeri.php"><button class="sumbit">Foto Lainnya</button></a>
+                     </div>
                   </div>
                </div>
             </div>

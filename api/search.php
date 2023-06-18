@@ -1,4 +1,5 @@
-<?php include 'head.php' ?>
+<?php ini_set('session.cache_limiter','public');
+session_cache_limiter(false); include 'head.php'; ?>
 
 <body class="main-layout">
    <!-- loader  -->
@@ -7,8 +8,6 @@
       </div> -->
    <!-- end loader -->
    <?php
-   header("Cache-Control: no cache");
-   session_cache_limiter("private_no_expire");
    $_SESSION['no_page'] = 1;
    include 'navbar.php'; ?>
    <div class="banner_main">

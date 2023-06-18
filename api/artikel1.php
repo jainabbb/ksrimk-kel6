@@ -31,7 +31,7 @@
                            <div class="resume">
                               <p>Pernahkah kamu merasa penat akan segala rutinitas yang kamu lakukan?</p>
                            </div>
-                           <a href="konten artikel 1.php"><button class="sumbit">Lihat Selengkapnya</button></a>
+                           <a href="konten artikel 1.php" class="sumbit visitedart">Lihat Selengkapnya</a>
                         </div>
                      </div>
                      <div class="col-md-4" id="artikel2">
@@ -43,7 +43,7 @@
                            <div class="resume">
                               <p>Pikiran yang positif dan realistis setidaknya dapat membantu kita berpikir lebih jernih sebelum mengambil keputusan.</p>
                            </div>
-                           <a href="konten artikel 2.php"><button class="sumbit">Lihat Selengkapnya</button></a>
+                           <a href="konten artikel 2.php" class="sumbit visitedart">Lihat Selengkapnya</a>
                         </div>
                      </div>
                      <div class="col-md-4" id="artikel3">
@@ -55,7 +55,7 @@
                            <div class="resume">
                               <p>Duduk di depan perangkat digital seperti komputer atau laptop 'seharian' tentunya punya dampak negatif, lho!</p>
                            </div>
-                           <a href="konten artikel 3.php"><button class="sumbit">Lihat Selengkapnya</button></a>
+                           <a href="konten artikel 3.php" class="sumbit visitedart">Lihat Selengkapnya</a>
                         </div>
                      </div>
                   </div>
@@ -69,7 +69,7 @@
                            <div class="resume">
                               <p>Kondisi kesehatan bukan hanya kesehatan fisik namun juga kesehatan mental.</p>
                            </div>
-                           <a href="konten artikel 4.php"><button class="sumbit">Lihat Selengkapnya</button></a>
+                           <a href="konten artikel 4.php" class="sumbit visitedart">Lihat Selengkapnya</a>
                         </div>
                      </div>
                      <div class="col-md-4" id="artikel5">
@@ -81,7 +81,7 @@
                            <div class="resume">
                               <p>COVID-19 adalah penyakit menular yang disebabkan oleh jenis coronavirus yang baru ditemukan.</p>
                            </div>
-                           <a href="konten artikel 5.php"><button class="sumbit">Lihat Selengkapnya</button></a>
+                           <a href="konten artikel 5.php" class="sumbit visitedart">Lihat Selengkapnya</a>
                         </div>
                      </div>
                      <div class="col-md-4" id="artikel6">
@@ -93,7 +93,7 @@
                            <div class="resume">
                               <p>Kinta, sebuah kampung tua di Palu, Sulawesi Tenggara ternyata bertuah. Di kampung itu berdiri 15 rumah saling berhadapan.</p>
                            </div>
-                           <a href="konten artikel 6.php"><button class="sumbit">Lihat Selengkapnya</button></a>
+                           <a href="konten artikel 6.php" class="sumbit visitedart">Lihat Selengkapnya</a>
                         </div>
                      </div>
                   </div>
@@ -107,7 +107,7 @@
                            <div class="resume">
                               <p>Ada tiga elemen yang dapat menentukan kualitas tidur yang baik, yaitu durasi, kontinuitas dan kedalaman.</p>
                            </div>
-                           <a href="konten artikel 7.php"><button class="sumbit">Lihat Selengkapnya</button></a>
+                           <a href="konten artikel 7.php" class="sumbit visitedart">Lihat Selengkapnya</a>
                         </div>
                      </div>
                      <div class="col-md-4" id="artikel8">
@@ -119,7 +119,7 @@
                            <div class="resume">
                               <p>Gempa merupakan salah satu bencana alam yang telah merogoh harta bahkan nyawa manusia.</p>
                            </div>
-                           <a href="konten artikel 8.php"><button class="sumbit">Lihat Selengkapnya</button></a>
+                           <a href="konten artikel 8.php" class="sumbit visitedart">Lihat Selengkapnya</a>
                         </div>
                      </div>
                      <div class="col-md-4" id="artikel9">
@@ -131,7 +131,7 @@
                            <div class="resume">
                               <p>Kebiasaan masyarakat yang sering membuang sampah ke sungai menyebabkan sampah menumpuk di lautan.</p>
                            </div>
-                           <a href="konten artikel 9.php"><button class="sumbit">Lihat Selengkapnya</button></a>
+                           <a href="konten artikel 9.php" class="sumbit visitedart">Lihat Selengkapnya</a>
                         </div>
                      </div>
                   </div>

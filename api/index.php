@@ -81,10 +81,12 @@
                </div>
             </div>
             <div class="opening" style="padding-left: 1.5%; padding-right: 1.5%; margin-bottom: 3%;" id="indexp">
-               <a href="konten pengumuman 1.php">
-                  <h2>Pengumuman Pasca Diklat - OPREC KSR 2022</h2>
-                  <h1>18-11-2022</h1>
-               </a>
+               <h2 class="visited">
+                  <a href="konten pengumuman 1.php">
+                     Pengumuman Pasca Diklat - OPREC KSR 2022
+                  </a>
+               </h2>
+               <h1>18-11-2022</h1>
                <p style="font-weight: bold;">Halo Calon Anggota Muda KSR Angkatan 13!</p>
                <!-- <br> -->
                <p>Selamat sudah melewati Diklat 2 dan Tes Tulis
@@ -131,7 +133,7 @@
                            <div class="resume">
                               <p>Pernahkah kamu merasa penat akan segala rutinitas yang kamu lakukan?</p>
                            </div>
-                           <a href="konten artikel 1.php"><button class="sumbit">Lihat Selengkapnya</button></a>
+                           <a href="konten artikel 1.php" class="sumbit visitedart">Lihat Selengkapnya</a>
                         </div>
                      </div>
                      <div class="col-md-4" id="artikel2">
@@ -143,7 +145,7 @@
                            <div class="resume">
                               <p>Pikiran yang positif dan realistis setidaknya dapat membantu kita berpikir lebih jernih sebelum mengambil keputusan.</p>
                            </div>
-                           <a href="konten artikel 2.php"><button class="sumbit">Lihat Selengkapnya</button></a>
+                           <a href="konten artikel 2.php" class="sumbit visitedart">Lihat Selengkapnya</a>
                         </div>
                      </div>
                      <div class="col-md-4" id="artikel3">
@@ -155,7 +157,7 @@
                            <div class="resume">
                               <p>Duduk di depan perangkat digital seperti komputer atau laptop 'seharian' tentunya punya dampak negatif, lho!</p>
                            </div>
-                           <a href="konten artikel 3.php"><button class="sumbit">Lihat Selengkapnya</button></a>
+                           <a href="konten artikel 3.php" class="sumbit visitedart">Lihat Selengkapnya</a>
                         </div>
                      </div>
                   </div>

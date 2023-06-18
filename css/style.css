@@ -800,6 +800,21 @@ ul.right_icon li img {
      transition-duration: 0s;
 }
 
+.visitedart:visited {
+     background-color: indianred;
+     border-color: indianred;
+}
+
+.visitedart:hover {
+     background-color: chocolate;
+     color: white;
+     border-color: chocolate;
+}
+
+.visitedart {
+     transition-duration: 0s !important;
+}
+
 .iframe-container {
      position: relative;
      margin: 5px;

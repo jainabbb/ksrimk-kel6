@@ -15,7 +15,7 @@
                        <form class="news_form">
                            <input class="letter_form" placeholder=" Masukkan Email Anda" type="text" name="Masukkan Email Anda">
                            <br>
-                           <button class="submit">Subscribe</button>
+                           <button type="button" class="submit" data-toggle="modal" data-target="#cobamyModal">Subscribe</button>
                        </form>
                    </div>
                    <div class="col-md-6 row">
@@ -50,3 +50,25 @@
    <!-- sidebar -->
    <script src="../js/jquery.mCustomScrollbar.concat.min.js"></script>
    <script src="../js/custom.js"></script>
+
+   <!-- Modal -->
+   <div id="cobamyModal" class="modal fade" role="dialog" style="z-index: 999;">
+       <div class="modal-dialog">
+
+           <!-- Modal content-->
+           <div class="modal-content bg-light w-75">
+               <div class="modal-header">
+                   <button type="button" class="close" data-dismiss="modal">&times;</button>
+                   <h4 class="modal-title">Subscribe</h4>
+               </div>
+               <div class="modal-body">
+                   <p>Terima kasih telah subscribe!</p>
+                   <p>Anda akan menerima email mengenai informasi terbaru seputar KSR STIS.</p>
+               </div>
+               <div class="modal-footer">
+                   <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+               </div>
+           </div>
+
+       </div>
+   </div>

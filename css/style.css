@@ -1438,6 +1438,10 @@ margin: 0 15px 20px 15px;
      overflow: auto;
      background-color: rgba(0, 0, 0, 0.9);
    }
+
+   .modal-backdrop {
+     z-index: -1;
+   }
    
    /* Modal Content */
    .modal-content {

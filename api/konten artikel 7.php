@@ -3,7 +3,7 @@ if (!(session_status() === PHP_SESSION_ACTIVE)) {
    session_start();
 }
 $_SESSION['no_page'] = 2;
-$_SESSION['no_artikel'] = 3;
+$_SESSION['no_artikel'] = 7;
 $_SESSION['judul'] = "Pola Hidup Mahasiswa Politeknik Statistika STIS 2019";
 $_SESSION['tanggal'] = "31-08-2019";
 

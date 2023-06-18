@@ -14,7 +14,7 @@ ob_start();
    <h2>Tidur dalam Gelap? Ini Manfaatnya!!</h2>
    <p>20-05-2019</p>
 </div>
-<img src="../images/pmi.jpg" alt="Logo" width="100%" height="100%" id="logo" style="margin-left: 0;">
+<img src="../images/konten artikel 11.jpeg" alt="Logo" width="100%" height="100%" id="logo" style="margin-left: 0;">
 <div class="opening" style="padding-left: 0; padding-right: 0; margin-bottom: 0;" id="konten">
    <p>Setiap hari tubuh manusia selalu melakukan berbagai aktivitas. Dengan berbagai aktifitas yang dijalani pastinya tubuh membutuhkan tenaga yang tidak sedikit, untuk memulihkan tenaga maka perlu istirahat. Rasa kantuk menjadi sinyal bagi tubuh untuk segera beristirahat. Tidur berkualitas sangat penting bagi tubuh. Salah satu cara mendapatkan tidur yang berkualitas adalah dengan <span style="font-weight: 600;">mematikan lampu saat tidur</span>. Selain dapat menghemat listrik, ternyata keadaan gelap saat tidur bermanfaat bagi kesehatan tubuh. Manfaat yang didapat saat tidur dalam keadaan gelap yaitu</p>
    <ol type="1" class="artol">

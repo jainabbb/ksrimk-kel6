@@ -3,7 +3,7 @@ if (!(session_status() === PHP_SESSION_ACTIVE)) {
    session_start();
 }
 $_SESSION['no_page'] = 2;
-$_SESSION['no_artikel'] = 3;
+$_SESSION['no_artikel'] = 9;
 $_SESSION['judul'] = "Save Our Ocean, Plastic Free!";
 $_SESSION['tanggal'] = "19-07-2019";
 

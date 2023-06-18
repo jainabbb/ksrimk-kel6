@@ -5,16 +5,16 @@ if (!(session_status() === PHP_SESSION_ACTIVE)) {
 $_SESSION['no_page'] = 2;
 $_SESSION['no_artikel'] = 12;
 $_SESSION['judul'] = "Diare? Jangan Anggap Sepele!";
-$_SESSION['tanggal'] = "01-01-2023";
+$_SESSION['tanggal'] = "10-04-2019";
 
 ob_start();
 // Menyimpan HTML dalam variabel
 ?>
 <div class="d-none" id="judulart">
    <h2>Diare? Jangan Anggap Sepele!</h2>
-   <p>01-01-2023</p>
+   <p>10-04-2019</p>
 </div>
-<img src="../images/pmi.jpg" alt="Logo" width="100%" height="100%" id="logo" style="margin-left: 0;">
+<img src="../images/konten artikel 12.png" alt="Logo" width="100%" height="100%" id="logo" style="margin-left: 0;">
 <div class="opening" style="padding-left: 0; padding-right: 0; margin-bottom: 0;" id="konten">
    <p>Dilansir dari <span style="font-style: italic">Buletin Diare Kementrian Kesehatan Republik Indonesia</span>, berdasarkan pola penyebab kematian semua umur; Diare merupakan penyebab kematian peringkat ke-13 dengan proporsi 3,5%. Sedangkan berdasarkan penyakit menular, diare merupakan penyebab kematian peringkat ke-3 setelah TB dan Pneumonia.</p>
    <p>Mencengangkan, bukan? penyakit yang sering dianggap sepele ini ternyata berpotensi menjadi penyebab kematian. Tapi jangan khawatir, artikel ini akan membantu Anda mengenal lebih jauh berkaitan dengan penyakit Diare. Yuk, Kepoin!</p>

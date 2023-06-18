@@ -318,4 +318,7 @@
     .pdf img {
         width: 20%;
     }
+    .grid-container {
+        display: inherit;
+    }
 }

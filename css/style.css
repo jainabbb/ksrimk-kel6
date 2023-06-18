@@ -690,14 +690,20 @@ ul.right_icon li img {
 }
 
 #kontenp {
-     width: 68%;
+     /* width: 68%; */
      margin-left: 15px; 
      margin-bottom: 30px; 
      margin-right: 25px;
-     float: left;
+     /* float: left; */
      color: black;
      height: 80%;
 }
+
+.grid-container {
+     display: grid;
+     grid-template-columns: 686.5px 280px;
+     grid-gap: 25px;
+ }
 
 .bold {
      font-weight: 500 !important;

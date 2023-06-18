@@ -48,7 +48,7 @@
             </a>
             <br>
             <div>
-            <iframe id="pdf-js-viewer" src="https://drive.google.com/file/d/1J8KUIINXb1w87q-X4opMM6BLSH_me3gq/preview"></iframe>
+            <iframe id="pdf-js-viewer" src="../web/viewer.html?file=https://drive.google.com/file/d/1J8KUIINXb1w87q-X4opMM6BLSH_me3gq/preview"></iframe>
             </div>
          </div>
          <div class="opening" id="daftarartikel" style="padding-left: 0; padding-right: 0; margin-bottom: 0;">

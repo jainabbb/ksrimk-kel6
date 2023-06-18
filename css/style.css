@@ -1494,7 +1494,8 @@ background-color: #c8ae79;
 }
 
 #location {
-     float: left;
+     margin-right: -50%;
+     float: right;
      height: 150px;
      min-width: 150px;
 
@@ -1802,7 +1803,7 @@ ol p, .artol li {
           overflow: auto;
      }
      .banner_main{
-          margin-top: 10%;
+          margin-top: 12%;
      }
      .title-home{
       text-align: center;
@@ -1904,7 +1905,14 @@ ol p, .artol li {
                z-index: 100;
                /* Gaya lain yang diinginkan untuk navbar */
      }
-     
+
+     #small-icon{
+          font-size: 20px !important;
+     }
+
+     #location {
+          margin-right: 0%;
+     }
 }
    
    @media screen and (min-width: 801px) {

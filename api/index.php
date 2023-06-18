@@ -58,7 +58,7 @@
                   </a>
                </div>
                <div class="col-12 artbutton">
-                  <a href="#pengumuman"><button class="sumbit">Pengumuman terbaru</button></a>
+                  <a href="#pengumuman"><button class="sumbit">Pengumuman terbaru <i class="fa fa-arrow-right" id="small-icon" aria-hidden="true"></i></button></a>
                </div>
             </div>
             <div class="paragraf-justify">

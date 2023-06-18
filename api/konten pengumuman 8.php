@@ -28,7 +28,6 @@
                   <span>Halo anggota muda KSR PMI Unit Polstat STIS angkatan 11. Berikut terlampir ketentuan-ketentuan dan penugasan untuk pelaksanaan </span>
                   <span style="font-weight: bold;">Diklat I</span><span>.</span>
                </div>
-               <br>
                <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/tugas_pradiklat_1_-__angkatan_11.docx" target=”_blank”>
                   <div class="pdf">
                      <img src="../images/pdf.png" alt="unduh">

@@ -38,7 +38,6 @@
                      <br>
                      <p style="font-weight: bold;">Siamo Tutti Fratelli</p>
                   </div>
-                  <br>
                   <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumunan_pra_diklat.pdf" target=”_blank” class="pdf">
                      <img src="../images/pdf.png" alt="unduh">
                      <div class="juduldok pt-2">

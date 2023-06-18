@@ -122,7 +122,7 @@
                </div>
             </div>
             <nav aria-label="Page navigation example">
-               <ul class="pagination justify-content-end">
+               <ul class="pagination justify-content-end paginationart">
                   <!-- <li class="page-item disabled">
                         <a class="page-link" href="#" tabindex="-1">Previous</a>
                      </li> -->

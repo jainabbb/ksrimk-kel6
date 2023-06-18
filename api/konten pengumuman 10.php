@@ -36,7 +36,6 @@
                   <p style="font-weight: bold; font-style: italic">Salam Kemanusiaan,</p>
                   <p style="font-weight: bold; font-style: italic">Siamo Tutti Fratelli!</p>
                </div>
-               <br>
                <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pra_diklat__2020_.pdf" target=”_blank”>
                   <div class="pdf">
                      <img src="../images/pdf.png" alt="unduh">

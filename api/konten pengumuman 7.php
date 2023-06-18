@@ -31,7 +31,6 @@
                   <span style="font-weight: bold;">tugas pradiklat 2</span><span>.</span>
                   <p>Tetap semangat dan jaga kesehatan, sampai jumpa lagi di diklat 2 ^^</p>
                </div>
-               <br>
                <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/tugas_pradiklat_2-_angkatan_11.pdf" target=”_blank”>
                   <div class="pdf">
                      <img src="../images/pdf.png" alt="unduh">

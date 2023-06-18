@@ -22,43 +22,64 @@
                </div>
             </div>
          </div>
-         <div id="kontenp">
-            <div>
-               <p>Hai anggota muda KSR 11. Gimana Diklat 1 nya?, semoga menyenangkan dan tambah semangat ya untuk mengikuti diklat selanjutnya :)
-               </p>
-               <span>Berikut ini adalah lampiran untuk </span>
-               <span style="font-weight: bold;">tugas pradiklat 2</span><span>.</span>
-               <p>Tetap semangat dan jaga kesehatan, sampai jumpa lagi di diklat 2 ^^</p>
-            </div>
-            <br>
-            <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/tugas_pradiklat_2-_angkatan_11.pdf" target=”_blank”>
-               <div class="pdf">
-                  <img src="../images/pdf.png" alt="unduh">
-                  <div class="juduldok pt-2">
-                     <span>tugas_pradiklat_2_ -_angkatan _11.pdf</span> <br>
-                     <span style="color: #c8ae79">Unduh Dokumen</span>
-                  </div>
+         <div class="grid-container">
+            <div id="kontenp">
+               <div>
+                  <p>Hai anggota muda KSR 11. Gimana Diklat 1 nya?, semoga menyenangkan dan tambah semangat ya untuk mengikuti diklat selanjutnya :)
+                  </p>
+                  <span>Berikut ini adalah lampiran untuk </span>
+                  <span style="font-weight: bold;">tugas pradiklat 2</span><span>.</span>
+                  <p>Tetap semangat dan jaga kesehatan, sampai jumpa lagi di diklat 2 ^^</p>
                </div>
-            </a>
-            <br>
-            <iframe class="w-100" height="500" src="https://drive.google.com/file/d/1nxojDAnome_k2QrHtdgssx_TKbgFLExq/preview" allow="autoplay"></iframe>
+               <br>
+               <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/tugas_pradiklat_2-_angkatan_11.pdf" target=”_blank”>
+                  <div class="pdf">
+                     <img src="../images/pdf.png" alt="unduh">
+                     <div class="juduldok pt-2">
+                        <span>tugas_pradiklat_2_ -_angkatan _11.pdf</span> <br>
+                        <span style="color: #c8ae79">Unduh Dokumen</span>
+                     </div>
+                  </div>
+               </a>
+               <br>
+               <div class="iframe-container iframe-container-for-wxh-500x350" style="-webkit-overflow-scrolling: touch; overflow: auto;">
+                  <iframe src="https://drive.google.com/file/d/1nxojDAnome_k2QrHtdgssx_TKbgFLExq/preview"></iframe>
+               </div>
+            </div>
+            <div class="opening" id="daftarartikel" style="padding-left: 0; padding-right: 0; margin-bottom: 0;">
+               <h2>Daftar Pengumuman</h2>
+               <a href="konten pengumuman 1.php">
+                  <p>Pengumuman Pasca Diklat - OPREC KSR 2022</p>
+               </a>
+               <a href="konten pengumuman 2.php">
+                  <p>Pengumuman Pra Diklat - OPREC KSR 2022</p>
+               </a>
+               <a href="konten pengumuman 3.php">
+                  <p>Pengumuman Pasca Diklat - OPREC KSR 2021</p>
+               </a>
+               <a href="konten pengumuman 4.php">
+                  <p>Pengumuman Pra Diklat - OPREC KSR 2021</p>
+               </a>
+               <a href="konten pengumuman 5.php">
+                  <p>Materi Tes Tertulis - OPREC KSR</p>
+               </a>
+               <a href="konten pengumuman 6.php">
+                  <p>Pengumuman Pradiklat 3 - KSR Angkatan 11</p>
+               </a>
+               <a href="konten pengumuman 7.php">
+                  <p>Pengumuman Pradiklat 2 - KSR Angkatan 11</p>
+               </a>
+               <a href="konten pengumuman 8.php">
+                  <p>Pengumuman Pradiklat 1 - KSR Angkatan 11</p>
+               </a>
+               <a href="konten pengumuman 9.php">
+                  <p>Pengumuman Pasca Diklat Calon Anggota KSR Angkatan 11</p>
+               </a>
+               <a href="pengumuman.php">
+                  <p>Pengumuman lainnya...</p>
+               </a>
+            </div>
          </div>
-         <div class="opening" id="daftarartikel" style="padding-left: 0; padding-right: 0; margin-bottom: 0;">
-            <h2>Daftar Pengumuman</h2>
-            <a href="konten pengumuman 1.php"><p>Pengumuman Pasca Diklat - OPREC KSR 2022</p></a>
-                <a href="konten pengumuman 2.php"><p>Pengumuman Pra Diklat - OPREC KSR 2022</p></a>
-                <a href="konten pengumuman 3.php"><p>Pengumuman Pasca Diklat - OPREC KSR 2021</p></a>
-                <a href="konten pengumuman 4.php"><p>Pengumuman Pra Diklat - OPREC KSR 2021</p></a>
-                <a href="konten pengumuman 5.php"><p>Materi Tes Tertulis - OPREC KSR</p></a>
-                <a href="konten pengumuman 6.php"><p>Pengumuman Pradiklat 3 - KSR Angkatan 11</p></a>
-                <a href="konten pengumuman 7.php"><p>Pengumuman Pradiklat 2 - KSR Angkatan 11</p></a>
-                <a href="konten pengumuman 8.php"><p>Pengumuman Pradiklat 1 - KSR Angkatan 11</p></a>
-                <a href="konten pengumuman 9.php"><p>Pengumuman Pasca Diklat Calon Anggota KSR Angkatan 11</p></a>
-            <a href="pengumuman.php">
-               <p>Pengumuman lainnya...</p>
-            </a>
-         </div>
-
       </div>
       <div class="container">
          <div class="row">

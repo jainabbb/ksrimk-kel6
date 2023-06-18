@@ -770,8 +770,12 @@ ul.right_icon li img {
      margin: 0 30px;
 }
 
-.daftarp h2:hover {
+.daftarp h2:hover, #indexp h2:hover {
      color: chocolate;
+}
+
+.daftarp h2, #indexp h2 {
+     transition-duration: 0.3s;
 }
 
 .pdf img {
@@ -780,7 +784,7 @@ ul.right_icon li img {
      /* margin-left: 12px; */
 }
 
-.daftarp .pdf img {
+.daftarp .pdf img, #indexp .pdf img {
      margin-left: 12px;
 }
 
@@ -1303,6 +1307,7 @@ margin: 0 15px 20px 15px;
      z-index: 9999;
      float: right;
      border: 1px solid #B90E0A;
+     transition-duration: 0.3s;
 }
 
 .activeb, .filterb:hover {

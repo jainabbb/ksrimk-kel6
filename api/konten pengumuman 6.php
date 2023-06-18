@@ -34,16 +34,18 @@
                <p>Salam Kemanusiaan,</p>
                <p style="font-style: italic;">Siamo Tutti Fratelli</p>
             </div>
+            <br>
             <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/tugas_pradiklat_3_-_angkatan_11.pdf" target=”_blank”>
                <div class="pdf">
                   <img src="../images/pdf.png" alt="unduh">
-                  <span><br></span>
-                  <span>tugas_pradiklat_3_-_angkatan_11.pdf</span> <br>
-                  <span style="color: #c8ae79">Unduh Dokumen</span>
+                  <div class="juduldok pt-2">
+                     <span>tugas_pradiklat_3_-_angkatan_11.pdf</span> <br>
+                     <span style="color: #c8ae79">Unduh Dokumen</span>
+                  </div>
                </div>
             </a>
             <br>
-            <iframe id="pdf" src="https://www.docdroid.net/GdmbMoz/tugas-pradiklat-3-angkatan-11-pdf" width="800" height="500"></iframe>
+            <iframe class="w-100" height="500" src="https://drive.google.com/file/d/1xNR62QqMJA0KzR5u5L60x2QyaRUo03QR/preview" allow="autoplay"></iframe>
          </div>
          <div class="opening" id="daftarartikel" style="padding-left: 0; padding-right: 0; margin-bottom: 0;">
             <h2>Daftar Pengumuman</h2>

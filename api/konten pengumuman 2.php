@@ -37,14 +37,16 @@
                   <br>
                   <p style="font-weight: bold;">Siamo Tutti Fratelli</p>
                </div>
+               <br>
                <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumunan_pra_diklat.pdf" target=”_blank” class="pdf">
                   <img src="../images/pdf.png" alt="unduh">
-                  <span><br></span>
-                  <span>pengumunan_pra_diklat.pdf</span> <br>
-                  <span style="color: #c8ae79">Unduh Dokumen</span>
+                  <div class="juduldok pt-2">
+                     <span>pengumunan_pra_diklat.pdf</span> <br>
+                     <span style="color: #c8ae79">Unduh Dokumen</span>
+                  </div>
                </a>
                <br><br>
-               <iframe id="pdf" src="https://www.docdroid.net/YhZ2s5t/pengumunan-pra-diklat-pdf" width="800" height="500"></iframe>
+               <iframe src="https://drive.google.com/file/d/1v9eWthP8zFhz4S_JFpJXjcvgPKVvxkYJ/preview" class="w-100" height="500" allow="autoplay"></iframe>
             </div>
          </div>
          <div class="opening" id="daftarartikel" style="padding-left: 0; padding-right: 0; margin-bottom: 0;">

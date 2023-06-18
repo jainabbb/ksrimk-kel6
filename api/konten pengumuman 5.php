@@ -31,16 +31,18 @@
                <br>
                <p style="font-weight: bold;">Siamo Tutti Fratelli</p>
             </div>
+            <br>
             <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/materi_oprec_angkatan_12.pdf" target=”_blank”>
                <div class="pdf">
                   <img src="../images/pdf.png" alt="unduh">
-                  <span><br></span>
-                  <span>materi_oprec_angkatan_12.pdf</span> <br>
-                  <span style="color: #c8ae79">Unduh Dokumen</span>
+                  <div class="juduldok pt-2">
+                     <span>materi_oprec_angkatan_12.pdf</span> <br>
+                     <span style="color: #c8ae79">Unduh Dokumen</span>
+                  </div>
                </div>
             </a>
             <br>
-            <iframe id="pdf" src="https://www.docdroid.net/j63IMxp/materi-oprec-angkatan-12-pdf" width="800" height="500"></iframe>
+            <iframe class="w-100" height="500" src="https://drive.google.com/file/d/1iDKUzkdfWDBU66UmZP3gOhyQ15B2sjH_/preview" allow="autoplay"></iframe>
          </div>
          <div class="opening" id="daftarartikel" style="padding-left: 0; padding-right: 0; margin-bottom: 0;">
             <h2>Daftar Pengumuman</h2>

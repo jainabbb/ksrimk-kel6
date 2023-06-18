@@ -22,7 +22,6 @@
                </div>
             </div>
          </div>
-         <div>
          <div id="kontenp">
             <div>
                <p style="font-weight: bold;">Halo Calon Anggota Muda KSR Angkatan 13!</p>
@@ -37,18 +36,20 @@
                <br>
                <p style="font-weight: bold;">Siamo Tutti Fratelli</p>
             </div>
+            <br>
             <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pasca_diklat.pdf" target=”_blank”>
                <div class="pdf">
                   <img src="../images/pdf.png" alt="unduh" style="margin-left: 0; padding-left: 0">
-                  <span><br></span>
-                  <span>pengumuman_pasca_diklat.pdf</span> <br>
-                  <span style="color: #c8ae79">Buka Dokumen</span>
+                  <div class="juduldok pt-2">
+                     <span>pengumuman_pasca_diklat.pdf</span> <br>
+                     <span style="color: #c8ae79">Unduh Dokumen</span>
+                  </div>
                </div>
             </a>
             <br>
-            <iframe src="https://drive.google.com/file/d/1J8KUIINXb1w87q-X4opMM6BLSH_me3gq/preview" width="685" height="500" allow="autoplay"></iframe>
+            <iframe class="w-100" height="500" src="https://drive.google.com/file/d/1J8KUIINXb1w87q-X4opMM6BLSH_me3gq/preview" allow="autoplay"></iframe>
          </div>
-         <div class="opening" id="daftarartikel" style="float: right; width: 28%; padding-left: 0; padding-right: 0; margin-bottom: 0;">
+         <div class="opening" id="daftarartikel" style="padding-left: 0; padding-right: 0; margin-bottom: 0;">
             <h2>Daftar Pengumuman</h2>
             <a href="konten pengumuman 1.php">
                <p>Pengumuman Pasca Diklat - OPREC KSR 2022</p>
@@ -80,7 +81,6 @@
             <a href="pengumuman.php">
                <p>Pengumuman lainnya...</p>
             </a>
-         </div>
          </div>
 
       </div>

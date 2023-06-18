@@ -30,16 +30,18 @@
                <span style="font-weight: bold;">tugas pradiklat 2</span><span>.</span>
                <p>Tetap semangat dan jaga kesehatan, sampai jumpa lagi di diklat 2 ^^</p>
             </div>
+            <br>
             <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/tugas_pradiklat_2-_angkatan_11.pdf" target=”_blank”>
                <div class="pdf">
                   <img src="../images/pdf.png" alt="unduh">
-                  <span><br></span>
-                  <span>tugas_pradiklat_2_-_angkatan_11.pdf</span> <br>
-                  <span style="color: #c8ae79">Unduh Dokumen</span>
+                  <div class="juduldok pt-2">
+                     <span>tugas_pradiklat_2_ -_angkatan _11.pdf</span> <br>
+                     <span style="color: #c8ae79">Unduh Dokumen</span>
+                  </div>
                </div>
             </a>
             <br>
-            <iframe id="pdf" src="https://www.docdroid.net/3Pszku2/tugas-pradiklat-2-angkatan-11-pdf" width="800" height="500"></iframe>
+            <iframe class="w-100" height="500" src="https://drive.google.com/file/d/1nxojDAnome_k2QrHtdgssx_TKbgFLExq/preview" allow="autoplay"></iframe>
          </div>
          <div class="opening" id="daftarartikel" style="padding-left: 0; padding-right: 0; margin-bottom: 0;">
             <h2>Daftar Pengumuman</h2>

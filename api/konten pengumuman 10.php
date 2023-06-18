@@ -35,16 +35,18 @@
                <p style="font-weight: bold; font-style: italic">Salam Kemanusiaan,</p>
                <p style="font-weight: bold; font-style: italic">Siamo Tutti Fratelli!</p>
             </div>
+            <br>
             <a href="https://ksrpmistis.weebly.com/uploads/1/1/4/0/114042075/pengumuman_pra_diklat__2020_.pdf" target=”_blank”>
                <div class="pdf">
                   <img src="../images/pdf.png" alt="unduh">
-                  <span><br></span>
-                  <span>pengumuman_pra_diklat__2020_.pdf</span> <br>
-                  <span style="color: #c8ae79">Unduh Dokumen</span>
+                  <div class="juduldok pt-2">
+                     <span>pengumuman_pra_diklat_2020_.pdf</span> <br>
+                     <span style="color: #c8ae79">Unduh Dokumen</span>
+                  </div>
                </div>
             </a>
             <br>
-            <iframe id="pdf" src="https://www.docdroid.net/sfqp7mX/pengumuman-pra-diklat-2020-pdf" width="800" height="500"></iframe>
+            <iframe class="w-100" height="500" src="https://drive.google.com/file/d/1V2jJzw65Q76iSnSKg5KEVDoOqiMEopUM/preview" allow="autoplay"></iframe>
          </div>
          <div class="opening" id="daftarartikel" style="padding-left: 0; padding-right: 0; margin-bottom: 0;">
             <h2>Daftar Pengumuman</h2>

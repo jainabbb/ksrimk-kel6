@@ -7,6 +7,7 @@
       </div> -->
    <!-- end loader -->
    <?php
+   header("Cache-Control: no cache");
    $_SESSION['no_page'] = 1;
    include 'navbar.php'; ?>
    <div class="banner_main">
@@ -185,11 +186,6 @@
    <script src="../js/jquery.mCustomScrollbar.concat.min.js"></script>
    <script>
       $('#noresult').hide();
-   </script>
-   <script>
-      if ( window.history.replaceState ) {
-         window.history.replaceState( null, null, window.location.href );
-      }
    </script>
    <script src="../js/custom.js"></script>
 </body>

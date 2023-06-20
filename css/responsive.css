@@ -356,4 +356,7 @@
     .paragraf-justify {
         margin-right: 0;
     }
+    .artlist p {
+        width: 95% !important;
+   }
 }

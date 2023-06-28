@@ -80,7 +80,7 @@
                   </div>
                </div>
             </div>
-            <div class="opening" style="padding-left: 1.5%; padding-right: 1.5%; margin-bottom: 3%;" id="indexp">
+            <div class="opening indexp" style="padding-left: 1.5%; padding-right: 1.5%; margin-bottom: 3%;" id="indexp">
                <h2 class="visited">
                   <a href="konten pengumuman 1.php">
                      Pengumuman Pasca Diklat - OPREC KSR 2022

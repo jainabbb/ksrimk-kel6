@@ -1992,7 +1992,7 @@ ol p, .artol li {
           white-space: nowrap;
           text-align: center;
           font-size: 15px;
-          padding: 3%;
+          /* padding: 3%; */
           margin-right: 0;
           margin-top: 5%;
           /* border-radius: 5px; */

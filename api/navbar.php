@@ -70,7 +70,6 @@ if (!(session_status() === PHP_SESSION_ACTIVE)) {
                     <button type="submit" class="seach_icon"><i class="fa fa-search"></i></button>
                 </form>
             </div>
-            </di>
     </div>
 </div>
 <div class="nav-pc">

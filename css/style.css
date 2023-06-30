@@ -39,7 +39,7 @@ html {
 }
 
 body {
-     color: #666666;
+     color: #000000;
      font-size: 15px;
      font-family: 'Poppins', sans-serif;
      line-height: 1.80857;
@@ -861,7 +861,17 @@ ul.right_icon li img {
      font-weight: normal;
 }
 
-#daftarartikel p:hover {
+#daftarartikel span {
+     color: #c8ae79;
+     font-size: 16px;
+     font-weight: normal;
+}
+
+.rss {
+     padding: 3px 0;
+}
+
+#daftarartikel p:hover, #daftarartikel span:hover {
      color: chocolate;
 }
 
@@ -1487,7 +1497,7 @@ margin: 0 15px 20px 15px;
      width: auto;
      padding: 16px;
      margin-top: -50px;
-     color: white;
+     color: #666666 !important;
      font-weight: bold;
      font-size: 20px;
      transition: 0.6s ease;

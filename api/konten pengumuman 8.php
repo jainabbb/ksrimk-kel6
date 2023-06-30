@@ -74,6 +74,10 @@
                <a href="pengumuman.php">
                   <p>Pengumuman lainnya...</p>
                </a>
+               <a href="https://ksrpmistis.weebly.com/3/feed" target="_blank" class="rss">
+                  <img src="../images/rss feed.png" alt="rss" width="6%">
+                  <span>RSS Feed</span>
+               </a>
             </div>
          </div>
       </div>

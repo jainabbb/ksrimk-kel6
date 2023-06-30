@@ -57,6 +57,10 @@
                         <a href="artikel1.php">
                             <p>Artikel lainnya...</p>
                         </a>
+                        <a href="https://ksrpmistis.weebly.com/1/feed" target="_blank" class="rss">
+                            <img src="../images/rss feed.png" alt="rss" width="6%">
+                            <span>RSS Feed</span>
+                        </a>
                     </div>
                 </div>
             </div>

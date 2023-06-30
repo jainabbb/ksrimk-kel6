@@ -13,7 +13,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="titlepage" id="judulartikel">
-                            <h2><?= $_SESSION['judul'] ?></h2>
+                            <h1><?= $_SESSION['judul'] ?></h1>
                             <p><?= $_SESSION['tanggal'] ?></p>
                         </div>
                     </div>
@@ -25,7 +25,7 @@
                     echo $htmlContent; ?>
                 </div>
                 <div class="col-12 col-md-4 upline">
-                    <div class="opening m-1" id="daftarartikel" style="padding-left: 0; padding-right: 0;">
+                    <div class="opening" id="daftarartikel" style="padding-left: 0; padding-right: 0;">
                         <h2>Daftar Artikel</h2>
                         <a href="konten artikel 1.php">
                             <p>Pentingnya "Me Time" Untuk Kesehatan Psikologis</p>

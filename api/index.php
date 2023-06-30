@@ -17,8 +17,8 @@
                <img src="../images/logo.png" alt="Logo" width="310" height="310" id="logo">
             </div>
             <div class="title-home">
-               <h2>KSR PMI Unit</h2>
-               <h2>Politeknik Statistika STIS</h2>
+               <h1>KSR PMI Unit</h1>
+               <h1>Politeknik Statistika STIS</h1>
             </div>
             <div class="row galeri-mobile">
                <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -76,7 +76,7 @@
             <div class="row">
                <div class="col-md-12">
                   <div class="titlepage">
-                     <h2>Pengumuman</h2>
+                     <h1>Pengumuman</h1>
                   </div>
                </div>
             </div>
@@ -86,7 +86,7 @@
                      Pengumuman Pasca Diklat - OPREC KSR 2022
                   </a>
                </h2>
-               <h1>18-11-2022</h1>
+               <h4>18-11-2022</h4>
                <p style="font-weight: bold;">Halo Calon Anggota Muda KSR Angkatan 13!</p>
                <!-- <br> -->
                <p>Selamat sudah melewati Diklat 2 dan Tes Tulis
@@ -120,7 +120,7 @@
             <div class="row">
                <div class="col-md-12">
                   <div class="titlepage">
-                     <h2>Artikel</h2>
+                     <h1>Artikel</h1>
                   </div>
                </div>
             </div>
@@ -131,7 +131,7 @@
                         <div class="gift_box">
                            <i><img src="../images/artikel 1.png" alt="pmi"></i>
                            <div class="lartikelh1">
-                              <h1>Pentingnya "Me Time" Untuk Kesehatan Psikologis</h1>
+                              <h3>Pentingnya "Me Time" Untuk Kesehatan Psikologis</h3>
                            </div>
                            <div class="resume">
                               <p>Pernahkah kamu merasa penat akan segala rutinitas yang kamu lakukan?</p>
@@ -143,7 +143,7 @@
                         <div class="gift_box">
                            <i><img src="../images/artikel 2.png" alt="pmi"></i>
                            <div class="lartikelh1">
-                              <h1>Menjaga 'Mindset' Sehat di Tengah Pandemi</h1>
+                              <h3>Menjaga 'Mindset' Sehat di Tengah Pandemi</h3>
                            </div>
                            <div class="resume">
                               <p>Pikiran yang positif dan realistis setidaknya dapat membantu kita berpikir lebih jernih sebelum mengambil keputusan.</p>
@@ -155,7 +155,7 @@
                         <div class="gift_box">
                            <i><img src="../images/artikel 3.png" alt="pmi"></i>
                            <div class="lartikelh1">
-                              <h1>Pembelajaran Jarak Jauh Sehat, Bisakah?</h1>
+                              <h3>Pembelajaran Jarak Jauh Sehat, Bisakah?</h3>
                            </div>
                            <div class="resume">
                               <p>Duduk di depan perangkat digital seperti komputer atau laptop 'seharian' tentunya punya dampak negatif, lho!</p>
@@ -178,7 +178,7 @@
             <div class="row">
                <div class="col-md-12">
                   <div class="titlepage">
-                     <h2>Galeri</h2>
+                     <h1>Galeri</h1>
                   </div>
 
                   <div class="gallery galeri-pc">

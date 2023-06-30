@@ -16,7 +16,7 @@
             <div class="row">
                <div class="col-md-12">
                   <div class="titlepage" id="judulartikel">
-                     <h2>Pengumuman Pradiklat 1 - KSR Angkatan 11</h2>
+                     <h1>Pengumuman Pradiklat 1 - KSR Angkatan 11</h1>
                      <p>13-02-2021</p>
                   </div>
                </div>

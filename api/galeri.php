@@ -14,7 +14,7 @@
             <div class="row">
                <div class="col-md-12">
                   <div class="titlepage" id="nonhome">
-                     <h2>Galeri</h2>
+                     <h1>Galeri</h1>
                   </div>
                </div>
             </div>

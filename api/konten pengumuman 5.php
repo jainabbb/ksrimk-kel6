@@ -16,7 +16,7 @@
             <div class="row">
                <div class="col-md-12">
                   <div class="titlepage" id="judulartikel">
-                     <h2>Materi Tes Tertulis - OPREC KSR</h2>
+                     <h1>Materi Tes Tertulis - OPREC KSR</h1>
                      <p>29-12-2021</p>
                   </div>
                </div>

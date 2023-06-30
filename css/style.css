@@ -40,7 +40,7 @@ html {
 
 body {
      color: #666666;
-     font-size: 14px;
+     font-size: 15px;
      font-family: 'Poppins', sans-serif;
      line-height: 1.80857;
      font-weight: normal;
@@ -79,27 +79,27 @@ h6 {
 }
 
 h1 {
-     font-size: 24px;
+     font-size: 35px;
 }
 
 h2 {
-     font-size: 18px;
+     font-size: 24px;
 }
 
 h3 {
-     font-size: 18px;
+     font-size: 20px;
 }
 
 h4 {
-     font-size: 16px
+     font-size: 18px;
 }
 
 h5 {
-     font-size: 14px
+     font-size: 16px;
 }
 
 h6 {
-     font-size: 13px
+     font-size: 13px;
 }
 
 *,
@@ -651,24 +651,19 @@ ul.right_icon li img {
      }
 }
 
-.titlepage h2, .opening h2, .gift_box h1, #adar, #adap, .daftarp h2 a {
+.titlepage h1, .opening h1, .opening h2, .gift_box h3, #adar, #adap, .daftarp h2 a {
      color: #B90E0A;
      line-height: 40px;
      font-weight: bold;
      padding: 0;
 }
 
-.titlepage h2, .opening h2 {
-     font-size: 35px;
-}
-
 .opening h2 {
      padding-bottom: 10px;
 }
 
-.opening h1 {
+.opening h4 {
      color: #c8ae79;
-     font-size: 18px;
      font-weight: normal;
 }
 
@@ -771,7 +766,7 @@ ul.right_icon li img {
      margin: 0 30px;
 }
 
-#about h1, .daftarp h1, #indexp h1, #tentang h1 {
+#about h1, .daftarp h4, #indexp h4, #tentang h1 {
      margin: 0 30px;
 }
 
@@ -868,10 +863,6 @@ ul.right_icon li img {
 
 #daftarartikel p:hover {
      color: chocolate;
-}
-
-#daftarartikel h2 {
-     font-size: 25px;
 }
 
 .linkul a {
@@ -1242,7 +1233,7 @@ margin: 0 15px 20px 15px;
      text-align: center;
 }
 
-#nonhome h2, #nonhome p {
+#nonhome h1, #nonhome p {
      text-align: left;
      /* margin-left: 30px; */
 }
@@ -1550,12 +1541,11 @@ margin: 0 15px 20px 15px;
      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
    }
 
-.gift_box h1, .gift_box p {
+.gift_box h3, .gift_box p {
      margin: 0 10px 0;
 }
 
-.gift_box h1 {
-     font-size: 20px;
+.gift_box h3 {
      line-height: 28px;
      margin: 5px 10px;
      /* text-align: justify; */

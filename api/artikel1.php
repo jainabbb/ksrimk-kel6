@@ -15,7 +15,7 @@
             <div class="row">
                <div class="col-md-12">
                   <div class="titlepage" id="nonhome">
-                     <h2>Daftar Artikel</h2>
+                     <h1>Daftar Artikel</h1>
                   </div>
                </div>
             </div>
@@ -26,7 +26,7 @@
                         <div class="gift_box">
                            <i><img src="../images/artikel 1.png" alt="pmi"></i>
                            <div class="lartikelh1">
-                              <h1>Pentingnya "Me Time" Untuk Kesehatan Psikologis</h1>
+                              <h3>Pentingnya "Me Time" Untuk Kesehatan Psikologis</h3>
                            </div>
                            <div class="resume">
                               <p>Pernahkah kamu merasa penat akan segala rutinitas yang kamu lakukan?</p>
@@ -38,7 +38,7 @@
                         <div class="gift_box">
                            <i><img src="../images/artikel 2.png" alt="pmi"></i>
                            <div class="lartikelh1">
-                              <h1>Menjaga 'Mindset' Sehat di Tengah Pandemi</h1>
+                              <h3>Menjaga 'Mindset' Sehat di Tengah Pandemi</h3>
                            </div>
                            <div class="resume">
                               <p>Pikiran yang positif dan realistis setidaknya dapat membantu kita berpikir lebih jernih sebelum mengambil keputusan.</p>
@@ -50,7 +50,7 @@
                         <div class="gift_box">
                            <i><img src="../images/artikel 3.png" alt="pmi"></i>
                            <div class="lartikelh1">
-                              <h1>Pembelajaran Jarak Jauh Sehat, Bisakah?</h1>
+                              <h3>Pembelajaran Jarak Jauh Sehat, Bisakah?</h3>
                            </div>
                            <div class="resume">
                               <p>Duduk di depan perangkat digital seperti komputer atau laptop 'seharian' tentunya punya dampak negatif, lho!</p>
@@ -64,7 +64,7 @@
                         <div class="gift_box">
                            <i><img src="../images/artikel 4.png" alt="pmi"></i>
                            <div class="lartikelh1">
-                              <h1>Gangguan Kesehatan Mental</h1>
+                              <h3>Gangguan Kesehatan Mental</h3>
                            </div>
                            <div class="resume">
                               <p>Kondisi kesehatan bukan hanya kesehatan fisik namun juga kesehatan mental.</p>
@@ -76,7 +76,7 @@
                         <div class="gift_box">
                            <i><img src="../images/artikel 5.png" alt="pmi"></i>
                            <div class="lartikelh1">
-                              <h1>Yuk Kenal Lebih Dekat Dengan COVID-19</h1>
+                              <h3>Yuk Kenal Lebih Dekat Dengan COVID-19</h3>
                            </div>
                            <div class="resume">
                               <p>COVID-19 adalah penyakit menular yang disebabkan oleh jenis coronavirus yang baru ditemukan.</p>
@@ -88,7 +88,7 @@
                         <div class="gift_box">
                            <i><img src="../images/artikel 6.png" alt="pmi"></i>
                            <div class="lartikelh1">
-                              <h1>Tetua Berkata, Budak Bertindak</h1>
+                              <h3>Tetua Berkata, Budak Bertindak</h3>
                            </div>
                            <div class="resume">
                               <p>Kinta, sebuah kampung tua di Palu, Sulawesi Tenggara ternyata bertuah. Di kampung itu berdiri 15 rumah saling berhadapan.</p>
@@ -102,7 +102,7 @@
                         <div class="gift_box">
                            <i><img src="../images/artikel 7.png" alt="pmi"></i>
                            <div class="lartikelh1">
-                              <h1>Pola Hidup Mahasiswa Politeknik Statistika STIS 2019</h1>
+                              <h3>Pola Hidup Mahasiswa Politeknik Statistika STIS 2019</h3>
                            </div>
                            <div class="resume">
                               <p>Ada tiga elemen yang dapat menentukan kualitas tidur yang baik, yaitu durasi, kontinuitas dan kedalaman.</p>
@@ -114,7 +114,7 @@
                         <div class="gift_box">
                            <i><img src="../images/artikel 8.png" alt="pmi"></i>
                            <div class="lartikelh1">
-                              <h1>Gempa Bumi? Jangan Panik!</h1>
+                              <h3>Gempa Bumi? Jangan Panik!</h3>
                            </div>
                            <div class="resume">
                               <p>Gempa merupakan salah satu bencana alam yang telah merogoh harta bahkan nyawa manusia.</p>
@@ -126,7 +126,7 @@
                         <div class="gift_box">
                            <i><img src="../images/artikel 9.png" alt="pmi"></i>
                            <div class="lartikelh1">
-                              <h1>Save Our Ocean, Plastic Free!</h1>
+                              <h3>Save Our Ocean, Plastic Free!</h3>
                            </div>
                            <div class="resume">
                               <p>Kebiasaan masyarakat yang sering membuang sampah ke sungai menyebabkan sampah menumpuk di lautan.</p>

@@ -14,7 +14,7 @@
             <div class="row">
                <div class="col-md-12">
                   <div class="titlepage" id="nonhome">
-                     <h2>Daftar Pengumuman</h2>
+                     <h1>Daftar Pengumuman</h1>
                   </div>
                </div>
             </div>
@@ -25,7 +25,7 @@
                         Pengumuman Pasca Diklat - OPREC KSR 2022
                      </a>
                   </h2>
-                  <h1>18-11-2022</h1>
+                  <h4>18-11-2022</h4>
                   <p style="font-weight: bold;">Halo Calon Anggota Muda KSR Angkatan 13!</p>
                   <!-- <br> -->
                   <p>Selamat sudah melewati Diklat 2 dan Tes Tulis
@@ -53,7 +53,7 @@
                         Pengumuman Pra Diklat - OPREC KSR 2022
                      </a>
                   </h2>
-                  <h1>13-11-2022</h1>
+                  <h4>13-11-2022</h4>
                   <p style="font-weight: bold;">Halo Calon Anggota Muda KSR Angkatan 13!</p>
                   <!-- <br> -->
                   <p>Bentar lagi Oprec Tahap 1 KSR Angkatan 13 akan dimulai.
@@ -83,7 +83,7 @@
                         Pengumuman Pasca Diklat - OPREC KSR 2021
                      </a>
                   </h2>
-                  <h1>01-01-2022</h1>
+                  <h4>01-01-2022</h4>
                   <p style="font-weight: bold;">Halo Calon Anggota Muda KSR Angkatan 12!</p>
                   <!-- <br> -->
                   <p>Selamat yaa sudah melewati diklat hari ini, empat jempol buat kalian.</p>
@@ -112,7 +112,7 @@
                         Pengumuman Pra Diklat - OPREC KSR 2021
                      </a>
                   </h2>
-                  <h1>01-01-2022</h1>
+                  <h4>01-01-2022</h4>
                   <p style="font-weight: bold;">Halo Calon Anggota Muda KSR Angkatan 12!</p>
                   <!-- <br> -->
                   <p>Selamat yaa telah melewati tes tertulis, gimana nih semangatnya masih tetap full kan yaa? </p>
@@ -138,7 +138,7 @@
                         Materi Tes Tertulis - OPREC KSR
                      </a>
                   </h2>
-                  <h1>29-12-2021</h1>
+                  <h4>29-12-2021</h4>
                   <p>Tes Tertulis Kurang Tiga Hari Lagiiii</p>
                   <p>Tenang gaiss, kami udah siapin nutrisi yang akan menemani kalian tiga hari ke depan supaya kalian siap menghadapi tes tertulis nanti</p>
                   <p>Oke, cuss langsung diunduh dan dipelajari materinya yaa!</p>

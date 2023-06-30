@@ -17,7 +17,7 @@
             <div class="row">
                <div class="col-md-12">
                   <div class="titlepage" id="judulartikel">
-                     <h2>Pengumuman Pasca Diklat - OPREC KSR 2021</h2>
+                     <h1>Pengumuman Pasca Diklat - OPREC KSR 2021</h1>
                      <p>01-01-2022</p>
                   </div>
                </div>

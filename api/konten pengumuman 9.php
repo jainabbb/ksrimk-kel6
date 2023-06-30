@@ -16,7 +16,7 @@
             <div class="row">
                <div class="col-md-12">
                   <div class="titlepage" id="judulartikel">
-                     <h2>Pengumuman Pasca Diklat Calon Anggota KSR Angkatan 11</h2>
+                     <h1>Pengumuman Pasca Diklat Calon Anggota KSR Angkatan 11</h1>
                      <p>16-12-2020</p>
                   </div>
                </div>

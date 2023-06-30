@@ -20,7 +20,7 @@
             <div class="row">
                <div class="col-md-12">
                   <div class="titlepage">
-                     <h2 id="judulsearch">Hasil Pencarian</h2>
+                     <h1 id="judulsearch">Hasil Pencarian</h1>
                   </div>
                </div>
             </div>

@@ -15,7 +15,7 @@
             <div class="row">
                <div class="col-md-12">
                   <div class="titlepage" id="nonhome">
-                     <h2>Daftar Artikel</h2>
+                     <h1>Daftar Artikel</h1>
                   </div>
                </div>
             </div>
@@ -25,7 +25,7 @@
                      <div class="col-md-4" id="artikel10">
                         <div class="gift_box">
                            <i><img src="../images/artikel 10.png" alt="pmi"></i>
-                           <div class="lartikelh1"><h1>Tubuh Ideal Setelah Hari Raya? Why Not?!</h1></div>
+                           <div class="lartikelh1"><h3>Tubuh Ideal Setelah Hari Raya? Why Not?!</h3></div>
                            <div class="resume"><p>Berikut hal yang harus diperhatikan agar kita tetap memiliki tubuh yang ideal usai hari raya.</p></div>
                            <a href="konten artikel 10.php" class="sumbit visitedart">Lihat Selengkapnya</a>
                         </div>
@@ -33,7 +33,7 @@
                      <div class="col-md-4" id="artikel11">
                         <div class="gift_box">
                            <i><img src="../images/artikel 11.png" alt="pmi"></i>
-                           <div class="lartikelh1"><h1>Tidur dalam Gelap? Ini Manfaatnya!!</h1></div>
+                           <div class="lartikelh1"><h3>Tidur dalam Gelap? Ini Manfaatnya!!</h3></div>
                            <div class="resume"><p>Selain dapat menghemat listrik, ternyata keadaan gelap saat tidur bermanfaat bagi kesehatan tubuh.</p></div>
                            <a href="konten artikel 11.php" class="sumbit visitedart">Lihat Selengkapnya</a>
                         </div>
@@ -41,7 +41,7 @@
                      <div class="col-md-4" id="artikel12">
                         <div class="gift_box">
                            <i><img src="../images/artikel 12.png" alt="pmi"></i>
-                           <div class="lartikelh1"><h1>Diare? Jangan Anggap Sepele!</h1></div>
+                           <div class="lartikelh1"><h3>Diare? Jangan Anggap Sepele!</h3></div>
                            <div class="resume"><p>Berdasarkan penyakit menular, diare merupakan penyebab kematian peringkat ke-3 setelah TB dan Pneumonia.</p></div>
                            <a href="konten artikel 12.php" class="sumbit visitedart">Lihat Selengkapnya</a>
                         </div>
@@ -51,7 +51,7 @@
                      <div class="col-md-4" id="artikel13">
                         <div class="gift_box">
                            <i><img src="../images/artikel 13.png" alt="pmi"></i>
-                           <div class="lartikelh1"><h1>Anak Kost Anti Sakit</h1></div>
+                           <div class="lartikelh1"><h3>Anak Kost Anti Sakit</h3></div>
                            <div class="resume"><p>Ada beberapa yang perlu kamu perhatikan saat berada di tanah rantau yang jauh dari keluarga.</p></div>
                            <a href="konten artikel 13.php" class="sumbit visitedart">Lihat Selengkapnya</a>
                         </div>
@@ -60,7 +60,7 @@
                         <div class="gift_box">
                            <i><img src="../images/artikel 14.png" alt="pmi"></i>
                            <div class="lartikelh1">
-                              <h1>Tips Menjaga Kesehatan Mata di Depan Layar</h1>
+                              <h3>Tips Menjaga Kesehatan Mata di Depan Layar</h3>
                            </div>
                            <div class="resume">
                               <p>Berikut ini 10 tips untuk tetap menjaga kesehatan mata saat sedang bekerja di depan layar.</p>
@@ -72,7 +72,7 @@
                         <div class="gift_box">
                            <i><img src="../images/artikel 15.png" alt="pmi"></i>
                            <div class="lartikelh1">
-                              <h1>Insomnia</h1>
+                              <h3>Insomnia</h3>
                            </div>
                            <div class="resume">
                               <p>Terbiasa tidur larut malam selama beberapa pekan bisa menganggu siklus tidur kita.</p>
@@ -86,7 +86,7 @@
                         <div class="gift_box">
                            <i><img src="../images/artikel 16.png" alt="pmi"></i>
                            <div class="lartikelh1">
-                              <h1>Mudik Sehat dan Nyaman</h1>
+                              <h3>Mudik Sehat dan Nyaman</h3>
                            </div>
                            <div class="resume">
                               <p>Kesehatan tubuh selama mudik harus dijaga agar perjalanan lancar dan sampai kampung halaman dengan selamat.</p>
@@ -98,7 +98,7 @@
                         <div class="gift_box">
                            <i><img src="../images/artikel 17.png" alt="pmi"></i>
                            <div class="lartikelh1">
-                              <h1>Tidur di Lantai dengan Paparan Kipas Angin</h1>
+                              <h3>Tidur di Lantai dengan Paparan Kipas Angin</h3>
                            </div>
                            <div class="resume">
                               <p>Tidur di lantai dengan ditemani kipas angin itu berpengaruh buruk bagi kesehatan.</p>
@@ -110,7 +110,7 @@
                         <div class="gift_box">
                            <i><img src="../images/artikel 18.png" alt="pmi"></i>
                            <div class="lartikelh1">
-                              <h1>Migrain? Jangan Biarkan!!!</h1>
+                              <h3>Migrain? Jangan Biarkan!!!</h3>
                            </div>
                            <div class="resume">
                               <p>Sakit kepala sebelah berdenyut yang disertai dengan mual dan muntah dalam waktu lama adalah gejala migrain.</p>

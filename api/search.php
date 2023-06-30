@@ -27,9 +27,9 @@
          </div>
          <div style="padding-left: 0; padding-right: 0; margin-bottom: 0;">
             <div id="myBtnContainer">
-               <button value="all" class="sumbit filterb float-none py-1 px-3 m-0 activeb">Semua</button>
-               <button value="filterar" class="sumbit filterb float-none py-1 px-3 m-0">Artikel</button>
-               <button value="filterp" class="sumbit filterb float-none py-1 px-3 m-0">Pengumuman</button>
+               <button value="all" class="sumbit filterb float-none m-0 activeb">Semua</button>
+               <button value="filterar" class="sumbit filterb float-none m-0">Artikel</button>
+               <button value="filterp" class="sumbit filterb float-none m-0">Pengumuman</button>
             </div>
             <div id="filterar" class="mt-3">
                <div class="" style="padding-bottom: 0" id="daftarar">

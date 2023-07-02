@@ -4,8 +4,8 @@ Prototype Redesign Website KSR PMI Unit Politeknik Statistika STIS
 
 ## Link Website
 
-Website yang diredesign bisa dilihat di https://ksrimk-kel6.vercel.app/api/
-Website asli bisa dilihat di https://ksrpmistis.weebly.com/
+* Website yang diredesign bisa dilihat di https://ksrimk-kel6.vercel.app/api/
+* Website asli bisa dilihat di https://ksrpmistis.weebly.com/
 
 ## Penyusun
 
